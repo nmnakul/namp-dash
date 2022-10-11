@@ -1,0 +1,4882 @@
+[
+ {
+   "State": "West Bengal",
+   "City": "Barrackpore",
+   "NoOfLocationsUsed": 3,
+   "Readings": 305,
+   "IdealReadings": 312,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 106
+ },
+ {
+   "State": "West Bengal",
+   "City": "Barrackpore",
+   "NoOfLocationsUsed": 3,
+   "Readings": 312,
+   "IdealReadings": 312,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 108
+ },
+ {
+   "State": "West Bengal",
+   "City": "Barrackpore",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": null
+ },
+ {
+   "State": "West Bengal",
+   "City": "Barrackpore",
+   "NoOfLocationsUsed": 4,
+   "Readings": 312,
+   "IdealReadings": 416,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 90
+ },
+ {
+   "State": "West Bengal",
+   "City": "Haldia",
+   "NoOfLocationsUsed": 4,
+   "Readings": 416,
+   "IdealReadings": 416,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 103
+ },
+ {
+   "State": "West Bengal",
+   "City": "Haldia",
+   "NoOfLocationsUsed": 4,
+   "Readings": 416,
+   "IdealReadings": 416,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 99
+ },
+ {
+   "State": "West Bengal",
+   "City": "Haldia",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": null
+ },
+ {
+   "State": "West Bengal",
+   "City": "Haldia",
+   "NoOfLocationsUsed": 4,
+   "Readings": 416,
+   "IdealReadings": 416,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 97
+ },
+ {
+   "State": "West Bengal",
+   "City": "Howrah",
+   "NoOfLocationsUsed": 3,
+   "Readings": 312,
+   "IdealReadings": 312,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 119
+ },
+ {
+   "State": "West Bengal",
+   "City": "Howrah",
+   "NoOfLocationsUsed": 4,
+   "Readings": 584,
+   "IdealReadings": 416,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 179
+ },
+ {
+   "State": "West Bengal",
+   "City": "Howrah",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": null
+ },
+ {
+   "State": "West Bengal",
+   "City": "Howrah",
+   "NoOfLocationsUsed": 4,
+   "Readings": 416,
+   "IdealReadings": 416,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 110
+ },
+ {
+   "State": "West Bengal",
+   "City": "Kolkata",
+   "NoOfLocationsUsed": 9,
+   "Readings": 886,
+   "IdealReadings": 936,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 113
+ },
+ {
+   "State": "West Bengal",
+   "City": "Kolkata",
+   "NoOfLocationsUsed": 21,
+   "Readings": 2833,
+   "IdealReadings": 2184,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 144
+ },
+ {
+   "State": "West Bengal",
+   "City": "Kolkata",
+   "NoOfLocationsUsed": 12,
+   "Readings": 85,
+   "IdealReadings": 1248,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": 66
+ },
+ {
+   "State": "West Bengal",
+   "City": "Kolkata",
+   "NoOfLocationsUsed": 19,
+   "Readings": 1972,
+   "IdealReadings": 1976,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 120
+ },
+ {
+   "State": "West Bengal",
+   "City": "Raniganj",
+   "NoOfLocationsUsed": 3,
+   "Readings": 312,
+   "IdealReadings": 312,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 214
+ },
+ {
+   "State": "West Bengal",
+   "City": "Raniganj",
+   "NoOfLocationsUsed": 3,
+   "Readings": 312,
+   "IdealReadings": 312,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 147
+ },
+ {
+   "State": "West Bengal",
+   "City": "Raniganj",
+   "NoOfLocationsUsed": 1,
+   "Readings": 9,
+   "IdealReadings": 104,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": 220
+ },
+ {
+   "State": "West Bengal",
+   "City": "Raniganj",
+   "NoOfLocationsUsed": 4,
+   "Readings": 414,
+   "IdealReadings": 416,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 165
+ },
+ {
+   "State": "West Bengal",
+   "City": "Durgapur",
+   "NoOfLocationsUsed": 4,
+   "Readings": 414,
+   "IdealReadings": 416,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 196
+ },
+ {
+   "State": "West Bengal",
+   "City": "Durgapur",
+   "NoOfLocationsUsed": 4,
+   "Readings": 416,
+   "IdealReadings": 416,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 141
+ },
+ {
+   "State": "West Bengal",
+   "City": "Durgapur",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": null
+ },
+ {
+   "State": "West Bengal",
+   "City": "Durgapur",
+   "NoOfLocationsUsed": 4,
+   "Readings": 415,
+   "IdealReadings": 416,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 155
+ },
+ {
+   "State": "West Bengal",
+   "City": "Asansol",
+   "NoOfLocationsUsed": 3,
+   "Readings": 295,
+   "IdealReadings": 312,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 211
+ },
+ {
+   "State": "West Bengal",
+   "City": "Asansol",
+   "NoOfLocationsUsed": 3,
+   "Readings": 321,
+   "IdealReadings": 312,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 128
+ },
+ {
+   "State": "West Bengal",
+   "City": "Asansol",
+   "NoOfLocationsUsed": 2,
+   "Readings": 15,
+   "IdealReadings": 208,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": 234
+ },
+ {
+   "State": "West Bengal",
+   "City": "Asansol",
+   "NoOfLocationsUsed": 3,
+   "Readings": 312,
+   "IdealReadings": 312,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 163
+ },
+ {
+   "State": "Uttarakhand",
+   "City": "Kashipur",
+   "NoOfLocationsUsed": 1,
+   "Readings": 98,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 126
+ },
+ {
+   "State": "Uttarakhand",
+   "City": "Kashipur",
+   "NoOfLocationsUsed": 1,
+   "Readings": 96,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 105
+ },
+ {
+   "State": "Uttarakhand",
+   "City": "Kashipur",
+   "NoOfLocationsUsed": 0,
+   "Readings": 15,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": 120
+ },
+ {
+   "State": "Uttarakhand",
+   "City": "Kashipur",
+   "NoOfLocationsUsed": 1,
+   "Readings": 96,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 111
+ },
+ {
+   "State": "Uttarakhand",
+   "City": "Rishikesh",
+   "NoOfLocationsUsed": 1,
+   "Readings": 85,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 119
+ },
+ {
+   "State": "Uttarakhand",
+   "City": "Rishikesh",
+   "NoOfLocationsUsed": 1,
+   "Readings": 83,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 133
+ },
+ {
+   "State": "Uttarakhand",
+   "City": "Rishikesh",
+   "NoOfLocationsUsed": 0,
+   "Readings": 17,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": 141
+ },
+ {
+   "State": "Uttarakhand",
+   "City": "Rishikesh",
+   "NoOfLocationsUsed": 1,
+   "Readings": 85,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 128
+ },
+ {
+   "State": "Uttarakhand",
+   "City": "Dehradun",
+   "NoOfLocationsUsed": 3,
+   "Readings": 71.33,
+   "IdealReadings": 312,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 241
+ },
+ {
+   "State": "Uttarakhand",
+   "City": "Dehradun",
+   "NoOfLocationsUsed": 3,
+   "Readings": 180,
+   "IdealReadings": 312,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 217
+ },
+ {
+   "State": "Uttarakhand",
+   "City": "Dehradun",
+   "NoOfLocationsUsed": 0,
+   "Readings": 40,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": 166
+ },
+ {
+   "State": "Uttarakhand",
+   "City": "Dehradun",
+   "NoOfLocationsUsed": 3,
+   "Readings": 135,
+   "IdealReadings": 312,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 248
+ },
+ {
+   "State": "Uttar Pradesh",
+   "City": "Jhansi",
+   "NoOfLocationsUsed": 2,
+   "Readings": 222,
+   "IdealReadings": 208,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 116
+ },
+ {
+   "State": "Uttar Pradesh",
+   "City": "Jhansi",
+   "NoOfLocationsUsed": 2,
+   "Readings": 238,
+   "IdealReadings": 208,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 96
+ },
+ {
+   "State": "Uttar Pradesh",
+   "City": "Jhansi",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": null
+ },
+ {
+   "State": "Uttar Pradesh",
+   "City": "Jhansi",
+   "NoOfLocationsUsed": 2,
+   "Readings": 206,
+   "IdealReadings": 208,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 113
+ },
+ {
+   "State": "Uttar Pradesh",
+   "City": "Allahabad",
+   "NoOfLocationsUsed": 5,
+   "Readings": 532,
+   "IdealReadings": 520,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 195
+ },
+ {
+   "State": "Uttar Pradesh",
+   "City": "Allahabad",
+   "NoOfLocationsUsed": 5,
+   "Readings": 535,
+   "IdealReadings": 520,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 231
+ },
+ {
+   "State": "Uttar Pradesh",
+   "City": "Allahabad",
+   "NoOfLocationsUsed": 5,
+   "Readings": 261,
+   "IdealReadings": 520,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": 219
+ },
+ {
+   "State": "Uttar Pradesh",
+   "City": "Allahabad",
+   "NoOfLocationsUsed": 5,
+   "Readings": 546,
+   "IdealReadings": 520,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 140
+ },
+ {
+   "State": "Uttar Pradesh",
+   "City": "Rai Bareilly",
+   "NoOfLocationsUsed": 3,
+   "Readings": 255,
+   "IdealReadings": 312,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 141
+ },
+ {
+   "State": "Uttar Pradesh",
+   "City": "Rai Bareilly",
+   "NoOfLocationsUsed": 2,
+   "Readings": 209,
+   "IdealReadings": 208,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 233
+ },
+ {
+   "State": "Uttar Pradesh",
+   "City": "Rai Bareilly",
+   "NoOfLocationsUsed": 3,
+   "Readings": 41,
+   "IdealReadings": 312,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": 115
+ },
+ {
+   "State": "Uttar Pradesh",
+   "City": "Rai Bareilly",
+   "NoOfLocationsUsed": 3,
+   "Readings": 224,
+   "IdealReadings": 312,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 141
+ },
+ {
+   "State": "Uttar Pradesh",
+   "City": "Anpara/ Sonbhadra",
+   "NoOfLocationsUsed": 2,
+   "Readings": 163,
+   "IdealReadings": 208,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 132
+ },
+ {
+   "State": "Uttar Pradesh",
+   "City": "Anpara/ Sonbhadra",
+   "NoOfLocationsUsed": 2,
+   "Readings": 196,
+   "IdealReadings": 208,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 191
+ },
+ {
+   "State": "Uttar Pradesh",
+   "City": "Anpara/ Sonbhadra",
+   "NoOfLocationsUsed": 2,
+   "Readings": 49,
+   "IdealReadings": 208,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": 151
+ },
+ {
+   "State": "Uttar Pradesh",
+   "City": "Anpara/ Sonbhadra",
+   "NoOfLocationsUsed": 2,
+   "Readings": 162,
+   "IdealReadings": 208,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 154
+ },
+ {
+   "State": "Uttar Pradesh",
+   "City": "Agra",
+   "NoOfLocationsUsed": 6,
+   "Readings": 805,
+   "IdealReadings": 624,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 198
+ },
+ {
+   "State": "Uttar Pradesh",
+   "City": "Agra",
+   "NoOfLocationsUsed": 6,
+   "Readings": 812,
+   "IdealReadings": 624,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 209
+ },
+ {
+   "State": "Uttar Pradesh",
+   "City": "Agra",
+   "NoOfLocationsUsed": 0,
+   "Readings": 15,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": 85
+ },
+ {
+   "State": "Uttar Pradesh",
+   "City": "Agra",
+   "NoOfLocationsUsed": 6,
+   "Readings": 657,
+   "IdealReadings": 624,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 185
+ },
+ {
+   "State": "Uttar Pradesh",
+   "City": "Bareilly",
+   "NoOfLocationsUsed": 2,
+   "Readings": 104,
+   "IdealReadings": 208,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 253
+ },
+ {
+   "State": "Uttar Pradesh",
+   "City": "Bareilly",
+   "NoOfLocationsUsed": 2,
+   "Readings": 209,
+   "IdealReadings": 208,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 233
+ },
+ {
+   "State": "Uttar Pradesh",
+   "City": "Bareilly",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": null
+ },
+ {
+   "State": "Uttar Pradesh",
+   "City": "Bareilly",
+   "NoOfLocationsUsed": 2,
+   "Readings": 104,
+   "IdealReadings": 208,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 195
+ },
+ {
+   "State": "Uttar Pradesh",
+   "City": "Gajraula",
+   "NoOfLocationsUsed": 2,
+   "Readings": 200,
+   "IdealReadings": 208,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 193
+ },
+ {
+   "State": "Uttar Pradesh",
+   "City": "Gajraula",
+   "NoOfLocationsUsed": 2,
+   "Readings": 199,
+   "IdealReadings": 208,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 225
+ },
+ {
+   "State": "Uttar Pradesh",
+   "City": "Gajraula",
+   "NoOfLocationsUsed": 0,
+   "Readings": 3,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": 211
+ },
+ {
+   "State": "Uttar Pradesh",
+   "City": "Gajraula",
+   "NoOfLocationsUsed": 2,
+   "Readings": 190,
+   "IdealReadings": 208,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 207
+ },
+ {
+   "State": "Uttar Pradesh",
+   "City": "Khurja",
+   "NoOfLocationsUsed": 2,
+   "Readings": 178,
+   "IdealReadings": 208,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 216
+ },
+ {
+   "State": "Uttar Pradesh",
+   "City": "Khurja",
+   "NoOfLocationsUsed": 2,
+   "Readings": 171,
+   "IdealReadings": 208,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 214
+ },
+ {
+   "State": "Uttar Pradesh",
+   "City": "Khurja",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": null
+ },
+ {
+   "State": "Uttar Pradesh",
+   "City": "Khurja",
+   "NoOfLocationsUsed": 2,
+   "Readings": 184,
+   "IdealReadings": 208,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 209
+ },
+ {
+   "State": "Uttar Pradesh",
+   "City": "Noida",
+   "NoOfLocationsUsed": 2,
+   "Readings": 175,
+   "IdealReadings": 208,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 176
+ },
+ {
+   "State": "Uttar Pradesh",
+   "City": "Noida",
+   "NoOfLocationsUsed": 2,
+   "Readings": 180,
+   "IdealReadings": 208,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 264
+ },
+ {
+   "State": "Uttar Pradesh",
+   "City": "Noida",
+   "NoOfLocationsUsed": 0,
+   "Readings": 5,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": 201
+ },
+ {
+   "State": "Uttar Pradesh",
+   "City": "Noida",
+   "NoOfLocationsUsed": 2,
+   "Readings": 172,
+   "IdealReadings": 208,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 216
+ },
+ {
+   "State": "Uttar Pradesh",
+   "City": "Moradabad",
+   "NoOfLocationsUsed": 2,
+   "Readings": 203,
+   "IdealReadings": 208,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 196
+ },
+ {
+   "State": "Uttar Pradesh",
+   "City": "Moradabad",
+   "NoOfLocationsUsed": 2,
+   "Readings": 195,
+   "IdealReadings": 208,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 227
+ },
+ {
+   "State": "Uttar Pradesh",
+   "City": "Moradabad",
+   "NoOfLocationsUsed": 2,
+   "Readings": 16,
+   "IdealReadings": 208,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": 232
+ },
+ {
+   "State": "Uttar Pradesh",
+   "City": "Moradabad",
+   "NoOfLocationsUsed": 2,
+   "Readings": 172,
+   "IdealReadings": 208,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 217
+ },
+ {
+   "State": "Uttar Pradesh",
+   "City": "Firozabad",
+   "NoOfLocationsUsed": 2,
+   "Readings": 212,
+   "IdealReadings": 208,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 223
+ },
+ {
+   "State": "Uttar Pradesh",
+   "City": "Firozabad",
+   "NoOfLocationsUsed": 3,
+   "Readings": 309,
+   "IdealReadings": 312,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 226
+ },
+ {
+   "State": "Uttar Pradesh",
+   "City": "Firozabad",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": null
+ },
+ {
+   "State": "Uttar Pradesh",
+   "City": "Firozabad",
+   "NoOfLocationsUsed": 3,
+   "Readings": 184,
+   "IdealReadings": 312,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 220
+ },
+ {
+   "State": "Uttar Pradesh",
+   "City": "Kanpur",
+   "NoOfLocationsUsed": 8,
+   "Readings": 507,
+   "IdealReadings": 832,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 217
+ },
+ {
+   "State": "Uttar Pradesh",
+   "City": "Kanpur",
+   "NoOfLocationsUsed": 9,
+   "Readings": 804,
+   "IdealReadings": 936,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 210
+ },
+ {
+   "State": "Uttar Pradesh",
+   "City": "Kanpur",
+   "NoOfLocationsUsed": 0,
+   "Readings": 3,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": 248
+ },
+ {
+   "State": "Uttar Pradesh",
+   "City": "Kanpur",
+   "NoOfLocationsUsed": 8,
+   "Readings": 654,
+   "IdealReadings": 832,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 225
+ },
+ {
+   "State": "Uttar Pradesh",
+   "City": "Varanasi",
+   "NoOfLocationsUsed": 5,
+   "Readings": 362,
+   "IdealReadings": 520,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 244
+ },
+ {
+   "State": "Uttar Pradesh",
+   "City": "Varanasi",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": null
+ },
+ {
+   "State": "Uttar Pradesh",
+   "City": "Varanasi",
+   "NoOfLocationsUsed": 5,
+   "Readings": 283,
+   "IdealReadings": 520,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 190
+ },
+ {
+   "State": "Uttar Pradesh",
+   "City": "Varanasi",
+   "NoOfLocationsUsed": 2,
+   "Readings": 67,
+   "IdealReadings": 208,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": 140
+ },
+ {
+   "State": "Uttar Pradesh",
+   "City": "Lucknow",
+   "NoOfLocationsUsed": 7,
+   "Readings": 692,
+   "IdealReadings": 728,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 214
+ },
+ {
+   "State": "Uttar Pradesh",
+   "City": "Lucknow",
+   "NoOfLocationsUsed": 8,
+   "Readings": 775,
+   "IdealReadings": 832,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 217
+ },
+ {
+   "State": "Uttar Pradesh",
+   "City": "Lucknow",
+   "NoOfLocationsUsed": 1,
+   "Readings": 138,
+   "IdealReadings": 104,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": 189
+ },
+ {
+   "State": "Uttar Pradesh",
+   "City": "Lucknow",
+   "NoOfLocationsUsed": 8,
+   "Readings": 509,
+   "IdealReadings": 832,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 246
+ },
+ {
+   "State": "Uttar Pradesh",
+   "City": "Ghaziabad",
+   "NoOfLocationsUsed": 2,
+   "Readings": 219,
+   "IdealReadings": 208,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 236
+ },
+ {
+   "State": "Uttar Pradesh",
+   "City": "Ghaziabad",
+   "NoOfLocationsUsed": 2,
+   "Readings": 181,
+   "IdealReadings": 208,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 245
+ },
+ {
+   "State": "Uttar Pradesh",
+   "City": "Ghaziabad",
+   "NoOfLocationsUsed": 0,
+   "Readings": 3,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": 301
+ },
+ {
+   "State": "Uttar Pradesh",
+   "City": "Ghaziabad",
+   "NoOfLocationsUsed": 2,
+   "Readings": 122,
+   "IdealReadings": 208,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 281
+ },
+ {
+   "State": "Telangana",
+   "City": "Nalgonda",
+   "NoOfLocationsUsed": 2,
+   "Readings": 205,
+   "IdealReadings": 208,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 62
+ },
+ {
+   "State": "Telangana",
+   "City": "Nalgonda",
+   "NoOfLocationsUsed": 2,
+   "Readings": 144,
+   "IdealReadings": 208,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 60
+ },
+ {
+   "State": "Telangana",
+   "City": "Nalgonda",
+   "NoOfLocationsUsed": 0,
+   "Readings": 18,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": 59
+ },
+ {
+   "State": "Telangana",
+   "City": "Nalgonda",
+   "NoOfLocationsUsed": 2,
+   "Readings": 171,
+   "IdealReadings": 208,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 60
+ },
+ {
+   "State": "Telangana",
+   "City": "Patancheru",
+   "NoOfLocationsUsed": 1,
+   "Readings": 106,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 78
+ },
+ {
+   "State": "Telangana",
+   "City": "Patancheru",
+   "NoOfLocationsUsed": 1,
+   "Readings": 85,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 81
+ },
+ {
+   "State": "Telangana",
+   "City": "Patancheru",
+   "NoOfLocationsUsed": 0,
+   "Readings": 7,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": 53
+ },
+ {
+   "State": "Telangana",
+   "City": "Patancheru",
+   "NoOfLocationsUsed": 1,
+   "Readings": 104,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 78
+ },
+ {
+   "State": "Telangana",
+   "City": "Sangareddy",
+   "NoOfLocationsUsed": 3,
+   "Readings": 293,
+   "IdealReadings": 312,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 79
+ },
+ {
+   "State": "Telangana",
+   "City": "Sangareddy",
+   "NoOfLocationsUsed": 2,
+   "Readings": 211,
+   "IdealReadings": 208,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 70
+ },
+ {
+   "State": "Telangana",
+   "City": "Sangareddy",
+   "NoOfLocationsUsed": 3,
+   "Readings": 258,
+   "IdealReadings": 312,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 81
+ },
+ {
+   "State": "Telangana",
+   "City": "Sangareddy",
+   "NoOfLocationsUsed": 1,
+   "Readings": 41,
+   "IdealReadings": 104,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": 65
+ },
+ {
+   "State": "Telangana",
+   "City": "Hyderabad",
+   "NoOfLocationsUsed": 10,
+   "Readings": 913,
+   "IdealReadings": 1040,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 100
+ },
+ {
+   "State": "Telangana",
+   "City": "Hyderabad",
+   "NoOfLocationsUsed": 10,
+   "Readings": 1020,
+   "IdealReadings": 1040,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 105
+ },
+ {
+   "State": "Telangana",
+   "City": "Hyderabad",
+   "NoOfLocationsUsed": 7,
+   "Readings": 201,
+   "IdealReadings": 728,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": 106
+ },
+ {
+   "State": "Telangana",
+   "City": "Hyderabad",
+   "NoOfLocationsUsed": 10,
+   "Readings": 988,
+   "IdealReadings": 1040,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 108
+ },
+ {
+   "State": "Tamil Nadu",
+   "City": "Trichy",
+   "NoOfLocationsUsed": 5,
+   "Readings": 479,
+   "IdealReadings": 520,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 86
+ },
+ {
+   "State": "Tamil Nadu",
+   "City": "Trichy",
+   "NoOfLocationsUsed": 5,
+   "Readings": 351,
+   "IdealReadings": 520,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 95
+ },
+ {
+   "State": "Tamil Nadu",
+   "City": "Trichy",
+   "NoOfLocationsUsed": 5,
+   "Readings": 476,
+   "IdealReadings": 520,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 110
+ },
+ {
+   "State": "Tamil Nadu",
+   "City": "Trichy",
+   "NoOfLocationsUsed": 5,
+   "Readings": 107,
+   "IdealReadings": 520,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": 63
+ },
+ {
+   "State": "Tamil Nadu",
+   "City": "Thoothukudi/ Tuticorin",
+   "NoOfLocationsUsed": 3,
+   "Readings": 294,
+   "IdealReadings": 312,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 132
+ },
+ {
+   "State": "Tamil Nadu",
+   "City": "Thoothukudi/ Tuticorin",
+   "NoOfLocationsUsed": 3,
+   "Readings": 251,
+   "IdealReadings": 312,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 175
+ },
+ {
+   "State": "Tamil Nadu",
+   "City": "Thoothukudi/ Tuticorin",
+   "NoOfLocationsUsed": 3,
+   "Readings": 292,
+   "IdealReadings": 312,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 102
+ },
+ {
+   "State": "Tamil Nadu",
+   "City": "Thoothukudi/ Tuticorin",
+   "NoOfLocationsUsed": 3,
+   "Readings": 61,
+   "IdealReadings": 312,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": 81
+ },
+ {
+   "State": "Rajasthan",
+   "City": "Udaipur",
+   "NoOfLocationsUsed": 3,
+   "Readings": 313,
+   "IdealReadings": 312,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 125
+ },
+ {
+   "State": "Rajasthan",
+   "City": "Udaipur",
+   "NoOfLocationsUsed": 3,
+   "Readings": 315,
+   "IdealReadings": 312,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 137
+ },
+ {
+   "State": "Rajasthan",
+   "City": "Udaipur",
+   "NoOfLocationsUsed": 3,
+   "Readings": 313,
+   "IdealReadings": 312,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 147
+ },
+ {
+   "State": "Rajasthan",
+   "City": "Udaipur",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": null
+ },
+ {
+   "State": "Rajasthan",
+   "City": "Kota",
+   "NoOfLocationsUsed": 6,
+   "Readings": 470,
+   "IdealReadings": 624,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 110
+ },
+ {
+   "State": "Rajasthan",
+   "City": "Kota",
+   "NoOfLocationsUsed": 6,
+   "Readings": 589,
+   "IdealReadings": 624,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 152
+ },
+ {
+   "State": "Rajasthan",
+   "City": "Kota",
+   "NoOfLocationsUsed": 6,
+   "Readings": 152,
+   "IdealReadings": 624,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": 66
+ },
+ {
+   "State": "Rajasthan",
+   "City": "Kota",
+   "NoOfLocationsUsed": 6,
+   "Readings": 489,
+   "IdealReadings": 624,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 131
+ },
+ {
+   "State": "Rajasthan",
+   "City": "Alwar",
+   "NoOfLocationsUsed": 3,
+   "Readings": 299,
+   "IdealReadings": 312,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 144
+ },
+ {
+   "State": "Rajasthan",
+   "City": "Alwar",
+   "NoOfLocationsUsed": 3,
+   "Readings": 301,
+   "IdealReadings": 312,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 183
+ },
+ {
+   "State": "Rajasthan",
+   "City": "Alwar",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": null
+ },
+ {
+   "State": "Rajasthan",
+   "City": "Alwar",
+   "NoOfLocationsUsed": 3,
+   "Readings": 258,
+   "IdealReadings": 312,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 134
+ },
+ {
+   "State": "Rajasthan",
+   "City": "Jaipur",
+   "NoOfLocationsUsed": 6,
+   "Readings": 604,
+   "IdealReadings": 624,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 199
+ },
+ {
+   "State": "Rajasthan",
+   "City": "Jaipur",
+   "NoOfLocationsUsed": 9,
+   "Readings": 867,
+   "IdealReadings": 936,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 165
+ },
+ {
+   "State": "Rajasthan",
+   "City": "Jaipur",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": null
+ },
+ {
+   "State": "Rajasthan",
+   "City": "Jaipur",
+   "NoOfLocationsUsed": 9,
+   "Readings": 898,
+   "IdealReadings": 936,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 177
+ },
+ {
+   "State": "Rajasthan",
+   "City": "Jodhpur",
+   "NoOfLocationsUsed": 6,
+   "Readings": 606,
+   "IdealReadings": 624,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 168
+ },
+ {
+   "State": "Rajasthan",
+   "City": "Jodhpur",
+   "NoOfLocationsUsed": 9,
+   "Readings": 831,
+   "IdealReadings": 936,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 223
+ },
+ {
+   "State": "Rajasthan",
+   "City": "Jodhpur",
+   "NoOfLocationsUsed": 9,
+   "Readings": 464,
+   "IdealReadings": 936,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": 240
+ },
+ {
+   "State": "Rajasthan",
+   "City": "Jodhpur",
+   "NoOfLocationsUsed": 9,
+   "Readings": 712,
+   "IdealReadings": 936,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 180
+ },
+ {
+   "State": "Punjab",
+   "City": "Dera Baba Nanak",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": null
+ },
+ {
+   "State": "Punjab",
+   "City": "Dera Baba Nanak",
+   "NoOfLocationsUsed": 1,
+   "Readings": 118,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 81
+ },
+ {
+   "State": "Punjab",
+   "City": "Dera Baba Nanak",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": null
+ },
+ {
+   "State": "Punjab",
+   "City": "Dera Baba Nanak",
+   "NoOfLocationsUsed": 1,
+   "Readings": 79,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 90
+ },
+ {
+   "State": "Punjab",
+   "City": "Naya Nangal",
+   "NoOfLocationsUsed": 2,
+   "Readings": 183,
+   "IdealReadings": 208,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 91
+ },
+ {
+   "State": "Punjab",
+   "City": "Naya Nangal",
+   "NoOfLocationsUsed": 2,
+   "Readings": 246,
+   "IdealReadings": 208,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 91
+ },
+ {
+   "State": "Punjab",
+   "City": "Naya Nangal",
+   "NoOfLocationsUsed": 2,
+   "Readings": 241,
+   "IdealReadings": 208,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 91
+ },
+ {
+   "State": "Punjab",
+   "City": "Naya Nangal",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": null
+ },
+ {
+   "State": "Punjab",
+   "City": "Dera Bassi",
+   "NoOfLocationsUsed": 2,
+   "Readings": 204,
+   "IdealReadings": 208,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 98
+ },
+ {
+   "State": "Punjab",
+   "City": "Dera Bassi",
+   "NoOfLocationsUsed": 2,
+   "Readings": 230,
+   "IdealReadings": 208,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 95
+ },
+ {
+   "State": "Punjab",
+   "City": "Dera Bassi",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": null
+ },
+ {
+   "State": "Punjab",
+   "City": "Dera Bassi",
+   "NoOfLocationsUsed": 2,
+   "Readings": 260,
+   "IdealReadings": 208,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 93
+ },
+ {
+   "State": "Punjab",
+   "City": "Patiala",
+   "NoOfLocationsUsed": 2,
+   "Readings": 117,
+   "IdealReadings": 208,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 102
+ },
+ {
+   "State": "Punjab",
+   "City": "Patiala",
+   "NoOfLocationsUsed": 2,
+   "Readings": 232,
+   "IdealReadings": 208,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 106
+ },
+ {
+   "State": "Punjab",
+   "City": "Patiala",
+   "NoOfLocationsUsed": 2,
+   "Readings": 260,
+   "IdealReadings": 208,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 98
+ },
+ {
+   "State": "Punjab",
+   "City": "Patiala",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": null
+ },
+ {
+   "State": "Punjab",
+   "City": "Mandi Gobindgarh",
+   "NoOfLocationsUsed": 1,
+   "Readings": 110,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 123
+ },
+ {
+   "State": "Punjab",
+   "City": "Mandi Gobindgarh",
+   "NoOfLocationsUsed": 1,
+   "Readings": 117,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 136
+ },
+ {
+   "State": "Punjab",
+   "City": "Mandi Gobindgarh",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": null
+ },
+ {
+   "State": "Punjab",
+   "City": "Mandi Gobindgarh",
+   "NoOfLocationsUsed": 1,
+   "Readings": 131,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 136
+ },
+ {
+   "State": "Punjab",
+   "City": "Khanna",
+   "NoOfLocationsUsed": 2,
+   "Readings": 254,
+   "IdealReadings": 208,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 114
+ },
+ {
+   "State": "Punjab",
+   "City": "Khanna",
+   "NoOfLocationsUsed": 2,
+   "Readings": 180,
+   "IdealReadings": 208,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 135
+ },
+ {
+   "State": "Punjab",
+   "City": "Khanna",
+   "NoOfLocationsUsed": 1,
+   "Readings": 25,
+   "IdealReadings": 104,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": 136
+ },
+ {
+   "State": "Punjab",
+   "City": "Khanna",
+   "NoOfLocationsUsed": 2,
+   "Readings": 265,
+   "IdealReadings": 208,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 139
+ },
+ {
+   "State": "Punjab",
+   "City": "Ludhiana",
+   "NoOfLocationsUsed": 4,
+   "Readings": 503,
+   "IdealReadings": 416,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 139
+ },
+ {
+   "State": "Punjab",
+   "City": "Ludhiana",
+   "NoOfLocationsUsed": 4,
+   "Readings": 560,
+   "IdealReadings": 416,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 162
+ },
+ {
+   "State": "Punjab",
+   "City": "Ludhiana",
+   "NoOfLocationsUsed": 8,
+   "Readings": 174,
+   "IdealReadings": 832,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": 156
+ },
+ {
+   "State": "Punjab",
+   "City": "Ludhiana",
+   "NoOfLocationsUsed": 4,
+   "Readings": 544,
+   "IdealReadings": 416,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 162
+ },
+ {
+   "State": "Punjab",
+   "City": "Amritsar",
+   "NoOfLocationsUsed": 3,
+   "Readings": 129,
+   "IdealReadings": 312,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 194
+ },
+ {
+   "State": "Punjab",
+   "City": "Amritsar",
+   "NoOfLocationsUsed": 2,
+   "Readings": 193,
+   "IdealReadings": 208,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 177
+ },
+ {
+   "State": "Punjab",
+   "City": "Amritsar",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": null
+ },
+ {
+   "State": "Punjab",
+   "City": "Amritsar",
+   "NoOfLocationsUsed": 3,
+   "Readings": 185,
+   "IdealReadings": 312,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 168
+ },
+ {
+   "State": "Punjab",
+   "City": "Jalandhar",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": null
+ },
+ {
+   "State": "Punjab",
+   "City": "Jalandhar",
+   "NoOfLocationsUsed": 4,
+   "Readings": 449,
+   "IdealReadings": 416,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 153
+ },
+ {
+   "State": "Punjab",
+   "City": "Jalandhar",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": null
+ },
+ {
+   "State": "Punjab",
+   "City": "Jalandhar",
+   "NoOfLocationsUsed": 4,
+   "Readings": 285,
+   "IdealReadings": 416,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 223
+ },
+ {
+   "State": "Odisha",
+   "City": "Balasore",
+   "NoOfLocationsUsed": 3,
+   "Readings": 258,
+   "IdealReadings": 312,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 85
+ },
+ {
+   "State": "Odisha",
+   "City": "Balasore",
+   "NoOfLocationsUsed": 3,
+   "Readings": 312,
+   "IdealReadings": 312,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 86
+ },
+ {
+   "State": "Odisha",
+   "City": "Balasore",
+   "NoOfLocationsUsed": 3,
+   "Readings": 168,
+   "IdealReadings": 312,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": 87
+ },
+ {
+   "State": "Odisha",
+   "City": "Balasore",
+   "NoOfLocationsUsed": 3,
+   "Readings": 309,
+   "IdealReadings": 312,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 83
+ },
+ {
+   "State": "Odisha",
+   "City": "Cuttack",
+   "NoOfLocationsUsed": 3,
+   "Readings": 317,
+   "IdealReadings": 312,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 81
+ },
+ {
+   "State": "Odisha",
+   "City": "Cuttack",
+   "NoOfLocationsUsed": 3,
+   "Readings": 266,
+   "IdealReadings": 312,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 114
+ },
+ {
+   "State": "Odisha",
+   "City": "Cuttack",
+   "NoOfLocationsUsed": 3,
+   "Readings": 101,
+   "IdealReadings": 312,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": 112
+ },
+ {
+   "State": "Odisha",
+   "City": "Cuttack",
+   "NoOfLocationsUsed": 4,
+   "Readings": 397,
+   "IdealReadings": 416,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 87
+ },
+ {
+   "State": "Odisha",
+   "City": "Bhubaneswar",
+   "NoOfLocationsUsed": 5,
+   "Readings": 517,
+   "IdealReadings": 520,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 105
+ },
+ {
+   "State": "Odisha",
+   "City": "Bhubaneswar",
+   "NoOfLocationsUsed": 6,
+   "Readings": 522,
+   "IdealReadings": 624,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 99
+ },
+ {
+   "State": "Odisha",
+   "City": "Bhubaneswar",
+   "NoOfLocationsUsed": 5,
+   "Readings": 195,
+   "IdealReadings": 520,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": 98
+ },
+ {
+   "State": "Odisha",
+   "City": "Bhubaneswar",
+   "NoOfLocationsUsed": 6,
+   "Readings": 498,
+   "IdealReadings": 624,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 91
+ },
+ {
+   "State": "Odisha",
+   "City": "Angul",
+   "NoOfLocationsUsed": 2,
+   "Readings": 210,
+   "IdealReadings": 208,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 97
+ },
+ {
+   "State": "Odisha",
+   "City": "Angul",
+   "NoOfLocationsUsed": 2,
+   "Readings": 211,
+   "IdealReadings": 208,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 101
+ },
+ {
+   "State": "Odisha",
+   "City": "Angul",
+   "NoOfLocationsUsed": 0,
+   "Readings": 28,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": 94
+ },
+ {
+   "State": "Odisha",
+   "City": "Angul",
+   "NoOfLocationsUsed": 2,
+   "Readings": 199,
+   "IdealReadings": 208,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 95
+ },
+ {
+   "State": "Odisha",
+   "City": "Talcher",
+   "NoOfLocationsUsed": 2,
+   "Readings": 200,
+   "IdealReadings": 208,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 96
+ },
+ {
+   "State": "Odisha",
+   "City": "Talcher",
+   "NoOfLocationsUsed": 2,
+   "Readings": 212,
+   "IdealReadings": 208,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 105
+ },
+ {
+   "State": "Odisha",
+   "City": "Talcher",
+   "NoOfLocationsUsed": 2,
+   "Readings": 208,
+   "IdealReadings": 208,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 111
+ },
+ {
+   "State": "Odisha",
+   "City": "Talcher",
+   "NoOfLocationsUsed": 0,
+   "Readings": 26,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": 92
+ },
+ {
+   "State": "Odisha",
+   "City": "Rourkela",
+   "NoOfLocationsUsed": 6,
+   "Readings": 429,
+   "IdealReadings": 624,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 117
+ },
+ {
+   "State": "Odisha",
+   "City": "Rourkela",
+   "NoOfLocationsUsed": 5,
+   "Readings": 365,
+   "IdealReadings": 520,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 75
+ },
+ {
+   "State": "Odisha",
+   "City": "Rourkela",
+   "NoOfLocationsUsed": 1,
+   "Readings": 104,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 93
+ },
+ {
+   "State": "Odisha",
+   "City": "Rourkela",
+   "NoOfLocationsUsed": 1,
+   "Readings": 36,
+   "IdealReadings": 104,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": 165
+ },
+ {
+   "State": "Odisha",
+   "City": "Kalinga Nagar",
+   "NoOfLocationsUsed": 3,
+   "Readings": 295,
+   "IdealReadings": 312,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 113
+ },
+ {
+   "State": "Odisha",
+   "City": "Kalinga Nagar",
+   "NoOfLocationsUsed": 2,
+   "Readings": 186,
+   "IdealReadings": 208,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 118
+ },
+ {
+   "State": "Odisha",
+   "City": "Kalinga Nagar",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": null
+ },
+ {
+   "State": "Odisha",
+   "City": "Kalinga Nagar",
+   "NoOfLocationsUsed": 3,
+   "Readings": 251,
+   "IdealReadings": 312,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 126
+ },
+ {
+   "State": "Nagaland",
+   "City": "Kohima",
+   "NoOfLocationsUsed": 2,
+   "Readings": 199,
+   "IdealReadings": 208,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 90
+ },
+ {
+   "State": "Nagaland",
+   "City": "Kohima",
+   "NoOfLocationsUsed": 2,
+   "Readings": 222,
+   "IdealReadings": 208,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 105
+ },
+ {
+   "State": "Nagaland",
+   "City": "Kohima",
+   "NoOfLocationsUsed": 1,
+   "Readings": 58,
+   "IdealReadings": 104,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": 59
+ },
+ {
+   "State": "Nagaland",
+   "City": "Kohima",
+   "NoOfLocationsUsed": 2,
+   "Readings": 192,
+   "IdealReadings": 208,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 114
+ },
+ {
+   "State": "Nagaland",
+   "City": "Dimapur",
+   "NoOfLocationsUsed": 2,
+   "Readings": 192,
+   "IdealReadings": 208,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 122
+ },
+ {
+   "State": "Nagaland",
+   "City": "Dimapur",
+   "NoOfLocationsUsed": 2,
+   "Readings": 223,
+   "IdealReadings": 208,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 135
+ },
+ {
+   "State": "Nagaland",
+   "City": "Dimapur",
+   "NoOfLocationsUsed": 2,
+   "Readings": 90,
+   "IdealReadings": 208,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": 116
+ },
+ {
+   "State": "Nagaland",
+   "City": "Dimapur",
+   "NoOfLocationsUsed": 2,
+   "Readings": 184,
+   "IdealReadings": 208,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 138
+ },
+ {
+   "State": "Meghalaya",
+   "City": "Byrnihat",
+   "NoOfLocationsUsed": 1,
+   "Readings": 75,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 175
+ },
+ {
+   "State": "Meghalaya",
+   "City": "Byrnihat",
+   "NoOfLocationsUsed": 1,
+   "Readings": 108,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 166
+ },
+ {
+   "State": "Meghalaya",
+   "City": "Byrnihat",
+   "NoOfLocationsUsed": 1,
+   "Readings": 40,
+   "IdealReadings": 104,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": 117
+ },
+ {
+   "State": "Meghalaya",
+   "City": "Byrnihat",
+   "NoOfLocationsUsed": 1,
+   "Readings": 104,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 174
+ },
+ {
+   "State": "Maharashtra",
+   "City": "Solapur",
+   "NoOfLocationsUsed": 2,
+   "Readings": 193,
+   "IdealReadings": 208,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 64
+ },
+ {
+   "State": "Maharashtra",
+   "City": "Solapur",
+   "NoOfLocationsUsed": 2,
+   "Readings": 205,
+   "IdealReadings": 208,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 74
+ },
+ {
+   "State": "Maharashtra",
+   "City": "Solapur",
+   "NoOfLocationsUsed": 2,
+   "Readings": 207,
+   "IdealReadings": 208,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 71
+ },
+ {
+   "State": "Maharashtra",
+   "City": "Solapur",
+   "NoOfLocationsUsed": 0,
+   "Readings": 35,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": 78
+ },
+ {
+   "State": "Maharashtra",
+   "City": "Sangli",
+   "NoOfLocationsUsed": 3,
+   "Readings": 299,
+   "IdealReadings": 312,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 76
+ },
+ {
+   "State": "Maharashtra",
+   "City": "Sangli",
+   "NoOfLocationsUsed": 3,
+   "Readings": 339,
+   "IdealReadings": 312,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 83
+ },
+ {
+   "State": "Maharashtra",
+   "City": "Sangli",
+   "NoOfLocationsUsed": 3,
+   "Readings": 308,
+   "IdealReadings": 312,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 84
+ },
+ {
+   "State": "Maharashtra",
+   "City": "Sangli",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": null
+ },
+ {
+   "State": "Maharashtra",
+   "City": "Jalgaon",
+   "NoOfLocationsUsed": 3,
+   "Readings": 308,
+   "IdealReadings": 312,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 103
+ },
+ {
+   "State": "Maharashtra",
+   "City": "Jalgaon",
+   "NoOfLocationsUsed": 3,
+   "Readings": 330,
+   "IdealReadings": 312,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 74
+ },
+ {
+   "State": "Maharashtra",
+   "City": "Jalgaon",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": null
+ },
+ {
+   "State": "Maharashtra",
+   "City": "Jalgaon",
+   "NoOfLocationsUsed": 3,
+   "Readings": 310,
+   "IdealReadings": 312,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 77
+ },
+ {
+   "State": "Maharashtra",
+   "City": "Nashik",
+   "NoOfLocationsUsed": 4,
+   "Readings": 573,
+   "IdealReadings": 416,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 81
+ },
+ {
+   "State": "Maharashtra",
+   "City": "Nashik",
+   "NoOfLocationsUsed": 4,
+   "Readings": 622,
+   "IdealReadings": 416,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 85
+ },
+ {
+   "State": "Maharashtra",
+   "City": "Nashik",
+   "NoOfLocationsUsed": 5,
+   "Readings": 929,
+   "IdealReadings": 520,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 82
+ },
+ {
+   "State": "Maharashtra",
+   "City": "Nashik",
+   "NoOfLocationsUsed": 0,
+   "Readings": 46,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": 110
+ },
+ {
+   "State": "Maharashtra",
+   "City": "Latur",
+   "NoOfLocationsUsed": 3,
+   "Readings": 276,
+   "IdealReadings": 312,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 81
+ },
+ {
+   "State": "Maharashtra",
+   "City": "Latur",
+   "NoOfLocationsUsed": 3,
+   "Readings": 326,
+   "IdealReadings": 312,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 81
+ },
+ {
+   "State": "Maharashtra",
+   "City": "Latur",
+   "NoOfLocationsUsed": 3,
+   "Readings": 317,
+   "IdealReadings": 312,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 95
+ },
+ {
+   "State": "Maharashtra",
+   "City": "Latur",
+   "NoOfLocationsUsed": 0,
+   "Readings": 52,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": 108
+ },
+ {
+   "State": "Maharashtra",
+   "City": "Aurangabad",
+   "NoOfLocationsUsed": 3,
+   "Readings": 300,
+   "IdealReadings": 312,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 92
+ },
+ {
+   "State": "Maharashtra",
+   "City": "Aurangabad",
+   "NoOfLocationsUsed": 3,
+   "Readings": 247,
+   "IdealReadings": 312,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 70
+ },
+ {
+   "State": "Maharashtra",
+   "City": "Aurangabad",
+   "NoOfLocationsUsed": 0,
+   "Readings": 22,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": 82
+ },
+ {
+   "State": "Maharashtra",
+   "City": "Aurangabad",
+   "NoOfLocationsUsed": 3,
+   "Readings": 292,
+   "IdealReadings": 312,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 83
+ },
+ {
+   "State": "Maharashtra",
+   "City": "Kolhapur",
+   "NoOfLocationsUsed": 3,
+   "Readings": 273,
+   "IdealReadings": 312,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 90
+ },
+ {
+   "State": "Maharashtra",
+   "City": "Kolhapur",
+   "NoOfLocationsUsed": 3,
+   "Readings": 251,
+   "IdealReadings": 312,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 96
+ },
+ {
+   "State": "Maharashtra",
+   "City": "Kolhapur",
+   "NoOfLocationsUsed": 3,
+   "Readings": 297,
+   "IdealReadings": 312,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 90
+ },
+ {
+   "State": "Maharashtra",
+   "City": "Kolhapur",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": null
+ },
+ {
+   "State": "Maharashtra",
+   "City": "Jalna",
+   "NoOfLocationsUsed": 2,
+   "Readings": 191,
+   "IdealReadings": 208,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 110
+ },
+ {
+   "State": "Maharashtra",
+   "City": "Jalna",
+   "NoOfLocationsUsed": 2,
+   "Readings": 178,
+   "IdealReadings": 208,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 103
+ },
+ {
+   "State": "Maharashtra",
+   "City": "Jalna",
+   "NoOfLocationsUsed": 0,
+   "Readings": 14,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": 98
+ },
+ {
+   "State": "Maharashtra",
+   "City": "Jalna",
+   "NoOfLocationsUsed": 2,
+   "Readings": 186,
+   "IdealReadings": 208,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 101
+ },
+ {
+   "State": "Maharashtra",
+   "City": "Pune",
+   "NoOfLocationsUsed": 3,
+   "Readings": 261,
+   "IdealReadings": 312,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 102
+ },
+ {
+   "State": "Maharashtra",
+   "City": "Pune",
+   "NoOfLocationsUsed": 3,
+   "Readings": 290,
+   "IdealReadings": 312,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 107
+ },
+ {
+   "State": "Maharashtra",
+   "City": "Pune",
+   "NoOfLocationsUsed": 3,
+   "Readings": 255,
+   "IdealReadings": 312,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 106
+ },
+ {
+   "State": "Maharashtra",
+   "City": "Pune",
+   "NoOfLocationsUsed": 0,
+   "Readings": 7,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": 148
+ },
+ {
+   "State": "Maharashtra",
+   "City": "Nagpur",
+   "NoOfLocationsUsed": 7,
+   "Readings": 855,
+   "IdealReadings": 728,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 102
+ },
+ {
+   "State": "Maharashtra",
+   "City": "Nagpur",
+   "NoOfLocationsUsed": 7,
+   "Readings": 859,
+   "IdealReadings": 728,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 118
+ },
+ {
+   "State": "Maharashtra",
+   "City": "Nagpur",
+   "NoOfLocationsUsed": 6,
+   "Readings": 590,
+   "IdealReadings": 624,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 109
+ },
+ {
+   "State": "Maharashtra",
+   "City": "Nagpur",
+   "NoOfLocationsUsed": 0,
+   "Readings": 75,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": 73
+ },
+ {
+   "State": "Maharashtra",
+   "City": "Navi Mumbai",
+   "NoOfLocationsUsed": 6,
+   "Readings": 616,
+   "IdealReadings": 624,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 105
+ },
+ {
+   "State": "Maharashtra",
+   "City": "Navi Mumbai",
+   "NoOfLocationsUsed": 6,
+   "Readings": 661,
+   "IdealReadings": 624,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 118
+ },
+ {
+   "State": "Maharashtra",
+   "City": "Navi Mumbai",
+   "NoOfLocationsUsed": 6,
+   "Readings": 595,
+   "IdealReadings": 624,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 71
+ },
+ {
+   "State": "Maharashtra",
+   "City": "Navi Mumbai",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": null
+ },
+ {
+   "State": "Maharashtra",
+   "City": "Amravati",
+   "NoOfLocationsUsed": 3,
+   "Readings": 223,
+   "IdealReadings": 312,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 100
+ },
+ {
+   "State": "Maharashtra",
+   "City": "Amravati",
+   "NoOfLocationsUsed": 3,
+   "Readings": 260,
+   "IdealReadings": 312,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 104
+ },
+ {
+   "State": "Maharashtra",
+   "City": "Amravati",
+   "NoOfLocationsUsed": 0,
+   "Readings": 53,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": 102
+ },
+ {
+   "State": "Maharashtra",
+   "City": "Amravati",
+   "NoOfLocationsUsed": 3,
+   "Readings": 251,
+   "IdealReadings": 312,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 106
+ },
+ {
+   "State": "Maharashtra",
+   "City": "Thane",
+   "NoOfLocationsUsed": 3,
+   "Readings": 266,
+   "IdealReadings": 312,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 125
+ },
+ {
+   "State": "Maharashtra",
+   "City": "Thane",
+   "NoOfLocationsUsed": 3,
+   "Readings": 287,
+   "IdealReadings": 312,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 122
+ },
+ {
+   "State": "Maharashtra",
+   "City": "Thane",
+   "NoOfLocationsUsed": 3,
+   "Readings": 271,
+   "IdealReadings": 312,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 107
+ },
+ {
+   "State": "Maharashtra",
+   "City": "Thane",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": null
+ },
+ {
+   "State": "Maharashtra",
+   "City": "Akola",
+   "NoOfLocationsUsed": 3,
+   "Readings": 300,
+   "IdealReadings": 312,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 126
+ },
+ {
+   "State": "Maharashtra",
+   "City": "Akola",
+   "NoOfLocationsUsed": 3,
+   "Readings": 318,
+   "IdealReadings": 312,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 72
+ },
+ {
+   "State": "Maharashtra",
+   "City": "Akola",
+   "NoOfLocationsUsed": 0,
+   "Readings": 51,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": 75
+ },
+ {
+   "State": "Maharashtra",
+   "City": "Akola",
+   "NoOfLocationsUsed": 3,
+   "Readings": 291,
+   "IdealReadings": 312,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 127
+ },
+ {
+   "State": "Maharashtra",
+   "City": "Chandrapur",
+   "NoOfLocationsUsed": 6,
+   "Readings": 744,
+   "IdealReadings": 624,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 111
+ },
+ {
+   "State": "Maharashtra",
+   "City": "Chandrapur",
+   "NoOfLocationsUsed": 6,
+   "Readings": 831,
+   "IdealReadings": 624,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 149
+ },
+ {
+   "State": "Maharashtra",
+   "City": "Chandrapur",
+   "NoOfLocationsUsed": 0,
+   "Readings": 81,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": 107
+ },
+ {
+   "State": "Maharashtra",
+   "City": "Chandrapur",
+   "NoOfLocationsUsed": 6,
+   "Readings": 796,
+   "IdealReadings": 624,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 4
+ },
+ {
+   "State": "Maharashtra",
+   "City": "Ulhasnagar",
+   "NoOfLocationsUsed": 2,
+   "Readings": 144,
+   "IdealReadings": 208,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 150
+ },
+ {
+   "State": "Maharashtra",
+   "City": "Ulhasnagar",
+   "NoOfLocationsUsed": 2,
+   "Readings": 147,
+   "IdealReadings": 208,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 118
+ },
+ {
+   "State": "Maharashtra",
+   "City": "Ulhasnagar",
+   "NoOfLocationsUsed": 2,
+   "Readings": 164,
+   "IdealReadings": 208,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 123
+ },
+ {
+   "State": "Maharashtra",
+   "City": "Ulhasnagar",
+   "NoOfLocationsUsed": 0,
+   "Readings": 8,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": 147
+ },
+ {
+   "State": "Maharashtra",
+   "City": "Mumbai",
+   "NoOfLocationsUsed": 2,
+   "Readings": 175,
+   "IdealReadings": 208,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 151
+ },
+ {
+   "State": "Maharashtra",
+   "City": "Mumbai",
+   "NoOfLocationsUsed": 2,
+   "Readings": 151,
+   "IdealReadings": 208,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 119
+ },
+ {
+   "State": "Maharashtra",
+   "City": "Mumbai",
+   "NoOfLocationsUsed": 3,
+   "Readings": 212,
+   "IdealReadings": 312,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 165
+ },
+ {
+   "State": "Maharashtra",
+   "City": "Mumbai",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": null
+ },
+ {
+   "State": "Maharashtra",
+   "City": "Badlapur",
+   "NoOfLocationsUsed": 1,
+   "Readings": 75,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 125
+ },
+ {
+   "State": "Maharashtra",
+   "City": "Badlapur",
+   "NoOfLocationsUsed": 1,
+   "Readings": 82,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 144
+ },
+ {
+   "State": "Maharashtra",
+   "City": "Badlapur",
+   "NoOfLocationsUsed": 0,
+   "Readings": 8,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": 137
+ },
+ {
+   "State": "Maharashtra",
+   "City": "Badlapur",
+   "NoOfLocationsUsed": 1,
+   "Readings": 75,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 159
+ },
+ {
+   "State": "Madhya Pradesh",
+   "City": "Sagar",
+   "NoOfLocationsUsed": 2,
+   "Readings": 118,
+   "IdealReadings": 208,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 70
+ },
+ {
+   "State": "Madhya Pradesh",
+   "City": "Sagar",
+   "NoOfLocationsUsed": 1,
+   "Readings": 94,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 79
+ },
+ {
+   "State": "Madhya Pradesh",
+   "City": "Sagar",
+   "NoOfLocationsUsed": 2,
+   "Readings": 196,
+   "IdealReadings": 208,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 76
+ },
+ {
+   "State": "Madhya Pradesh",
+   "City": "Sagar",
+   "NoOfLocationsUsed": 2,
+   "Readings": 114,
+   "IdealReadings": 208,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": 69
+ },
+ {
+   "State": "Madhya Pradesh",
+   "City": "Ujjain",
+   "NoOfLocationsUsed": 4,
+   "Readings": 354,
+   "IdealReadings": 416,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 75
+ },
+ {
+   "State": "Madhya Pradesh",
+   "City": "Ujjain",
+   "NoOfLocationsUsed": 4,
+   "Readings": 280,
+   "IdealReadings": 416,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 90
+ },
+ {
+   "State": "Madhya Pradesh",
+   "City": "Ujjain",
+   "NoOfLocationsUsed": 4,
+   "Readings": 416,
+   "IdealReadings": 416,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 110
+ },
+ {
+   "State": "Madhya Pradesh",
+   "City": "Ujjain",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": null
+ },
+ {
+   "State": "Madhya Pradesh",
+   "City": "Dewas",
+   "NoOfLocationsUsed": 3,
+   "Readings": 283,
+   "IdealReadings": 312,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 89
+ },
+ {
+   "State": "Madhya Pradesh",
+   "City": "Dewas",
+   "NoOfLocationsUsed": 3,
+   "Readings": 306,
+   "IdealReadings": 312,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 68
+ },
+ {
+   "State": "Madhya Pradesh",
+   "City": "Dewas",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": null
+ },
+ {
+   "State": "Madhya Pradesh",
+   "City": "Dewas",
+   "NoOfLocationsUsed": 3,
+   "Readings": 281,
+   "IdealReadings": 312,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 75
+ },
+ {
+   "State": "Madhya Pradesh",
+   "City": "Indore",
+   "NoOfLocationsUsed": 3,
+   "Readings": 274,
+   "IdealReadings": 312,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 80
+ },
+ {
+   "State": "Madhya Pradesh",
+   "City": "Indore",
+   "NoOfLocationsUsed": 3,
+   "Readings": 269,
+   "IdealReadings": 312,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 95
+ },
+ {
+   "State": "Madhya Pradesh",
+   "City": "Indore",
+   "NoOfLocationsUsed": 3,
+   "Readings": 315,
+   "IdealReadings": 312,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 88
+ },
+ {
+   "State": "Madhya Pradesh",
+   "City": "Indore",
+   "NoOfLocationsUsed": 0,
+   "Readings": 2,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": 93
+ },
+ {
+   "State": "Madhya Pradesh",
+   "City": "Bhopal",
+   "NoOfLocationsUsed": 7,
+   "Readings": 501,
+   "IdealReadings": 728,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 89
+ },
+ {
+   "State": "Madhya Pradesh",
+   "City": "Bhopal",
+   "NoOfLocationsUsed": 7,
+   "Readings": 729,
+   "IdealReadings": 728,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 135
+ },
+ {
+   "State": "Madhya Pradesh",
+   "City": "Bhopal",
+   "NoOfLocationsUsed": 7,
+   "Readings": 209,
+   "IdealReadings": 728,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": 144
+ },
+ {
+   "State": "Madhya Pradesh",
+   "City": "Bhopal",
+   "NoOfLocationsUsed": 7,
+   "Readings": 605,
+   "IdealReadings": 728,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 93
+ },
+ {
+   "State": "Madhya Pradesh",
+   "City": "Gwalior",
+   "NoOfLocationsUsed": 2,
+   "Readings": 191,
+   "IdealReadings": 208,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 110
+ },
+ {
+   "State": "Madhya Pradesh",
+   "City": "Gwalior",
+   "NoOfLocationsUsed": 2,
+   "Readings": 146,
+   "IdealReadings": 208,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 96
+ },
+ {
+   "State": "Madhya Pradesh",
+   "City": "Gwalior",
+   "NoOfLocationsUsed": 2,
+   "Readings": 166,
+   "IdealReadings": 208,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 134
+ },
+ {
+   "State": "Madhya Pradesh",
+   "City": "Gwalior",
+   "NoOfLocationsUsed": 2,
+   "Readings": 45,
+   "IdealReadings": 208,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": 154
+ },
+ {
+   "State": "Karnataka",
+   "City": "Gulbarga",
+   "NoOfLocationsUsed": 1,
+   "Readings": 101,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 60
+ },
+ {
+   "State": "Karnataka",
+   "City": "Gulbarga",
+   "NoOfLocationsUsed": 1,
+   "Readings": 59,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 55
+ },
+ {
+   "State": "Karnataka",
+   "City": "Gulbarga",
+   "NoOfLocationsUsed": 0,
+   "Readings": 2,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": 63
+ },
+ {
+   "State": "Karnataka",
+   "City": "Gulbarga",
+   "NoOfLocationsUsed": 1,
+   "Readings": 89,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 54
+ },
+ {
+   "State": "Karnataka",
+   "City": "Hubli",
+   "NoOfLocationsUsed": 2,
+   "Readings": 214,
+   "IdealReadings": 208,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 79
+ },
+ {
+   "State": "Karnataka",
+   "City": "Hubli",
+   "NoOfLocationsUsed": 2,
+   "Readings": 208,
+   "IdealReadings": 208,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 84
+ },
+ {
+   "State": "Karnataka",
+   "City": "Hubli",
+   "NoOfLocationsUsed": 2,
+   "Readings": 209,
+   "IdealReadings": 208,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 75
+ },
+ {
+   "State": "Karnataka",
+   "City": "Hubli",
+   "NoOfLocationsUsed": 1,
+   "Readings": 51,
+   "IdealReadings": 104,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": 78
+ },
+ {
+   "State": "Karnataka",
+   "City": "Devanagere",
+   "NoOfLocationsUsed": 3,
+   "Readings": 157,
+   "IdealReadings": 312,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 94
+ },
+ {
+   "State": "Karnataka",
+   "City": "Devanagere",
+   "NoOfLocationsUsed": 2,
+   "Readings": 198,
+   "IdealReadings": 208,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 44
+ },
+ {
+   "State": "Karnataka",
+   "City": "Devanagere",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": null
+ },
+ {
+   "State": "Karnataka",
+   "City": "Devanagere",
+   "NoOfLocationsUsed": 3,
+   "Readings": 241,
+   "IdealReadings": 312,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 87
+ },
+ {
+   "State": "Karnataka",
+   "City": "Bangalore",
+   "NoOfLocationsUsed": 8,
+   "Readings": 731,
+   "IdealReadings": 832,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 103
+ },
+ {
+   "State": "Karnataka",
+   "City": "Bangalore",
+   "NoOfLocationsUsed": 8,
+   "Readings": 818,
+   "IdealReadings": 832,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 90
+ },
+ {
+   "State": "Karnataka",
+   "City": "Bangalore",
+   "NoOfLocationsUsed": 1,
+   "Readings": 64,
+   "IdealReadings": 104,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": 57
+ },
+ {
+   "State": "Karnataka",
+   "City": "Bangalore",
+   "NoOfLocationsUsed": 9,
+   "Readings": 772,
+   "IdealReadings": 936,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 92
+ },
+ {
+   "State": "Jharkhand",
+   "City": "Dhanbad",
+   "NoOfLocationsUsed": 3,
+   "Readings": 245,
+   "IdealReadings": 312,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 226
+ },
+ {
+   "State": "Jharkhand",
+   "City": "Dhanbad",
+   "NoOfLocationsUsed": 3,
+   "Readings": 256,
+   "IdealReadings": 312,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 263
+ },
+ {
+   "State": "Jharkhand",
+   "City": "Dhanbad",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": null
+ },
+ {
+   "State": "Jharkhand",
+   "City": "Dhanbad",
+   "NoOfLocationsUsed": 3,
+   "Readings": 78,
+   "IdealReadings": 312,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 238
+ },
+ {
+   "State": "Jammu & Kashmir",
+   "City": "Srinagar",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": null
+ },
+ {
+   "State": "Jammu & Kashmir",
+   "City": "Srinagar",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": null
+ },
+ {
+   "State": "Jammu & Kashmir",
+   "City": "Srinagar",
+   "NoOfLocationsUsed": 3,
+   "Readings": 134,
+   "IdealReadings": 312,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 153
+ },
+ {
+   "State": "Jammu & Kashmir",
+   "City": "Srinagar",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": null
+ },
+ {
+   "State": "Jammu & Kashmir",
+   "City": "Jammu",
+   "NoOfLocationsUsed": 3,
+   "Readings": 261,
+   "IdealReadings": 312,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 149
+ },
+ {
+   "State": "Jammu & Kashmir",
+   "City": "Jammu",
+   "NoOfLocationsUsed": 3,
+   "Readings": 275,
+   "IdealReadings": 312,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 131
+ },
+ {
+   "State": "Jammu & Kashmir",
+   "City": "Jammu",
+   "NoOfLocationsUsed": 3,
+   "Readings": 298,
+   "IdealReadings": 312,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 164
+ },
+ {
+   "State": "Jammu & Kashmir",
+   "City": "Jammu",
+   "NoOfLocationsUsed": 0,
+   "Readings": 41,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": 138
+ },
+ {
+   "State": "Himachal Pradesh",
+   "City": "Damtal",
+   "NoOfLocationsUsed": 2,
+   "Readings": 271,
+   "IdealReadings": 208,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 85
+ },
+ {
+   "State": "Himachal Pradesh",
+   "City": "Damtal",
+   "NoOfLocationsUsed": 2,
+   "Readings": 249,
+   "IdealReadings": 208,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 63
+ },
+ {
+   "State": "Himachal Pradesh",
+   "City": "Damtal",
+   "NoOfLocationsUsed": 2,
+   "Readings": 28,
+   "IdealReadings": 208,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": 46
+ },
+ {
+   "State": "Himachal Pradesh",
+   "City": "Damtal",
+   "NoOfLocationsUsed": 2,
+   "Readings": 259,
+   "IdealReadings": 208,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 63
+ },
+ {
+   "State": "Himachal Pradesh",
+   "City": "Parwanoo",
+   "NoOfLocationsUsed": 2,
+   "Readings": 251,
+   "IdealReadings": 208,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 65
+ },
+ {
+   "State": "Himachal Pradesh",
+   "City": "Parwanoo",
+   "NoOfLocationsUsed": 2,
+   "Readings": 276,
+   "IdealReadings": 208,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 70
+ },
+ {
+   "State": "Himachal Pradesh",
+   "City": "Parwanoo",
+   "NoOfLocationsUsed": 2,
+   "Readings": 257,
+   "IdealReadings": 208,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 63
+ },
+ {
+   "State": "Himachal Pradesh",
+   "City": "Parwanoo",
+   "NoOfLocationsUsed": 0,
+   "Readings": 18,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": 54
+ },
+ {
+   "State": "Himachal Pradesh",
+   "City": "Sunder Nagar",
+   "NoOfLocationsUsed": 2,
+   "Readings": 257,
+   "IdealReadings": 208,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 73
+ },
+ {
+   "State": "Himachal Pradesh",
+   "City": "Sunder Nagar",
+   "NoOfLocationsUsed": 2,
+   "Readings": 260,
+   "IdealReadings": 208,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 92
+ },
+ {
+   "State": "Himachal Pradesh",
+   "City": "Sunder Nagar",
+   "NoOfLocationsUsed": 2,
+   "Readings": 266,
+   "IdealReadings": 208,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 84
+ },
+ {
+   "State": "Himachal Pradesh",
+   "City": "Sunder Nagar",
+   "NoOfLocationsUsed": 0,
+   "Readings": 4,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": 149
+ },
+ {
+   "State": "Himachal Pradesh",
+   "City": "Paonta Sahib",
+   "NoOfLocationsUsed": 2,
+   "Readings": 269,
+   "IdealReadings": 208,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 84
+ },
+ {
+   "State": "Himachal Pradesh",
+   "City": "Paonta Sahib",
+   "NoOfLocationsUsed": 2,
+   "Readings": 177,
+   "IdealReadings": 208,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 102
+ },
+ {
+   "State": "Himachal Pradesh",
+   "City": "Paonta Sahib",
+   "NoOfLocationsUsed": 2,
+   "Readings": 282,
+   "IdealReadings": 208,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 88
+ },
+ {
+   "State": "Himachal Pradesh",
+   "City": "Paonta Sahib",
+   "NoOfLocationsUsed": 0,
+   "Readings": 17,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": 87
+ },
+ {
+   "State": "Himachal Pradesh",
+   "City": "Kala Amb",
+   "NoOfLocationsUsed": 2,
+   "Readings": 305,
+   "IdealReadings": 208,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 119
+ },
+ {
+   "State": "Himachal Pradesh",
+   "City": "Kala Amb",
+   "NoOfLocationsUsed": 2,
+   "Readings": 311,
+   "IdealReadings": 208,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 129
+ },
+ {
+   "State": "Himachal Pradesh",
+   "City": "Kala Amb",
+   "NoOfLocationsUsed": 2,
+   "Readings": 325,
+   "IdealReadings": 208,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 104
+ },
+ {
+   "State": "Himachal Pradesh",
+   "City": "Kala Amb",
+   "NoOfLocationsUsed": 1,
+   "Readings": 45,
+   "IdealReadings": 104,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": 89
+ },
+ {
+   "State": "Himachal Pradesh",
+   "City": "Nalagarh",
+   "NoOfLocationsUsed": 1,
+   "Readings": 122,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 147
+ },
+ {
+   "State": "Himachal Pradesh",
+   "City": "Nalagarh",
+   "NoOfLocationsUsed": 1,
+   "Readings": 113,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 108
+ },
+ {
+   "State": "Himachal Pradesh",
+   "City": "Nalagarh",
+   "NoOfLocationsUsed": 1,
+   "Readings": 129,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 148
+ },
+ {
+   "State": "Himachal Pradesh",
+   "City": "Nalagarh",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": null
+ },
+ {
+   "State": "Himachal Pradesh",
+   "City": "Baddi",
+   "NoOfLocationsUsed": 3,
+   "Readings": 163,
+   "IdealReadings": 312,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 90
+ },
+ {
+   "State": "Himachal Pradesh",
+   "City": "Baddi",
+   "NoOfLocationsUsed": 3,
+   "Readings": 377,
+   "IdealReadings": 312,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 164
+ },
+ {
+   "State": "Himachal Pradesh",
+   "City": "Baddi",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": null
+ },
+ {
+   "State": "Himachal Pradesh",
+   "City": "Baddi",
+   "NoOfLocationsUsed": 3,
+   "Readings": 263,
+   "IdealReadings": 312,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 172
+ },
+ {
+   "State": "Gujarat",
+   "City": "Surat",
+   "NoOfLocationsUsed": 3,
+   "Readings": 313,
+   "IdealReadings": 312,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 106
+ },
+ {
+   "State": "Gujarat",
+   "City": "Surat",
+   "NoOfLocationsUsed": 3,
+   "Readings": 278,
+   "IdealReadings": 312,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 92
+ },
+ {
+   "State": "Gujarat",
+   "City": "Surat",
+   "NoOfLocationsUsed": 3,
+   "Readings": 313,
+   "IdealReadings": 312,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 176
+ },
+ {
+   "State": "Gujarat",
+   "City": "Surat",
+   "NoOfLocationsUsed": 0,
+   "Readings": 28,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": 228
+ },
+ {
+   "State": "Gujarat",
+   "City": "Vadodara",
+   "NoOfLocationsUsed": 5,
+   "Readings": 493,
+   "IdealReadings": 520,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 108
+ },
+ {
+   "State": "Gujarat",
+   "City": "Vadodara",
+   "NoOfLocationsUsed": 3,
+   "Readings": 257,
+   "IdealReadings": 312,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 93
+ },
+ {
+   "State": "Gujarat",
+   "City": "Vadodara",
+   "NoOfLocationsUsed": 5,
+   "Readings": 517,
+   "IdealReadings": 520,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 188
+ },
+ {
+   "State": "Gujarat",
+   "City": "Vadodara",
+   "NoOfLocationsUsed": 0,
+   "Readings": 35,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": 225
+ },
+ {
+   "State": "Gujarat",
+   "City": "Ahmedabad",
+   "NoOfLocationsUsed": 1,
+   "Readings": 95,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 108
+ },
+ {
+   "State": "Gujarat",
+   "City": "Ahmedabad",
+   "NoOfLocationsUsed": 9,
+   "Readings": 929,
+   "IdealReadings": 936,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 236
+ },
+ {
+   "State": "Gujarat",
+   "City": "Ahmedabad",
+   "NoOfLocationsUsed": 2,
+   "Readings": 88,
+   "IdealReadings": 208,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": 189
+ },
+ {
+   "State": "Gujarat",
+   "City": "Ahmedabad",
+   "NoOfLocationsUsed": 9,
+   "Readings": 856,
+   "IdealReadings": 936,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 120
+ },
+ {
+   "State": "Delhi",
+   "City": "Delhi",
+   "NoOfLocationsUsed": 9,
+   "Readings": 840,
+   "IdealReadings": 936,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 240
+ },
+ {
+   "State": "Delhi",
+   "City": "Delhi",
+   "NoOfLocationsUsed": 9,
+   "Readings": 848,
+   "IdealReadings": 936,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 274
+ },
+ {
+   "State": "Delhi",
+   "City": "Delhi",
+   "NoOfLocationsUsed": 9,
+   "Readings": 919,
+   "IdealReadings": 936,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 225
+ },
+ {
+   "State": "Delhi",
+   "City": "Delhi",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": null
+ },
+ {
+   "State": "Chattisgarh",
+   "City": "Korba",
+   "NoOfLocationsUsed": 2,
+   "Readings": 140,
+   "IdealReadings": 208,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 58
+ },
+ {
+   "State": "Chattisgarh",
+   "City": "Korba",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": null
+ },
+ {
+   "State": "Chattisgarh",
+   "City": "Korba",
+   "NoOfLocationsUsed": 2,
+   "Readings": 196,
+   "IdealReadings": 208,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 59
+ },
+ {
+   "State": "Chattisgarh",
+   "City": "Korba",
+   "NoOfLocationsUsed": 0,
+   "Readings": 25,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": 71
+ },
+ {
+   "State": "Chattisgarh",
+   "City": "Bhilai",
+   "NoOfLocationsUsed": 3,
+   "Readings": 248,
+   "IdealReadings": 312,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 108
+ },
+ {
+   "State": "Chattisgarh",
+   "City": "Bhilai",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": null
+ },
+ {
+   "State": "Chattisgarh",
+   "City": "Bhilai",
+   "NoOfLocationsUsed": 2,
+   "Readings": 103,
+   "IdealReadings": 208,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": 73
+ },
+ {
+   "State": "Chattisgarh",
+   "City": "Bhilai",
+   "NoOfLocationsUsed": 3,
+   "Readings": 118,
+   "IdealReadings": 312,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 97
+ },
+ {
+   "State": "Chattisgarh",
+   "City": "Raipur",
+   "NoOfLocationsUsed": 2,
+   "Readings": 115,
+   "IdealReadings": 208,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 103
+ },
+ {
+   "State": "Chattisgarh",
+   "City": "Raipur",
+   "NoOfLocationsUsed": 2,
+   "Readings": 129,
+   "IdealReadings": 208,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 148
+ },
+ {
+   "State": "Chattisgarh",
+   "City": "Raipur",
+   "NoOfLocationsUsed": 2,
+   "Readings": 149,
+   "IdealReadings": 208,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 65
+ },
+ {
+   "State": "Chattisgarh",
+   "City": "Raipur",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": null
+ },
+ {
+   "State": "Chandigarh",
+   "City": "Chandigarh",
+   "NoOfLocationsUsed": 5,
+   "Readings": 709,
+   "IdealReadings": 520,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 109
+ },
+ {
+   "State": "Chandigarh",
+   "City": "Chandigarh",
+   "NoOfLocationsUsed": 5,
+   "Readings": 659,
+   "IdealReadings": 520,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 105
+ },
+ {
+   "State": "Chandigarh",
+   "City": "Chandigarh",
+   "NoOfLocationsUsed": 5,
+   "Readings": 678,
+   "IdealReadings": 520,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 102
+ },
+ {
+   "State": "Chandigarh",
+   "City": "Chandigarh",
+   "NoOfLocationsUsed": 5,
+   "Readings": 219,
+   "IdealReadings": 520,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": 83
+ },
+ {
+   "State": "Bihar",
+   "City": "Gaya",
+   "NoOfLocationsUsed": 1,
+   "Readings": 95,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 77
+ },
+ {
+   "State": "Bihar",
+   "City": "Gaya",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": null
+ },
+ {
+   "State": "Bihar",
+   "City": "Gaya",
+   "NoOfLocationsUsed": 1,
+   "Readings": 103,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 89
+ },
+ {
+   "State": "Bihar",
+   "City": "Gaya",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": null
+ },
+ {
+   "State": "Bihar",
+   "City": "Patna",
+   "NoOfLocationsUsed": 2,
+   "Readings": 151,
+   "IdealReadings": 208,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 157
+ },
+ {
+   "State": "Bihar",
+   "City": "Patna",
+   "NoOfLocationsUsed": 2,
+   "Readings": 201,
+   "IdealReadings": 208,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 212
+ },
+ {
+   "State": "Bihar",
+   "City": "Patna",
+   "NoOfLocationsUsed": 2,
+   "Readings": 173,
+   "IdealReadings": 208,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 208
+ },
+ {
+   "State": "Bihar",
+   "City": "Patna",
+   "NoOfLocationsUsed": 2,
+   "Readings": 61,
+   "IdealReadings": 208,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": 234
+ },
+ {
+   "State": "Bihar",
+   "City": "Muzaffarpur",
+   "NoOfLocationsUsed": 1,
+   "Readings": 103,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 167
+ },
+ {
+   "State": "Bihar",
+   "City": "Muzaffarpur",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": null
+ },
+ {
+   "State": "Bihar",
+   "City": "Muzaffarpur",
+   "NoOfLocationsUsed": 1,
+   "Readings": 107,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 139
+ },
+ {
+   "State": "Bihar",
+   "City": "Muzaffarpur",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": null
+ },
+ {
+   "State": "Assam",
+   "City": "Silcher",
+   "NoOfLocationsUsed": 2,
+   "Readings": 168,
+   "IdealReadings": 208,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 49
+ },
+ {
+   "State": "Assam",
+   "City": "Silcher",
+   "NoOfLocationsUsed": 2,
+   "Readings": 168,
+   "IdealReadings": 208,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 558
+ },
+ {
+   "State": "Assam",
+   "City": "Silcher",
+   "NoOfLocationsUsed": 2,
+   "Readings": 179,
+   "IdealReadings": 208,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 50
+ },
+ {
+   "State": "Assam",
+   "City": "Silcher",
+   "NoOfLocationsUsed": 1,
+   "Readings": 60,
+   "IdealReadings": 104,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": 46
+ },
+ {
+   "State": "Assam",
+   "City": "Nagaon",
+   "NoOfLocationsUsed": 1,
+   "Readings": 82,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 75
+ },
+ {
+   "State": "Assam",
+   "City": "Nagaon",
+   "NoOfLocationsUsed": 1,
+   "Readings": 55,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 111
+ },
+ {
+   "State": "Assam",
+   "City": "Nagaon",
+   "NoOfLocationsUsed": 1,
+   "Readings": 99,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 96
+ },
+ {
+   "State": "Assam",
+   "City": "Nagaon",
+   "NoOfLocationsUsed": 1,
+   "Readings": 38,
+   "IdealReadings": 104,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": 105
+ },
+ {
+   "State": "Assam",
+   "City": "Sivasagar",
+   "NoOfLocationsUsed": 2,
+   "Readings": 193,
+   "IdealReadings": 208,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 81
+ },
+ {
+   "State": "Assam",
+   "City": "Sivasagar",
+   "NoOfLocationsUsed": 2,
+   "Readings": 191,
+   "IdealReadings": 208,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 75
+ },
+ {
+   "State": "Assam",
+   "City": "Sivasagar",
+   "NoOfLocationsUsed": 2,
+   "Readings": 207,
+   "IdealReadings": 208,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 72
+ },
+ {
+   "State": "Assam",
+   "City": "Sivasagar",
+   "NoOfLocationsUsed": 1,
+   "Readings": 59,
+   "IdealReadings": 104,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": 54
+ },
+ {
+   "State": "Assam",
+   "City": "Nalbari",
+   "NoOfLocationsUsed": 1,
+   "Readings": 94,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 95
+ },
+ {
+   "State": "Assam",
+   "City": "Nalbari",
+   "NoOfLocationsUsed": 1,
+   "Readings": 103,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 108
+ },
+ {
+   "State": "Assam",
+   "City": "Nalbari",
+   "NoOfLocationsUsed": 1,
+   "Readings": 99,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 97
+ },
+ {
+   "State": "Assam",
+   "City": "Nalbari",
+   "NoOfLocationsUsed": 0,
+   "Readings": 34,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": 103
+ },
+ {
+   "State": "Assam",
+   "City": "Guwahati",
+   "NoOfLocationsUsed": 6,
+   "Readings": 811,
+   "IdealReadings": 624,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 106
+ },
+ {
+   "State": "Assam",
+   "City": "Guwahati",
+   "NoOfLocationsUsed": 6,
+   "Readings": 1288,
+   "IdealReadings": 624,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 105
+ },
+ {
+   "State": "Assam",
+   "City": "Guwahati",
+   "NoOfLocationsUsed": 6,
+   "Readings": 806,
+   "IdealReadings": 624,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 112
+ },
+ {
+   "State": "Assam",
+   "City": "Guwahati",
+   "NoOfLocationsUsed": 6,
+   "Readings": 395,
+   "IdealReadings": 624,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": 101
+ },
+ {
+   "State": "Andhra Pradesh",
+   "City": "Nellore",
+   "NoOfLocationsUsed": 1,
+   "Readings": 112,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 65
+ },
+ {
+   "State": "Andhra Pradesh",
+   "City": "Nellore",
+   "NoOfLocationsUsed": 1,
+   "Readings": 107,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 66
+ },
+ {
+   "State": "Andhra Pradesh",
+   "City": "Nellore",
+   "NoOfLocationsUsed": 4,
+   "Readings": 280,
+   "IdealReadings": 416,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 64
+ },
+ {
+   "State": "Andhra Pradesh",
+   "City": "Nellore",
+   "NoOfLocationsUsed": 4,
+   "Readings": 156,
+   "IdealReadings": 416,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": 68
+ },
+ {
+   "State": "Andhra Pradesh",
+   "City": "Rajahmundry",
+   "NoOfLocationsUsed": 1,
+   "Readings": 103,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 65
+ },
+ {
+   "State": "Andhra Pradesh",
+   "City": "Rajahmundry",
+   "NoOfLocationsUsed": 1,
+   "Readings": 102,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 64
+ },
+ {
+   "State": "Andhra Pradesh",
+   "City": "Rajahmundry",
+   "NoOfLocationsUsed": 3,
+   "Readings": 142,
+   "IdealReadings": 312,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 94
+ },
+ {
+   "State": "Andhra Pradesh",
+   "City": "Rajahmundry",
+   "NoOfLocationsUsed": 4,
+   "Readings": 106,
+   "IdealReadings": 416,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": 59
+ },
+ {
+   "State": "Andhra Pradesh",
+   "City": "Ongole",
+   "NoOfLocationsUsed": 1,
+   "Readings": 110,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 65
+ },
+ {
+   "State": "Andhra Pradesh",
+   "City": "Ongole",
+   "NoOfLocationsUsed": 1,
+   "Readings": 98,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 65
+ },
+ {
+   "State": "Andhra Pradesh",
+   "City": "Ongole",
+   "NoOfLocationsUsed": 4,
+   "Readings": 208,
+   "IdealReadings": 416,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 66
+ },
+ {
+   "State": "Andhra Pradesh",
+   "City": "Ongole",
+   "NoOfLocationsUsed": 4,
+   "Readings": 159,
+   "IdealReadings": 416,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": 58
+ },
+ {
+   "State": "Andhra Pradesh",
+   "City": "Guntur",
+   "NoOfLocationsUsed": 1,
+   "Readings": 113,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 69
+ },
+ {
+   "State": "Andhra Pradesh",
+   "City": "Guntur",
+   "NoOfLocationsUsed": 1,
+   "Readings": 101,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 88
+ },
+ {
+   "State": "Andhra Pradesh",
+   "City": "Guntur",
+   "NoOfLocationsUsed": 4,
+   "Readings": 257,
+   "IdealReadings": 416,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 49
+ },
+ {
+   "State": "Andhra Pradesh",
+   "City": "Guntur",
+   "NoOfLocationsUsed": 3,
+   "Readings": 134,
+   "IdealReadings": 312,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": 54
+ },
+ {
+   "State": "Andhra Pradesh",
+   "City": "Chittoor",
+   "NoOfLocationsUsed": 1,
+   "Readings": 107,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 63
+ },
+ {
+   "State": "Andhra Pradesh",
+   "City": "Chittoor",
+   "NoOfLocationsUsed": 1,
+   "Readings": 106,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 59
+ },
+ {
+   "State": "Andhra Pradesh",
+   "City": "Chittoor",
+   "NoOfLocationsUsed": 1,
+   "Readings": 107,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 51
+ },
+ {
+   "State": "Andhra Pradesh",
+   "City": "Chittoor",
+   "NoOfLocationsUsed": 5,
+   "Readings": 179,
+   "IdealReadings": 520,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": 61
+ },
+ {
+   "State": "Andhra Pradesh",
+   "City": "Srikakulam",
+   "NoOfLocationsUsed": 1,
+   "Readings": 111,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 70
+ },
+ {
+   "State": "Andhra Pradesh",
+   "City": "Srikakulam",
+   "NoOfLocationsUsed": 1,
+   "Readings": 102,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 71
+ },
+ {
+   "State": "Andhra Pradesh",
+   "City": "Srikakulam",
+   "NoOfLocationsUsed": 4,
+   "Readings": 323,
+   "IdealReadings": 416,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 71
+ },
+ {
+   "State": "Andhra Pradesh",
+   "City": "Srikakulam",
+   "NoOfLocationsUsed": 4,
+   "Readings": 131,
+   "IdealReadings": 416,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": 65
+ },
+ {
+   "State": "Andhra Pradesh",
+   "City": "Vizianagaram",
+   "NoOfLocationsUsed": 1,
+   "Readings": 107,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 72
+ },
+ {
+   "State": "Andhra Pradesh",
+   "City": "Vizianagaram",
+   "NoOfLocationsUsed": 1,
+   "Readings": 97,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 85
+ },
+ {
+   "State": "Andhra Pradesh",
+   "City": "Vizianagaram",
+   "NoOfLocationsUsed": 3,
+   "Readings": 308,
+   "IdealReadings": 312,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 65
+ },
+ {
+   "State": "Andhra Pradesh",
+   "City": "Vizianagaram",
+   "NoOfLocationsUsed": 4,
+   "Readings": 141,
+   "IdealReadings": 416,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": 70
+ },
+ {
+   "State": "Andhra Pradesh",
+   "City": "Visakhapatnam",
+   "NoOfLocationsUsed": 8,
+   "Readings": 876,
+   "IdealReadings": 832,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 73
+ },
+ {
+   "State": "Andhra Pradesh",
+   "City": "Visakhapatnam",
+   "NoOfLocationsUsed": 8,
+   "Readings": 855,
+   "IdealReadings": 832,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 77
+ },
+ {
+   "State": "Andhra Pradesh",
+   "City": "Visakhapatnam",
+   "NoOfLocationsUsed": 9,
+   "Readings": 878,
+   "IdealReadings": 936,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 78
+ },
+ {
+   "State": "Andhra Pradesh",
+   "City": "Visakhapatnam",
+   "NoOfLocationsUsed": 9,
+   "Readings": 480,
+   "IdealReadings": 936,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": 71
+ },
+ {
+   "State": "Andhra Pradesh",
+   "City": "Kadapa",
+   "NoOfLocationsUsed": 1,
+   "Readings": 111,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 74
+ },
+ {
+   "State": "Andhra Pradesh",
+   "City": "Kadapa",
+   "NoOfLocationsUsed": 1,
+   "Readings": 108,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 68
+ },
+ {
+   "State": "Andhra Pradesh",
+   "City": "Kadapa",
+   "NoOfLocationsUsed": 5,
+   "Readings": 378,
+   "IdealReadings": 520,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 61
+ },
+ {
+   "State": "Andhra Pradesh",
+   "City": "Kadapa",
+   "NoOfLocationsUsed": 5,
+   "Readings": 186,
+   "IdealReadings": 520,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": 58
+ },
+ {
+   "State": "Andhra Pradesh",
+   "City": "Eluru",
+   "NoOfLocationsUsed": 1,
+   "Readings": 112,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 74
+ },
+ {
+   "State": "Andhra Pradesh",
+   "City": "Eluru",
+   "NoOfLocationsUsed": 1,
+   "Readings": 108,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 70
+ },
+ {
+   "State": "Andhra Pradesh",
+   "City": "Eluru",
+   "NoOfLocationsUsed": 4,
+   "Readings": 274,
+   "IdealReadings": 416,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 67
+ },
+ {
+   "State": "Andhra Pradesh",
+   "City": "Eluru",
+   "NoOfLocationsUsed": 4,
+   "Readings": 164,
+   "IdealReadings": 416,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": 66
+ },
+ {
+   "State": "Andhra Pradesh",
+   "City": "Anantapur",
+   "NoOfLocationsUsed": 1,
+   "Readings": 111,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 78
+ },
+ {
+   "State": "Andhra Pradesh",
+   "City": "Anantapur",
+   "NoOfLocationsUsed": 1,
+   "Readings": 106,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 85
+ },
+ {
+   "State": "Andhra Pradesh",
+   "City": "Anantapur",
+   "NoOfLocationsUsed": 4,
+   "Readings": 398,
+   "IdealReadings": 416,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 71
+ },
+ {
+   "State": "Andhra Pradesh",
+   "City": "Anantapur",
+   "NoOfLocationsUsed": 4,
+   "Readings": 145,
+   "IdealReadings": 416,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": 81
+ },
+ {
+   "State": "Andhra Pradesh",
+   "City": "Kurnool",
+   "NoOfLocationsUsed": 1,
+   "Readings": 112,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 82
+ },
+ {
+   "State": "Andhra Pradesh",
+   "City": "Kurnool",
+   "NoOfLocationsUsed": 1,
+   "Readings": 108,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 69
+ },
+ {
+   "State": "Andhra Pradesh",
+   "City": "Kurnool",
+   "NoOfLocationsUsed": 4,
+   "Readings": 390,
+   "IdealReadings": 416,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 66
+ },
+ {
+   "State": "Andhra Pradesh",
+   "City": "Kurnool",
+   "NoOfLocationsUsed": 4,
+   "Readings": 165,
+   "IdealReadings": 416,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": 62
+ },
+ {
+   "State": "Andhra Pradesh",
+   "City": "Vijayawada",
+   "NoOfLocationsUsed": 3,
+   "Readings": 327,
+   "IdealReadings": 312,
+   "Year": 2017,
+   "Pollutant": "PM 10",
+   "Values": 99
+ },
+ {
+   "State": "Andhra Pradesh",
+   "City": "Vijayawada",
+   "NoOfLocationsUsed": 3,
+   "Readings": 297,
+   "IdealReadings": 312,
+   "Year": 2016,
+   "Pollutant": "PM 10",
+   "Values": 102
+ },
+ {
+   "State": "Andhra Pradesh",
+   "City": "Vijayawada",
+   "NoOfLocationsUsed": 9,
+   "Readings": 657,
+   "IdealReadings": 936,
+   "Year": 2018,
+   "Pollutant": "PM 10",
+   "Values": 77
+ },
+ {
+   "State": "Andhra Pradesh",
+   "City": "Vijayawada",
+   "NoOfLocationsUsed": 9,
+   "Readings": 395,
+   "IdealReadings": 936,
+   "Year": 2019,
+   "Pollutant": "PM 10",
+   "Values": 78
+ }
+]

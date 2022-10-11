@@ -1,0 +1,4394 @@
+[
+ {
+   "City": "Barrackpore",
+   "State": "West Bengal",
+   "NoOfLocationsUsed": 3,
+   "Readings": 311,
+   "IdealReadings": 312,
+   "Year": 2016,
+   "Values": 58
+ },
+ {
+   "City": "Haldia",
+   "State": "West Bengal",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Howrah",
+   "State": "West Bengal",
+   "NoOfLocationsUsed": 3,
+   "Readings": 311,
+   "IdealReadings": 312,
+   "Year": 2016,
+   "Values": 69
+ },
+ {
+   "City": "Kolkata",
+   "State": "West Bengal",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Raniganj",
+   "State": "West Bengal",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Durgapur",
+   "State": "West Bengal",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Asansol",
+   "State": "West Bengal",
+   "NoOfLocationsUsed": 1,
+   "Readings": 86,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": 88
+ },
+ {
+   "City": "Kashipur",
+   "State": "Uttarakhand",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Rishikesh",
+   "State": "Uttarakhand",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Dehradun",
+   "State": "Uttarakhand",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Jhansi",
+   "State": "Uttar Pradesh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Allahabad",
+   "State": "Uttar Pradesh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Rai Bareilly",
+   "State": "Uttar Pradesh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Anpara/ Sonbhadra",
+   "State": "Uttar Pradesh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Agra",
+   "State": "Uttar Pradesh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Bareilly",
+   "State": "Uttar Pradesh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Gajraula",
+   "State": "Uttar Pradesh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Khurja",
+   "State": "Uttar Pradesh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Noida",
+   "State": "Uttar Pradesh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Moradabad",
+   "State": "Uttar Pradesh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Firozabad",
+   "State": "Uttar Pradesh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Kanpur",
+   "State": "Uttar Pradesh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Varanasi",
+   "State": "Uttar Pradesh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Lucknow",
+   "State": "Uttar Pradesh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Ghaziabad",
+   "State": "Uttar Pradesh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Nalgonda",
+   "State": "Telangana",
+   "NoOfLocationsUsed": 1,
+   "Readings": 9,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": 35
+ },
+ {
+   "City": "Patancheru",
+   "State": "Telangana",
+   "NoOfLocationsUsed": 1,
+   "Readings": 56,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": 38
+ },
+ {
+   "City": "Sangareddy",
+   "State": "Telangana",
+   "NoOfLocationsUsed": 1,
+   "Readings": 87,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": 28
+ },
+ {
+   "City": "Hyderabad",
+   "State": "Telangana",
+   "NoOfLocationsUsed": 8,
+   "Readings": 533,
+   "IdealReadings": 832,
+   "Year": 2016,
+   "Values": 49
+ },
+ {
+   "City": "Trichy",
+   "State": "Tamil Nadu",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Thoothukudi/ Tuticorin",
+   "State": "Tamil Nadu",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Udaipur",
+   "State": "Rajasthan",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Kota",
+   "State": "Rajasthan",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Alwar",
+   "State": "Rajasthan",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Jaipur",
+   "State": "Rajasthan",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Jodhpur",
+   "State": "Rajasthan",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Dera Baba Nanak",
+   "State": "Punjab",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Naya Nangal",
+   "State": "Punjab",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Dera Bassi",
+   "State": "Punjab",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Patiala",
+   "State": "Punjab",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Mandi Gobindgarh",
+   "State": "Punjab",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Khanna",
+   "State": "Punjab",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Ludhiana",
+   "State": "Punjab",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Amritsar",
+   "State": "Punjab",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Jalandhar",
+   "State": "Punjab",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Balasore",
+   "State": "Odisha",
+   "NoOfLocationsUsed": 3,
+   "Readings": 253,
+   "IdealReadings": 312,
+   "Year": 2016,
+   "Values": 47
+ },
+ {
+   "City": "Cuttack",
+   "State": "Odisha",
+   "NoOfLocationsUsed": 3,
+   "Readings": 310,
+   "IdealReadings": 312,
+   "Year": 2016,
+   "Values": 42
+ },
+ {
+   "City": "Bhubaneswar",
+   "State": "Odisha",
+   "NoOfLocationsUsed": 6,
+   "Readings": 451,
+   "IdealReadings": 624,
+   "Year": 2016,
+   "Values": 36
+ },
+ {
+   "City": "Angul",
+   "State": "Odisha",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Talcher",
+   "State": "Odisha",
+   "NoOfLocationsUsed": 5,
+   "Readings": 356,
+   "IdealReadings": 520,
+   "Year": 2016,
+   "Values": 35
+ },
+ {
+   "City": "Rourkela",
+   "State": "Odisha",
+   "NoOfLocationsUsed": 2,
+   "Readings": 131,
+   "IdealReadings": 208,
+   "Year": 2016,
+   "Values": 45
+ },
+ {
+   "City": "Kalinga Nagar",
+   "State": "Odisha",
+   "NoOfLocationsUsed": 3,
+   "Readings": 281,
+   "IdealReadings": 312,
+   "Year": 2016,
+   "Values": 46
+ },
+ {
+   "City": "Kohima",
+   "State": "Nagaland",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Dimapur",
+   "State": "Nagaland",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Byrnihat",
+   "State": "Meghalaya",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Solapur",
+   "State": "Maharashtra",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Sangli",
+   "State": "Maharashtra",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Jalgaon",
+   "State": "Maharashtra",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Nashik",
+   "State": "Maharashtra",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Latur",
+   "State": "Maharashtra",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Aurangabad",
+   "State": "Maharashtra",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Kolhapur",
+   "State": "Maharashtra",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Jalna",
+   "State": "Maharashtra",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Pune",
+   "State": "Maharashtra",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Nagpur",
+   "State": "Maharashtra",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Navi Mumbai",
+   "State": "Maharashtra",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Amravati",
+   "State": "Maharashtra",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Thane",
+   "State": "Maharashtra",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Akola",
+   "State": "Maharashtra",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Chandrapur",
+   "State": "Maharashtra",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Ulhasnagar",
+   "State": "Maharashtra",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Mumbai",
+   "State": "Maharashtra",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Badlapur",
+   "State": "Maharashtra",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Sagar",
+   "State": "Madhya Pradesh",
+   "NoOfLocationsUsed": 2,
+   "Readings": 186,
+   "IdealReadings": 208,
+   "Year": 2016,
+   "Values": 30
+ },
+ {
+   "City": "Ujjain",
+   "State": "Madhya Pradesh",
+   "NoOfLocationsUsed": 4,
+   "Readings": 197,
+   "IdealReadings": 416,
+   "Year": 2016,
+   "Values": 44
+ },
+ {
+   "City": "Dewas",
+   "State": "Madhya Pradesh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Indore",
+   "State": "Madhya Pradesh",
+   "NoOfLocationsUsed": 3,
+   "Readings": 272,
+   "IdealReadings": 312,
+   "Year": 2016,
+   "Values": 53
+ },
+ {
+   "City": "Bhopal",
+   "State": "Madhya Pradesh",
+   "NoOfLocationsUsed": 7,
+   "Readings": 301,
+   "IdealReadings": 728,
+   "Year": 2016,
+   "Values": 27
+ },
+ {
+   "City": "Gwalior",
+   "State": "Madhya Pradesh",
+   "NoOfLocationsUsed": 2,
+   "Readings": 12,
+   "IdealReadings": 208,
+   "Year": 2016,
+   "Values": 52
+ },
+ {
+   "City": "Gulbarga",
+   "State": "Karnataka",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Hubli",
+   "State": "Karnataka",
+   "NoOfLocationsUsed": 2,
+   "Readings": 161,
+   "IdealReadings": 208,
+   "Year": 2016,
+   "Values": 36
+ },
+ {
+   "City": "Devanagere",
+   "State": "Karnataka",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Bangalore",
+   "State": "Karnataka",
+   "NoOfLocationsUsed": 5,
+   "Readings": 429,
+   "IdealReadings": 520,
+   "Year": 2016,
+   "Values": 51
+ },
+ {
+   "City": "Dhanbad",
+   "State": "Jharkhand",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Srinagar",
+   "State": "Jammu & Kashmir",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Jammu",
+   "State": "Jammu & Kashmir",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Damtal",
+   "State": "Himachal Pradesh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Parwanoo",
+   "State": "Himachal Pradesh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Sunder Nagar",
+   "State": "Himachal Pradesh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Paonta Sahib",
+   "State": "Himachal Pradesh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Kala Amb",
+   "State": "Himachal Pradesh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Nalagarh",
+   "State": "Himachal Pradesh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Baddi",
+   "State": "Himachal Pradesh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Surat",
+   "State": "Gujarat",
+   "NoOfLocationsUsed": 3,
+   "Readings": 278,
+   "IdealReadings": 312,
+   "Year": 2016,
+   "Values": 31
+ },
+ {
+   "City": "Vadodara",
+   "State": "Gujarat",
+   "NoOfLocationsUsed": 3,
+   "Readings": 257,
+   "IdealReadings": 312,
+   "Year": 2016,
+   "Values": 30
+ },
+ {
+   "City": "Ahmedabad",
+   "State": "Gujarat",
+   "NoOfLocationsUsed": 8,
+   "Readings": 719,
+   "IdealReadings": 832,
+   "Year": 2016,
+   "Values": 34
+ },
+ {
+   "City": "Delhi",
+   "State": "Delhi",
+   "NoOfLocationsUsed": 7,
+   "Readings": 564,
+   "IdealReadings": 728,
+   "Year": 2016,
+   "Values": 118
+ },
+ {
+   "City": "Korba",
+   "State": "Chattisgarh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Bhilai",
+   "State": "Chattisgarh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Raipur",
+   "State": "Chattisgarh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Chandigarh",
+   "State": "Chandigarh",
+   "NoOfLocationsUsed": 5,
+   "Readings": 68,
+   "IdealReadings": 520,
+   "Year": 2016,
+   "Values": 123
+ },
+ {
+   "City": "Gaya",
+   "State": "Bihar",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Patna",
+   "State": "Bihar",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Muzaffarpur",
+   "State": "Bihar",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Silcher",
+   "State": "Assam",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Nagaon",
+   "State": "Assam",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Sivasagar",
+   "State": "Assam",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Nalbari",
+   "State": "Assam",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Guwahati",
+   "State": "Assam",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Nellore",
+   "State": "Andhra Pradesh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Rajahmundry",
+   "State": "Andhra Pradesh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Ongole",
+   "State": "Andhra Pradesh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Guntur",
+   "State": "Andhra Pradesh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Chittoor",
+   "State": "Andhra Pradesh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Srikakulam",
+   "State": "Andhra Pradesh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Vizianagaram",
+   "State": "Andhra Pradesh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Visakhapatnam",
+   "State": "Andhra Pradesh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Kadapa",
+   "State": "Andhra Pradesh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Eluru",
+   "State": "Andhra Pradesh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Anantapur",
+   "State": "Andhra Pradesh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Kurnool",
+   "State": "Andhra Pradesh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Vijayawada",
+   "State": "Andhra Pradesh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2016,
+   "Values": null
+ },
+ {
+   "City": "Barrackpore",
+   "State": "West Bengal",
+   "NoOfLocationsUsed": 1,
+   "Readings": 144,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": 44
+ },
+ {
+   "City": "Haldia",
+   "State": "West Bengal",
+   "NoOfLocationsUsed": 1,
+   "Readings": 104,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": 35
+ },
+ {
+   "City": "Howrah",
+   "State": "West Bengal",
+   "NoOfLocationsUsed": 3,
+   "Readings": 316,
+   "IdealReadings": 312,
+   "Year": 2017,
+   "Values": 67
+ },
+ {
+   "City": "Kolkata",
+   "State": "West Bengal",
+   "NoOfLocationsUsed": 3,
+   "Readings": 312,
+   "IdealReadings": 312,
+   "Year": 2017,
+   "Values": 69
+ },
+ {
+   "City": "Raniganj",
+   "State": "West Bengal",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": null
+ },
+ {
+   "City": "Durgapur",
+   "State": "West Bengal",
+   "NoOfLocationsUsed": 1,
+   "Readings": 103,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": 69
+ },
+ {
+   "City": "Asansol",
+   "State": "West Bengal",
+   "NoOfLocationsUsed": 1,
+   "Readings": 104,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": 67
+ },
+ {
+   "City": "Kashipur",
+   "State": "Uttarakhand",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": null
+ },
+ {
+   "City": "Rishikesh",
+   "State": "Uttarakhand",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": null
+ },
+ {
+   "City": "Dehradun",
+   "State": "Uttarakhand",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": null
+ },
+ {
+   "City": "Jhansi",
+   "State": "Uttar Pradesh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": null
+ },
+ {
+   "City": "Allahabad",
+   "State": "Uttar Pradesh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": null
+ },
+ {
+   "City": "Rai Bareilly",
+   "State": "Uttar Pradesh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": null
+ },
+ {
+   "City": "Anpara/ Sonbhadra",
+   "State": "Uttar Pradesh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": null
+ },
+ {
+   "City": "Agra",
+   "State": "Uttar Pradesh",
+   "NoOfLocationsUsed": 4,
+   "Readings": 425,
+   "IdealReadings": 416,
+   "Year": 2017,
+   "Values": 124
+ },
+ {
+   "City": "Bareilly",
+   "State": "Uttar Pradesh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": null
+ },
+ {
+   "City": "Gajraula",
+   "State": "Uttar Pradesh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": null
+ },
+ {
+   "City": "Khurja",
+   "State": "Uttar Pradesh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": null
+ },
+ {
+   "City": "Noida",
+   "State": "Uttar Pradesh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": null
+ },
+ {
+   "City": "Moradabad",
+   "State": "Uttar Pradesh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": null
+ },
+ {
+   "City": "Firozabad",
+   "State": "Uttar Pradesh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": null
+ },
+ {
+   "City": "Kanpur",
+   "State": "Uttar Pradesh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": null
+ },
+ {
+   "City": "Varanasi",
+   "State": "Uttar Pradesh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": null
+ },
+ {
+   "City": "Lucknow",
+   "State": "Uttar Pradesh",
+   "NoOfLocationsUsed": 1,
+   "Readings": 74,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": 102
+ },
+ {
+   "City": "Ghaziabad",
+   "State": "Uttar Pradesh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": null
+ },
+ {
+   "City": "Nalgonda",
+   "State": "Telangana",
+   "NoOfLocationsUsed": 1,
+   "Readings": 87,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": 36
+ },
+ {
+   "City": "Patancheru",
+   "State": "Telangana",
+   "NoOfLocationsUsed": 1,
+   "Readings": 68,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": 31
+ },
+ {
+   "City": "Sangareddy",
+   "State": "Telangana",
+   "NoOfLocationsUsed": 3,
+   "Readings": 282,
+   "IdealReadings": 312,
+   "Year": 2017,
+   "Values": 37
+ },
+ {
+   "City": "Hyderabad",
+   "State": "Telangana",
+   "NoOfLocationsUsed": 8,
+   "Readings": 677,
+   "IdealReadings": 832,
+   "Year": 2017,
+   "Values": 54
+ },
+ {
+   "City": "Trichy",
+   "State": "Tamil Nadu",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": null
+ },
+ {
+   "City": "Thoothukudi/ Tuticorin",
+   "State": "Tamil Nadu",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": null
+ },
+ {
+   "City": "Udaipur",
+   "State": "Rajasthan",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": null
+ },
+ {
+   "City": "Kota",
+   "State": "Rajasthan",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": null
+ },
+ {
+   "City": "Alwar",
+   "State": "Rajasthan",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": null
+ },
+ {
+   "City": "Jaipur",
+   "State": "Rajasthan",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": null
+ },
+ {
+   "City": "Jodhpur",
+   "State": "Rajasthan",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": null
+ },
+ {
+   "City": "Dera Baba Nanak",
+   "State": "Punjab",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": null
+ },
+ {
+   "City": "Naya Nangal",
+   "State": "Punjab",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": null
+ },
+ {
+   "City": "Dera Bassi",
+   "State": "Punjab",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": null
+ },
+ {
+   "City": "Patiala",
+   "State": "Punjab",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": null
+ },
+ {
+   "City": "Mandi Gobindgarh",
+   "State": "Punjab",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": null
+ },
+ {
+   "City": "Khanna",
+   "State": "Punjab",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": null
+ },
+ {
+   "City": "Ludhiana",
+   "State": "Punjab",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": null
+ },
+ {
+   "City": "Amritsar",
+   "State": "Punjab",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": null
+ },
+ {
+   "City": "Jalandhar",
+   "State": "Punjab",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": null
+ },
+ {
+   "City": "Balasore",
+   "State": "Odisha",
+   "NoOfLocationsUsed": 3,
+   "Readings": 309,
+   "IdealReadings": 312,
+   "Year": 2017,
+   "Values": 45
+ },
+ {
+   "City": "Cuttack",
+   "State": "Odisha",
+   "NoOfLocationsUsed": 3,
+   "Readings": 310,
+   "IdealReadings": 312,
+   "Year": 2017,
+   "Values": 52
+ },
+ {
+   "City": "Bhubaneswar",
+   "State": "Odisha",
+   "NoOfLocationsUsed": 6,
+   "Readings": 307,
+   "IdealReadings": 624,
+   "Year": 2017,
+   "Values": 36
+ },
+ {
+   "City": "Angul",
+   "State": "Odisha",
+   "NoOfLocationsUsed": 2,
+   "Readings": 199,
+   "IdealReadings": 208,
+   "Year": 2017,
+   "Values": 46
+ },
+ {
+   "City": "Talcher",
+   "State": "Odisha",
+   "NoOfLocationsUsed": 2,
+   "Readings": 200,
+   "IdealReadings": 208,
+   "Year": 2017,
+   "Values": 45
+ },
+ {
+   "City": "Rourkela",
+   "State": "Odisha",
+   "NoOfLocationsUsed": 5,
+   "Readings": 334,
+   "IdealReadings": 520,
+   "Year": 2017,
+   "Values": 42
+ },
+ {
+   "City": "Kalinga Nagar",
+   "State": "Odisha",
+   "NoOfLocationsUsed": 3,
+   "Readings": 212,
+   "IdealReadings": 312,
+   "Year": 2017,
+   "Values": 57
+ },
+ {
+   "City": "Kohima",
+   "State": "Nagaland",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": null
+ },
+ {
+   "City": "Dimapur",
+   "State": "Nagaland",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": null
+ },
+ {
+   "City": "Byrnihat",
+   "State": "Meghalaya",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": null
+ },
+ {
+   "City": "Solapur",
+   "State": "Maharashtra",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": null
+ },
+ {
+   "City": "Sangli",
+   "State": "Maharashtra",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": null
+ },
+ {
+   "City": "Jalgaon",
+   "State": "Maharashtra",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": null
+ },
+ {
+   "City": "Nashik",
+   "State": "Maharashtra",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": null
+ },
+ {
+   "City": "Latur",
+   "State": "Maharashtra",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": null
+ },
+ {
+   "City": "Aurangabad",
+   "State": "Maharashtra",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": null
+ },
+ {
+   "City": "Kolhapur",
+   "State": "Maharashtra",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": null
+ },
+ {
+   "City": "Jalna",
+   "State": "Maharashtra",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": null
+ },
+ {
+   "City": "Pune",
+   "State": "Maharashtra",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": null
+ },
+ {
+   "City": "Nagpur",
+   "State": "Maharashtra",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": null
+ },
+ {
+   "City": "Navi Mumbai",
+   "State": "Maharashtra",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": null
+ },
+ {
+   "City": "Amravati",
+   "State": "Maharashtra",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": null
+ },
+ {
+   "City": "Thane",
+   "State": "Maharashtra",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": null
+ },
+ {
+   "City": "Akola",
+   "State": "Maharashtra",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": null
+ },
+ {
+   "City": "Chandrapur",
+   "State": "Maharashtra",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": null
+ },
+ {
+   "City": "Ulhasnagar",
+   "State": "Maharashtra",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": null
+ },
+ {
+   "City": "Mumbai",
+   "State": "Maharashtra",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": null
+ },
+ {
+   "City": "Badlapur",
+   "State": "Maharashtra",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": null
+ },
+ {
+   "City": "Sagar",
+   "State": "Madhya Pradesh",
+   "NoOfLocationsUsed": 2,
+   "Readings": 198,
+   "IdealReadings": 208,
+   "Year": 2017,
+   "Values": 25
+ },
+ {
+   "City": "Ujjain",
+   "State": "Madhya Pradesh",
+   "NoOfLocationsUsed": 4,
+   "Readings": 262,
+   "IdealReadings": 416,
+   "Year": 2017,
+   "Values": 37
+ },
+ {
+   "City": "Dewas",
+   "State": "Madhya Pradesh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": null
+ },
+ {
+   "City": "Indore",
+   "State": "Madhya Pradesh",
+   "NoOfLocationsUsed": 3,
+   "Readings": 191,
+   "IdealReadings": 312,
+   "Year": 2017,
+   "Values": 44
+ },
+ {
+   "City": "Bhopal",
+   "State": "Madhya Pradesh",
+   "NoOfLocationsUsed": 6,
+   "Readings": 418,
+   "IdealReadings": 624,
+   "Year": 2017,
+   "Values": 42
+ },
+ {
+   "City": "Gwalior",
+   "State": "Madhya Pradesh",
+   "NoOfLocationsUsed": 2,
+   "Readings": 192,
+   "IdealReadings": 208,
+   "Year": 2017,
+   "Values": 48
+ },
+ {
+   "City": "Gulbarga",
+   "State": "Karnataka",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": null
+ },
+ {
+   "City": "Hubli",
+   "State": "Karnataka",
+   "NoOfLocationsUsed": 2,
+   "Readings": 189,
+   "IdealReadings": 208,
+   "Year": 2017,
+   "Values": 34
+ },
+ {
+   "City": "Devanagere",
+   "State": "Karnataka",
+   "NoOfLocationsUsed": 3,
+   "Readings": 106,
+   "IdealReadings": 312,
+   "Year": 2017,
+   "Values": 22
+ },
+ {
+   "City": "Bangalore",
+   "State": "Karnataka",
+   "NoOfLocationsUsed": 7,
+   "Readings": 464,
+   "IdealReadings": 728,
+   "Year": 2017,
+   "Values": 46
+ },
+ {
+   "City": "Dhanbad",
+   "State": "Jharkhand",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": null
+ },
+ {
+   "City": "Srinagar",
+   "State": "Jammu & Kashmir",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": null
+ },
+ {
+   "City": "Jammu",
+   "State": "Jammu & Kashmir",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": null
+ },
+ {
+   "City": "Damtal",
+   "State": "Himachal Pradesh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": null
+ },
+ {
+   "City": "Parwanoo",
+   "State": "Himachal Pradesh",
+   "NoOfLocationsUsed": 1,
+   "Readings": 95,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": 20
+ },
+ {
+   "City": "Sunder Nagar",
+   "State": "Himachal Pradesh",
+   "NoOfLocationsUsed": 2,
+   "Readings": 192,
+   "IdealReadings": 208,
+   "Year": 2017,
+   "Values": 41
+ },
+ {
+   "City": "Paonta Sahib",
+   "State": "Himachal Pradesh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": null
+ },
+ {
+   "City": "Kala Amb",
+   "State": "Himachal Pradesh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": null
+ },
+ {
+   "City": "Nalagarh",
+   "State": "Himachal Pradesh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": null
+ },
+ {
+   "City": "Baddi",
+   "State": "Himachal Pradesh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": null
+ },
+ {
+   "City": "Surat",
+   "State": "Gujarat",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": null
+ },
+ {
+   "City": "Vadodara",
+   "State": "Gujarat",
+   "NoOfLocationsUsed": 5,
+   "Readings": 493,
+   "IdealReadings": 520,
+   "Year": 2017,
+   "Values": 36
+ },
+ {
+   "City": "Ahmedabad",
+   "State": "Gujarat",
+   "NoOfLocationsUsed": 9,
+   "Readings": 854,
+   "IdealReadings": 936,
+   "Year": 2017,
+   "Values": 38
+ },
+ {
+   "City": "Delhi",
+   "State": "Delhi",
+   "NoOfLocationsUsed": 6,
+   "Readings": 402,
+   "IdealReadings": 624,
+   "Year": 2017,
+   "Values": 101
+ },
+ {
+   "City": "Korba",
+   "State": "Chattisgarh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": null
+ },
+ {
+   "City": "Bhilai",
+   "State": "Chattisgarh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": null
+ },
+ {
+   "City": "Raipur",
+   "State": "Chattisgarh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": null
+ },
+ {
+   "City": "Chandigarh",
+   "State": "Chandigarh",
+   "NoOfLocationsUsed": 5,
+   "Readings": 676,
+   "IdealReadings": 520,
+   "Year": 2017,
+   "Values": 64
+ },
+ {
+   "City": "Gaya",
+   "State": "Bihar",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": null
+ },
+ {
+   "City": "Patna",
+   "State": "Bihar",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": null
+ },
+ {
+   "City": "Muzaffarpur",
+   "State": "Bihar",
+   "NoOfLocationsUsed": 1,
+   "Readings": 103,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": 89
+ },
+ {
+   "City": "Silcher",
+   "State": "Assam",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": null
+ },
+ {
+   "City": "Nagaon",
+   "State": "Assam",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": null
+ },
+ {
+   "City": "Sivasagar",
+   "State": "Assam",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": null
+ },
+ {
+   "City": "Nalbari",
+   "State": "Assam",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": null
+ },
+ {
+   "City": "Guwahati",
+   "State": "Assam",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": null
+ },
+ {
+   "City": "Nellore",
+   "State": "Andhra Pradesh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": null
+ },
+ {
+   "City": "Rajahmundry",
+   "State": "Andhra Pradesh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": null
+ },
+ {
+   "City": "Ongole",
+   "State": "Andhra Pradesh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": null
+ },
+ {
+   "City": "Guntur",
+   "State": "Andhra Pradesh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": null
+ },
+ {
+   "City": "Chittoor",
+   "State": "Andhra Pradesh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": null
+ },
+ {
+   "City": "Srikakulam",
+   "State": "Andhra Pradesh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": null
+ },
+ {
+   "City": "Vizianagaram",
+   "State": "Andhra Pradesh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": null
+ },
+ {
+   "City": "Visakhapatnam",
+   "State": "Andhra Pradesh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": null
+ },
+ {
+   "City": "Kadapa",
+   "State": "Andhra Pradesh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": null
+ },
+ {
+   "City": "Eluru",
+   "State": "Andhra Pradesh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": null
+ },
+ {
+   "City": "Anantapur",
+   "State": "Andhra Pradesh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": null
+ },
+ {
+   "City": "Kurnool",
+   "State": "Andhra Pradesh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": null
+ },
+ {
+   "City": "Vijayawada",
+   "State": "Andhra Pradesh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2017,
+   "Values": null
+ },
+ {
+   "City": "Barrackpore",
+   "State": "West Bengal",
+   "NoOfLocationsUsed": 1,
+   "Readings": 104,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Values": 44
+ },
+ {
+   "City": "Haldia",
+   "State": "West Bengal",
+   "NoOfLocationsUsed": 1,
+   "Readings": 104,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Values": 33
+ },
+ {
+   "City": "Howrah",
+   "State": "West Bengal",
+   "NoOfLocationsUsed": 2,
+   "Readings": 292,
+   "IdealReadings": 208,
+   "Year": 2018,
+   "Values": 97
+ },
+ {
+   "City": "Kolkata",
+   "State": "West Bengal",
+   "NoOfLocationsUsed": 5,
+   "Readings": 704,
+   "IdealReadings": 520,
+   "Year": 2018,
+   "Values": 86
+ },
+ {
+   "City": "Raniganj",
+   "State": "West Bengal",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Values": null
+ },
+ {
+   "City": "Durgapur",
+   "State": "West Bengal",
+   "NoOfLocationsUsed": 1,
+   "Readings": 104,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Values": 71
+ },
+ {
+   "City": "Asansol",
+   "State": "West Bengal",
+   "NoOfLocationsUsed": 1,
+   "Readings": 103,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Values": 58
+ },
+ {
+   "City": "Kashipur",
+   "State": "Uttarakhand",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Values": null
+ },
+ {
+   "City": "Rishikesh",
+   "State": "Uttarakhand",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Values": null
+ },
+ {
+   "City": "Dehradun",
+   "State": "Uttarakhand",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Values": null
+ },
+ {
+   "City": "Jhansi",
+   "State": "Uttar Pradesh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Values": null
+ },
+ {
+   "City": "Allahabad",
+   "State": "Uttar Pradesh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Values": null
+ },
+ {
+   "City": "Rai Bareilly",
+   "State": "Uttar Pradesh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Values": null
+ },
+ {
+   "City": "Anpara/ Sonbhadra",
+   "State": "Uttar Pradesh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Values": null
+ },
+ {
+   "City": "Agra",
+   "State": "Uttar Pradesh",
+   "NoOfLocationsUsed": 4,
+   "Readings": 510,
+   "IdealReadings": 416,
+   "Year": 2018,
+   "Values": 105
+ },
+ {
+   "City": "Bareilly",
+   "State": "Uttar Pradesh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Values": null
+ },
+ {
+   "City": "Gajraula",
+   "State": "Uttar Pradesh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Values": null
+ },
+ {
+   "City": "Khurja",
+   "State": "Uttar Pradesh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Values": null
+ },
+ {
+   "City": "Noida",
+   "State": "Uttar Pradesh",
+   "NoOfLocationsUsed": 1,
+   "Readings": 90,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Values": 119
+ },
+ {
+   "City": "Moradabad",
+   "State": "Uttar Pradesh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Values": null
+ },
+ {
+   "City": "Firozabad",
+   "State": "Uttar Pradesh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Values": null
+ },
+ {
+   "City": "Kanpur",
+   "State": "Uttar Pradesh",
+   "NoOfLocationsUsed": 1,
+   "Readings": 140,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Values": 83
+ },
+ {
+   "City": "Varanasi",
+   "State": "Uttar Pradesh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Values": null
+ },
+ {
+   "City": "Lucknow",
+   "State": "Uttar Pradesh",
+   "NoOfLocationsUsed": 1,
+   "Readings": 108,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Values": 108
+ },
+ {
+   "City": "Ghaziabad",
+   "State": "Uttar Pradesh",
+   "NoOfLocationsUsed": 2,
+   "Readings": 181,
+   "IdealReadings": 208,
+   "Year": 2018,
+   "Values": 103
+ },
+ {
+   "City": "Nalgonda",
+   "State": "Telangana",
+   "NoOfLocationsUsed": 2,
+   "Readings": 22,
+   "IdealReadings": 208,
+   "Year": 2018,
+   "Values": 49
+ },
+ {
+   "City": "Patancheru",
+   "State": "Telangana",
+   "NoOfLocationsUsed": 1,
+   "Readings": 74,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Values": 37
+ },
+ {
+   "City": "Sangareddy",
+   "State": "Telangana",
+   "NoOfLocationsUsed": 3,
+   "Readings": 222,
+   "IdealReadings": 312,
+   "Year": 2018,
+   "Values": 39
+ },
+ {
+   "City": "Hyderabad",
+   "State": "Telangana",
+   "NoOfLocationsUsed": 8,
+   "Readings": 594,
+   "IdealReadings": 832,
+   "Year": 2018,
+   "Values": 55
+ },
+ {
+   "City": "Trichy",
+   "State": "Tamil Nadu",
+   "NoOfLocationsUsed": 5,
+   "Readings": 475,
+   "IdealReadings": 520,
+   "Year": 2018,
+   "Values": 53
+ },
+ {
+   "City": "Thoothukudi/ Tuticorin",
+   "State": "Tamil Nadu",
+   "NoOfLocationsUsed": 3,
+   "Readings": 291,
+   "IdealReadings": 312,
+   "Year": 2018,
+   "Values": 25
+ },
+ {
+   "City": "Udaipur",
+   "State": "Rajasthan",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Values": null
+ },
+ {
+   "City": "Kota",
+   "State": "Rajasthan",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Values": null
+ },
+ {
+   "City": "Alwar",
+   "State": "Rajasthan",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Values": null
+ },
+ {
+   "City": "Jaipur",
+   "State": "Rajasthan",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Values": null
+ },
+ {
+   "City": "Jodhpur",
+   "State": "Rajasthan",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Values": null
+ },
+ {
+   "City": "Dera Baba Nanak",
+   "State": "Punjab",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Values": null
+ },
+ {
+   "City": "Naya Nangal",
+   "State": "Punjab",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Values": null
+ },
+ {
+   "City": "Dera Bassi",
+   "State": "Punjab",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Values": null
+ },
+ {
+   "City": "Patiala",
+   "State": "Punjab",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Values": null
+ },
+ {
+   "City": "Mandi Gobindgarh",
+   "State": "Punjab",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Values": null
+ },
+ {
+   "City": "Khanna",
+   "State": "Punjab",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Values": null
+ },
+ {
+   "City": "Ludhiana",
+   "State": "Punjab",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Values": null
+ },
+ {
+   "City": "Amritsar",
+   "State": "Punjab",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Values": null
+ },
+ {
+   "City": "Jalandhar",
+   "State": "Punjab",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Values": null
+ },
+ {
+   "City": "Balasore",
+   "State": "Odisha",
+   "NoOfLocationsUsed": 3,
+   "Readings": 312,
+   "IdealReadings": 312,
+   "Year": 2018,
+   "Values": 47
+ },
+ {
+   "City": "Cuttack",
+   "State": "Odisha",
+   "NoOfLocationsUsed": 3,
+   "Readings": 266,
+   "IdealReadings": 312,
+   "Year": 2018,
+   "Values": 50
+ },
+ {
+   "City": "Bhubaneswar",
+   "State": "Odisha",
+   "NoOfLocationsUsed": 6,
+   "Readings": 374,
+   "IdealReadings": 624,
+   "Year": 2018,
+   "Values": 32
+ },
+ {
+   "City": "Angul",
+   "State": "Odisha",
+   "NoOfLocationsUsed": 2,
+   "Readings": 211,
+   "IdealReadings": 208,
+   "Year": 2018,
+   "Values": 50
+ },
+ {
+   "City": "Talcher",
+   "State": "Odisha",
+   "NoOfLocationsUsed": 2,
+   "Readings": 208,
+   "IdealReadings": 208,
+   "Year": 2018,
+   "Values": 50
+ },
+ {
+   "City": "Rourkela",
+   "State": "Odisha",
+   "NoOfLocationsUsed": 4,
+   "Readings": 390,
+   "IdealReadings": 416,
+   "Year": 2018,
+   "Values": 46
+ },
+ {
+   "City": "Kalinga Nagar",
+   "State": "Odisha",
+   "NoOfLocationsUsed": 2,
+   "Readings": 91,
+   "IdealReadings": 208,
+   "Year": 2018,
+   "Values": 58
+ },
+ {
+   "City": "Kohima",
+   "State": "Nagaland",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Values": null
+ },
+ {
+   "City": "Dimapur",
+   "State": "Nagaland",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Values": null
+ },
+ {
+   "City": "Byrnihat",
+   "State": "Meghalaya",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Values": null
+ },
+ {
+   "City": "Solapur",
+   "State": "Maharashtra",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Values": null
+ },
+ {
+   "City": "Sangli",
+   "State": "Maharashtra",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Values": null
+ },
+ {
+   "City": "Jalgaon",
+   "State": "Maharashtra",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Values": null
+ },
+ {
+   "City": "Nashik",
+   "State": "Maharashtra",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Values": null
+ },
+ {
+   "City": "Latur",
+   "State": "Maharashtra",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Values": null
+ },
+ {
+   "City": "Aurangabad",
+   "State": "Maharashtra",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Values": null
+ },
+ {
+   "City": "Kolhapur",
+   "State": "Maharashtra",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Values": null
+ },
+ {
+   "City": "Jalna",
+   "State": "Maharashtra",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Values": null
+ },
+ {
+   "City": "Pune",
+   "State": "Maharashtra",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Values": null
+ },
+ {
+   "City": "Nagpur",
+   "State": "Maharashtra",
+   "NoOfLocationsUsed": 1,
+   "Readings": 96,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Values": 44
+ },
+ {
+   "City": "Navi Mumbai",
+   "State": "Maharashtra",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Values": null
+ },
+ {
+   "City": "Amravati",
+   "State": "Maharashtra",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Values": null
+ },
+ {
+   "City": "Thane",
+   "State": "Maharashtra",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Values": null
+ },
+ {
+   "City": "Akola",
+   "State": "Maharashtra",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Values": null
+ },
+ {
+   "City": "Chandrapur",
+   "State": "Maharashtra",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Values": null
+ },
+ {
+   "City": "Ulhasnagar",
+   "State": "Maharashtra",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Values": null
+ },
+ {
+   "City": "Mumbai",
+   "State": "Maharashtra",
+   "NoOfLocationsUsed": 1,
+   "Readings": 96,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Values": 46
+ },
+ {
+   "City": "Badlapur",
+   "State": "Maharashtra",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Values": null
+ },
+ {
+   "City": "Sagar",
+   "State": "Madhya Pradesh",
+   "NoOfLocationsUsed": 2,
+   "Readings": 198,
+   "IdealReadings": 208,
+   "Year": 2018,
+   "Values": 30
+ },
+ {
+   "City": "Ujjain",
+   "State": "Madhya Pradesh",
+   "NoOfLocationsUsed": 4,
+   "Readings": 284,
+   "IdealReadings": 416,
+   "Year": 2018,
+   "Values": 34
+ },
+ {
+   "City": "Dewas",
+   "State": "Madhya Pradesh",
+   "NoOfLocationsUsed": 3,
+   "Readings": 297,
+   "IdealReadings": 312,
+   "Year": 2018,
+   "Values": 49
+ },
+ {
+   "City": "Indore",
+   "State": "Madhya Pradesh",
+   "NoOfLocationsUsed": 3,
+   "Readings": 292,
+   "IdealReadings": 312,
+   "Year": 2018,
+   "Values": 41
+ },
+ {
+   "City": "Bhopal",
+   "State": "Madhya Pradesh",
+   "NoOfLocationsUsed": 7,
+   "Readings": 693,
+   "IdealReadings": 728,
+   "Year": 2018,
+   "Values": 59
+ },
+ {
+   "City": "Gwalior",
+   "State": "Madhya Pradesh",
+   "NoOfLocationsUsed": 2,
+   "Readings": 165,
+   "IdealReadings": 208,
+   "Year": 2018,
+   "Values": 63
+ },
+ {
+   "City": "Gulbarga",
+   "State": "Karnataka",
+   "NoOfLocationsUsed": 1,
+   "Readings": 55,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Values": 41
+ },
+ {
+   "City": "Hubli",
+   "State": "Karnataka",
+   "NoOfLocationsUsed": 2,
+   "Readings": 160,
+   "IdealReadings": 208,
+   "Year": 2018,
+   "Values": 26
+ },
+ {
+   "City": "Devanagere",
+   "State": "Karnataka",
+   "NoOfLocationsUsed": 2,
+   "Readings": 147,
+   "IdealReadings": 208,
+   "Year": 2018,
+   "Values": 18
+ },
+ {
+   "City": "Bangalore",
+   "State": "Karnataka",
+   "NoOfLocationsUsed": 5,
+   "Readings": 363,
+   "IdealReadings": 520,
+   "Year": 2018,
+   "Values": 47
+ },
+ {
+   "City": "Dhanbad",
+   "State": "Jharkhand",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Values": null
+ },
+ {
+   "City": "Srinagar",
+   "State": "Jammu & Kashmir",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Values": null
+ },
+ {
+   "City": "Jammu",
+   "State": "Jammu & Kashmir",
+   "NoOfLocationsUsed": 3,
+   "Readings": 285,
+   "IdealReadings": 312,
+   "Year": 2018,
+   "Values": 45
+ },
+ {
+   "City": "Damtal",
+   "State": "Himachal Pradesh",
+   "NoOfLocationsUsed": 2,
+   "Readings": 199,
+   "IdealReadings": 208,
+   "Year": 2018,
+   "Values": 26
+ },
+ {
+   "City": "Parwanoo",
+   "State": "Himachal Pradesh",
+   "NoOfLocationsUsed": 2,
+   "Readings": 84,
+   "IdealReadings": 208,
+   "Year": 2018,
+   "Values": 13
+ },
+ {
+   "City": "Sunder Nagar",
+   "State": "Himachal Pradesh",
+   "NoOfLocationsUsed": 2,
+   "Readings": 163,
+   "IdealReadings": 208,
+   "Year": 2018,
+   "Values": 47
+ },
+ {
+   "City": "Paonta Sahib",
+   "State": "Himachal Pradesh",
+   "NoOfLocationsUsed": 2,
+   "Readings": 161,
+   "IdealReadings": 208,
+   "Year": 2018,
+   "Values": 51
+ },
+ {
+   "City": "Kala Amb",
+   "State": "Himachal Pradesh",
+   "NoOfLocationsUsed": 2,
+   "Readings": 84,
+   "IdealReadings": 208,
+   "Year": 2018,
+   "Values": 53
+ },
+ {
+   "City": "Nalagarh",
+   "State": "Himachal Pradesh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Values": null
+ },
+ {
+   "City": "Baddi",
+   "State": "Himachal Pradesh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Values": null
+ },
+ {
+   "City": "Surat",
+   "State": "Gujarat",
+   "NoOfLocationsUsed": 3,
+   "Readings": 313,
+   "IdealReadings": 312,
+   "Year": 2018,
+   "Values": 56
+ },
+ {
+   "City": "Vadodara",
+   "State": "Gujarat",
+   "NoOfLocationsUsed": 5,
+   "Readings": 517,
+   "IdealReadings": 520,
+   "Year": 2018,
+   "Values": 60
+ },
+ {
+   "City": "Ahmedabad",
+   "State": "Gujarat",
+   "NoOfLocationsUsed": 9,
+   "Readings": 929,
+   "IdealReadings": 936,
+   "Year": 2018,
+   "Values": 73
+ },
+ {
+   "City": "Delhi",
+   "State": "Delhi",
+   "NoOfLocationsUsed": 6,
+   "Readings": 362,
+   "IdealReadings": 624,
+   "Year": 2018,
+   "Values": 121
+ },
+ {
+   "City": "Korba",
+   "State": "Chattisgarh",
+   "NoOfLocationsUsed": 2,
+   "Readings": 103,
+   "IdealReadings": 208,
+   "Year": 2018,
+   "Values": 19
+ },
+ {
+   "City": "Bhilai",
+   "State": "Chattisgarh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Values": null
+ },
+ {
+   "City": "Raipur",
+   "State": "Chattisgarh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Values": null
+ },
+ {
+   "City": "Chandigarh",
+   "State": "Chandigarh",
+   "NoOfLocationsUsed": 5,
+   "Readings": 616,
+   "IdealReadings": 520,
+   "Year": 2018,
+   "Values": 50
+ },
+ {
+   "City": "Gaya",
+   "State": "Bihar",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Values": null
+ },
+ {
+   "City": "Patna",
+   "State": "Bihar",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Values": null
+ },
+ {
+   "City": "Muzaffarpur",
+   "State": "Bihar",
+   "NoOfLocationsUsed": 1,
+   "Readings": 107,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Values": 84
+ },
+ {
+   "City": "Silcher",
+   "State": "Assam",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Values": null
+ },
+ {
+   "City": "Nagaon",
+   "State": "Assam",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Values": null
+ },
+ {
+   "City": "Sivasagar",
+   "State": "Assam",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Values": null
+ },
+ {
+   "City": "Nalbari",
+   "State": "Assam",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Values": null
+ },
+ {
+   "City": "Guwahati",
+   "State": "Assam",
+   "NoOfLocationsUsed": 2,
+   "Readings": 159,
+   "IdealReadings": 208,
+   "Year": 2018,
+   "Values": 67
+ },
+ {
+   "City": "Nellore",
+   "State": "Andhra Pradesh",
+   "NoOfLocationsUsed": 1,
+   "Readings": 4,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Values": 34
+ },
+ {
+   "City": "Rajahmundry",
+   "State": "Andhra Pradesh",
+   "NoOfLocationsUsed": 1,
+   "Readings": 12,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Values": 69
+ },
+ {
+   "City": "Ongole",
+   "State": "Andhra Pradesh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Values": null
+ },
+ {
+   "City": "Guntur",
+   "State": "Andhra Pradesh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Values": null
+ },
+ {
+   "City": "Chittoor",
+   "State": "Andhra Pradesh",
+   "NoOfLocationsUsed": 2,
+   "Readings": 67,
+   "IdealReadings": 208,
+   "Year": 2018,
+   "Values": 27
+ },
+ {
+   "City": "Srikakulam",
+   "State": "Andhra Pradesh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Values": null
+ },
+ {
+   "City": "Vizianagaram",
+   "State": "Andhra Pradesh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Values": null
+ },
+ {
+   "City": "Visakhapatnam",
+   "State": "Andhra Pradesh",
+   "NoOfLocationsUsed": 8,
+   "Readings": 183,
+   "IdealReadings": 832,
+   "Year": 2018,
+   "Values": 49
+ },
+ {
+   "City": "Kadapa",
+   "State": "Andhra Pradesh",
+   "NoOfLocationsUsed": 1,
+   "Readings": 20,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Values": 28
+ },
+ {
+   "City": "Eluru",
+   "State": "Andhra Pradesh",
+   "NoOfLocationsUsed": null,
+   "Readings": null,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Values": null
+ },
+ {
+   "City": "Anantapur",
+   "State": "Andhra Pradesh",
+   "NoOfLocationsUsed": 1,
+   "Readings": 47,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Values": 34
+ },
+ {
+   "City": "Kurnool",
+   "State": "Andhra Pradesh",
+   "NoOfLocationsUsed": 1,
+   "Readings": 50,
+   "IdealReadings": 104,
+   "Year": 2018,
+   "Values": 26
+ },
+ {
+   "City": "Vijayawada",
+   "State": "Andhra Pradesh",
+   "NoOfLocationsUsed": 3,
+   "Readings": 100,
+   "IdealReadings": 312,
+   "Year": 2018,
+   "Values": 26
+ },
+ {
+   "City": "Barrackpore",
+   "State": "West Bengal",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Haldia",
+   "State": "West Bengal",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Howrah",
+   "State": "West Bengal",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Kolkata",
+   "State": "West Bengal",
+   "NoOfLocationsUsed": 12,
+   "Readings": 0,
+   "IdealReadings": 1248,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Raniganj",
+   "State": "West Bengal",
+   "NoOfLocationsUsed": 1,
+   "Readings": 0,
+   "IdealReadings": 104,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Durgapur",
+   "State": "West Bengal",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Asansol",
+   "State": "West Bengal",
+   "NoOfLocationsUsed": 2,
+   "Readings": 3,
+   "IdealReadings": 208,
+   "Year": 2019,
+   "Values": 82
+ },
+ {
+   "City": "Kashipur",
+   "State": "Uttarakhand",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Rishikesh",
+   "State": "Uttarakhand",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Dehradun",
+   "State": "Uttarakhand",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Jhansi",
+   "State": "Uttar Pradesh",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Allahabad",
+   "State": "Uttar Pradesh",
+   "NoOfLocationsUsed": 5,
+   "Readings": 0,
+   "IdealReadings": 520,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Rai Bareilly",
+   "State": "Uttar Pradesh",
+   "NoOfLocationsUsed": 3,
+   "Readings": 0,
+   "IdealReadings": 312,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Anpara/ Sonbhadra",
+   "State": "Uttar Pradesh",
+   "NoOfLocationsUsed": 2,
+   "Readings": 0,
+   "IdealReadings": 208,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Agra",
+   "State": "Uttar Pradesh",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Bareilly",
+   "State": "Uttar Pradesh",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Gajraula",
+   "State": "Uttar Pradesh",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Khurja",
+   "State": "Uttar Pradesh",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Noida",
+   "State": "Uttar Pradesh",
+   "NoOfLocationsUsed": 0,
+   "Readings": 11,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Values": 216
+ },
+ {
+   "City": "Moradabad",
+   "State": "Uttar Pradesh",
+   "NoOfLocationsUsed": 2,
+   "Readings": 0,
+   "IdealReadings": 208,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Firozabad",
+   "State": "Uttar Pradesh",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Kanpur",
+   "State": "Uttar Pradesh",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Varanasi",
+   "State": "Uttar Pradesh",
+   "NoOfLocationsUsed": 2,
+   "Readings": 0,
+   "IdealReadings": 208,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Lucknow",
+   "State": "Uttar Pradesh",
+   "NoOfLocationsUsed": 1,
+   "Readings": 15,
+   "IdealReadings": 104,
+   "Year": 2019,
+   "Values": 112
+ },
+ {
+   "City": "Ghaziabad",
+   "State": "Uttar Pradesh",
+   "NoOfLocationsUsed": 0,
+   "Readings": 7,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Values": 228
+ },
+ {
+   "City": "Nalgonda",
+   "State": "Telangana",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Patancheru",
+   "State": "Telangana",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Sangareddy",
+   "State": "Telangana",
+   "NoOfLocationsUsed": 1,
+   "Readings": 0,
+   "IdealReadings": 104,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Hyderabad",
+   "State": "Telangana",
+   "NoOfLocationsUsed": 7,
+   "Readings": 4,
+   "IdealReadings": 728,
+   "Year": 2019,
+   "Values": 71
+ },
+ {
+   "City": "Trichy",
+   "State": "Tamil Nadu",
+   "NoOfLocationsUsed": 5,
+   "Readings": 0,
+   "IdealReadings": 520,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Thoothukudi/ Tuticorin",
+   "State": "Tamil Nadu",
+   "NoOfLocationsUsed": 3,
+   "Readings": 0,
+   "IdealReadings": 312,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Udaipur",
+   "State": "Rajasthan",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Kota",
+   "State": "Rajasthan",
+   "NoOfLocationsUsed": 6,
+   "Readings": 0,
+   "IdealReadings": 624,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Alwar",
+   "State": "Rajasthan",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Jaipur",
+   "State": "Rajasthan",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Jodhpur",
+   "State": "Rajasthan",
+   "NoOfLocationsUsed": 9,
+   "Readings": 0,
+   "IdealReadings": 936,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Dera Baba Nanak",
+   "State": "Punjab",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Naya Nangal",
+   "State": "Punjab",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Dera Bassi",
+   "State": "Punjab",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Patiala",
+   "State": "Punjab",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Mandi Gobindgarh",
+   "State": "Punjab",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Khanna",
+   "State": "Punjab",
+   "NoOfLocationsUsed": 1,
+   "Readings": 0,
+   "IdealReadings": 104,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Ludhiana",
+   "State": "Punjab",
+   "NoOfLocationsUsed": 8,
+   "Readings": 3,
+   "IdealReadings": 832,
+   "Year": 2019,
+   "Values": 241
+ },
+ {
+   "City": "Amritsar",
+   "State": "Punjab",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Jalandhar",
+   "State": "Punjab",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Balasore",
+   "State": "Odisha",
+   "NoOfLocationsUsed": 3,
+   "Readings": 18,
+   "IdealReadings": 312,
+   "Year": 2019,
+   "Values": 50
+ },
+ {
+   "City": "Cuttack",
+   "State": "Odisha",
+   "NoOfLocationsUsed": 3,
+   "Readings": 15,
+   "IdealReadings": 312,
+   "Year": 2019,
+   "Values": 70
+ },
+ {
+   "City": "Bhubaneswar",
+   "State": "Odisha",
+   "NoOfLocationsUsed": 5,
+   "Readings": 2,
+   "IdealReadings": 520,
+   "Year": 2019,
+   "Values": 85
+ },
+ {
+   "City": "Angul",
+   "State": "Odisha",
+   "NoOfLocationsUsed": 0,
+   "Readings": 5,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Values": 70
+ },
+ {
+   "City": "Talcher",
+   "State": "Odisha",
+   "NoOfLocationsUsed": 0,
+   "Readings": 8,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Values": 76
+ },
+ {
+   "City": "Rourkela",
+   "State": "Odisha",
+   "NoOfLocationsUsed": 1,
+   "Readings": 0,
+   "IdealReadings": 104,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Kalinga Nagar",
+   "State": "Odisha",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Kohima",
+   "State": "Nagaland",
+   "NoOfLocationsUsed": 1,
+   "Readings": 0,
+   "IdealReadings": 104,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Dimapur",
+   "State": "Nagaland",
+   "NoOfLocationsUsed": 2,
+   "Readings": 0,
+   "IdealReadings": 208,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Byrnihat",
+   "State": "Meghalaya",
+   "NoOfLocationsUsed": 1,
+   "Readings": 0,
+   "IdealReadings": 104,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Solapur",
+   "State": "Maharashtra",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Sangli",
+   "State": "Maharashtra",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Jalgaon",
+   "State": "Maharashtra",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Nashik",
+   "State": "Maharashtra",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Latur",
+   "State": "Maharashtra",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Aurangabad",
+   "State": "Maharashtra",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Kolhapur",
+   "State": "Maharashtra",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Jalna",
+   "State": "Maharashtra",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Pune",
+   "State": "Maharashtra",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Nagpur",
+   "State": "Maharashtra",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Navi Mumbai",
+   "State": "Maharashtra",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Amravati",
+   "State": "Maharashtra",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Thane",
+   "State": "Maharashtra",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Akola",
+   "State": "Maharashtra",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Chandrapur",
+   "State": "Maharashtra",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Ulhasnagar",
+   "State": "Maharashtra",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Mumbai",
+   "State": "Maharashtra",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Badlapur",
+   "State": "Maharashtra",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Sagar",
+   "State": "Madhya Pradesh",
+   "NoOfLocationsUsed": 2,
+   "Readings": 1,
+   "IdealReadings": 208,
+   "Year": 2019,
+   "Values": 50
+ },
+ {
+   "City": "Ujjain",
+   "State": "Madhya Pradesh",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Dewas",
+   "State": "Madhya Pradesh",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Indore",
+   "State": "Madhya Pradesh",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Bhopal",
+   "State": "Madhya Pradesh",
+   "NoOfLocationsUsed": 7,
+   "Readings": 77,
+   "IdealReadings": 728,
+   "Year": 2019,
+   "Values": 82
+ },
+ {
+   "City": "Gwalior",
+   "State": "Madhya Pradesh",
+   "NoOfLocationsUsed": 2,
+   "Readings": 12,
+   "IdealReadings": 208,
+   "Year": 2019,
+   "Values": 79
+ },
+ {
+   "City": "Gulbarga",
+   "State": "Karnataka",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Hubli",
+   "State": "Karnataka",
+   "NoOfLocationsUsed": 1,
+   "Readings": 0,
+   "IdealReadings": 104,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Devanagere",
+   "State": "Karnataka",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Bangalore",
+   "State": "Karnataka",
+   "NoOfLocationsUsed": 1,
+   "Readings": 0,
+   "IdealReadings": 104,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Dhanbad",
+   "State": "Jharkhand",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Srinagar",
+   "State": "Jammu & Kashmir",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Jammu",
+   "State": "Jammu & Kashmir",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Damtal",
+   "State": "Himachal Pradesh",
+   "NoOfLocationsUsed": 2,
+   "Readings": 0,
+   "IdealReadings": 208,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Parwanoo",
+   "State": "Himachal Pradesh",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Sunder Nagar",
+   "State": "Himachal Pradesh",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Paonta Sahib",
+   "State": "Himachal Pradesh",
+   "NoOfLocationsUsed": 0,
+   "Readings": 4,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Values": 57
+ },
+ {
+   "City": "Kala Amb",
+   "State": "Himachal Pradesh",
+   "NoOfLocationsUsed": 1,
+   "Readings": 0,
+   "IdealReadings": 104,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Nalagarh",
+   "State": "Himachal Pradesh",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Baddi",
+   "State": "Himachal Pradesh",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Surat",
+   "State": "Gujarat",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Vadodara",
+   "State": "Gujarat",
+   "NoOfLocationsUsed": 0,
+   "Readings": 1,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Values": 86
+ },
+ {
+   "City": "Ahmedabad",
+   "State": "Gujarat",
+   "NoOfLocationsUsed": 2,
+   "Readings": 0,
+   "IdealReadings": 208,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Delhi",
+   "State": "Delhi",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Korba",
+   "State": "Chattisgarh",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Bhilai",
+   "State": "Chattisgarh",
+   "NoOfLocationsUsed": 2,
+   "Readings": 10,
+   "IdealReadings": 208,
+   "Year": 2019,
+   "Values": 55
+ },
+ {
+   "City": "Raipur",
+   "State": "Chattisgarh",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Chandigarh",
+   "State": "Chandigarh",
+   "NoOfLocationsUsed": 5,
+   "Readings": 129,
+   "IdealReadings": 520,
+   "Year": 2019,
+   "Values": 81
+ },
+ {
+   "City": "Gaya",
+   "State": "Bihar",
+   "NoOfLocationsUsed": 0,
+   "Readings": 9,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Values": 230
+ },
+ {
+   "City": "Patna",
+   "State": "Bihar",
+   "NoOfLocationsUsed": 2,
+   "Readings": 0,
+   "IdealReadings": 208,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Muzaffarpur",
+   "State": "Bihar",
+   "NoOfLocationsUsed": 0,
+   "Readings": 9,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Values": 253
+ },
+ {
+   "City": "Silcher",
+   "State": "Assam",
+   "NoOfLocationsUsed": 1,
+   "Readings": 0,
+   "IdealReadings": 104,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Nagaon",
+   "State": "Assam",
+   "NoOfLocationsUsed": 1,
+   "Readings": 0,
+   "IdealReadings": 104,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Sivasagar",
+   "State": "Assam",
+   "NoOfLocationsUsed": 1,
+   "Readings": 0,
+   "IdealReadings": 104,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Nalbari",
+   "State": "Assam",
+   "NoOfLocationsUsed": 0,
+   "Readings": 0,
+   "IdealReadings": 0,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Guwahati",
+   "State": "Assam",
+   "NoOfLocationsUsed": 6,
+   "Readings": 75,
+   "IdealReadings": 624,
+   "Year": 2019,
+   "Values": 69
+ },
+ {
+   "City": "Nellore",
+   "State": "Andhra Pradesh",
+   "NoOfLocationsUsed": 4,
+   "Readings": 0,
+   "IdealReadings": 416,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Rajahmundry",
+   "State": "Andhra Pradesh",
+   "NoOfLocationsUsed": 4,
+   "Readings": 19,
+   "IdealReadings": 416,
+   "Year": 2019,
+   "Values": 43
+ },
+ {
+   "City": "Ongole",
+   "State": "Andhra Pradesh",
+   "NoOfLocationsUsed": 4,
+   "Readings": 0,
+   "IdealReadings": 416,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Guntur",
+   "State": "Andhra Pradesh",
+   "NoOfLocationsUsed": 3,
+   "Readings": 4,
+   "IdealReadings": 312,
+   "Year": 2019,
+   "Values": 31
+ },
+ {
+   "City": "Chittoor",
+   "State": "Andhra Pradesh",
+   "NoOfLocationsUsed": 5,
+   "Readings": 8,
+   "IdealReadings": 520,
+   "Year": 2019,
+   "Values": 50
+ },
+ {
+   "City": "Srikakulam",
+   "State": "Andhra Pradesh",
+   "NoOfLocationsUsed": 4,
+   "Readings": 14,
+   "IdealReadings": 416,
+   "Year": 2019,
+   "Values": 45
+ },
+ {
+   "City": "Vizianagaram",
+   "State": "Andhra Pradesh",
+   "NoOfLocationsUsed": 4,
+   "Readings": 9,
+   "IdealReadings": 416,
+   "Year": 2019,
+   "Values": 56
+ },
+ {
+   "City": "Visakhapatnam",
+   "State": "Andhra Pradesh",
+   "NoOfLocationsUsed": 9,
+   "Readings": 82,
+   "IdealReadings": 936,
+   "Year": 2019,
+   "Values": 55
+ },
+ {
+   "City": "Kadapa",
+   "State": "Andhra Pradesh",
+   "NoOfLocationsUsed": 5,
+   "Readings": 2,
+   "IdealReadings": 520,
+   "Year": 2019,
+   "Values": 60
+ },
+ {
+   "City": "Eluru",
+   "State": "Andhra Pradesh",
+   "NoOfLocationsUsed": 4,
+   "Readings": 0,
+   "IdealReadings": 416,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Anantapur",
+   "State": "Andhra Pradesh",
+   "NoOfLocationsUsed": 4,
+   "Readings": 2,
+   "IdealReadings": 416,
+   "Year": 2019,
+   "Values": 32
+ },
+ {
+   "City": "Kurnool",
+   "State": "Andhra Pradesh",
+   "NoOfLocationsUsed": 4,
+   "Readings": 0,
+   "IdealReadings": 416,
+   "Year": 2019,
+   "Values": null
+ },
+ {
+   "City": "Vijayawada",
+   "State": "Andhra Pradesh",
+   "NoOfLocationsUsed": 9,
+   "Readings": 0,
+   "IdealReadings": 936,
+   "Year": 2019,
+   "Values": null
+ }
+]

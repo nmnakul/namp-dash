@@ -1,0 +1,489 @@
+Year,City ,State,NoOfLocationsUsed,Readings,IdealReadings,Values,id
+2016,Barrackpore,West Bengal,3,311,312,312,0
+2016,Haldia,West Bengal,,,104,,1
+2016,Howrah,West Bengal,3,311,312,312,2
+2016,Kolkata,West Bengal,,,104,,3
+2016,Raniganj,West Bengal,,,104,,4
+2016,Durgapur,West Bengal,,,104,,5
+2016,Asansol,West Bengal,1,86,104,104,6
+2016,Kashipur,Uttarakhand,,,104,,7
+2016,Rishikesh,Uttarakhand,,,104,,8
+2016,Dehradun,Uttarakhand,,,104,,9
+2016,Jhansi,Uttar Pradesh,,,104,,10
+2016,Allahabad,Uttar Pradesh,,,104,,11
+2016,Rai Bareilly,Uttar Pradesh,,,104,,12
+2016,Anpara/ Sonbhadra,Uttar Pradesh,,,104,,13
+2016,Agra,Uttar Pradesh,,,104,,14
+2016,Bareilly,Uttar Pradesh,,,104,,15
+2016,Gajraula,Uttar Pradesh,,,104,,16
+2016,Khurja,Uttar Pradesh,,,104,,17
+2016,Noida,Uttar Pradesh,,,104,,18
+2016,Moradabad,Uttar Pradesh,,,104,,19
+2016,Firozabad,Uttar Pradesh,,,104,,20
+2016,Kanpur,Uttar Pradesh,,,104,,21
+2016,Varanasi,Uttar Pradesh,,,104,,22
+2016,Lucknow,Uttar Pradesh,,,104,,23
+2016,Ghaziabad,Uttar Pradesh,,,104,,24
+2016,Nalgonda,Telangana,1,9,104,104,25
+2016,Patancheru,Telangana,1,56,104,104,26
+2016,Sangareddy,Telangana,1,87,104,104,27
+2016,Hyderabad,Telangana,8,533,832,832,28
+2016,Trichy,Tamil Nadu,,,104,,29
+2016,Thoothukudi/ Tuticorin,Tamil Nadu,,,104,,30
+2016,Udaipur,Rajasthan,,,104,,31
+2016,Kota,Rajasthan,,,104,,32
+2016,Alwar,Rajasthan,,,104,,33
+2016,Jaipur,Rajasthan,,,104,,34
+2016,Jodhpur,Rajasthan,,,104,,35
+2016,Dera Baba Nanak,Punjab,,,104,,36
+2016,Naya Nangal,Punjab,,,104,,37
+2016,Dera Bassi,Punjab,,,104,,38
+2016,Patiala,Punjab,,,104,,39
+2016,Mandi Gobindgarh,Punjab,,,104,,40
+2016,Khanna,Punjab,,,104,,41
+2016,Ludhiana,Punjab,,,104,,42
+2016,Amritsar,Punjab,,,104,,43
+2016,Jalandhar,Punjab,,,104,,44
+2016,Balasore,Odisha,3,253,312,312,45
+2016,Cuttack,Odisha,3,310,312,312,46
+2016,Bhubaneswar,Odisha,6,451,624,624,47
+2016,Angul,Odisha,,,104,,48
+2016,Talcher,Odisha,5,356,520,520,49
+2016,Rourkela,Odisha,2,131,208,208,50
+2016,Kalinga Nagar,Odisha,3,281,312,312,51
+2016,Kohima,Nagaland,,,104,,52
+2016,Dimapur,Nagaland,,,104,,53
+2016,Byrnihat,Meghalaya,,,104,,54
+2016,Solapur,Maharashtra,,,104,,55
+2016,Sangli,Maharashtra,,,104,,56
+2016,Jalgaon,Maharashtra,,,104,,57
+2016,Nashik,Maharashtra,,,104,,58
+2016,Latur,Maharashtra,,,104,,59
+2016,Aurangabad,Maharashtra,,,104,,60
+2016,Kolhapur,Maharashtra,,,104,,61
+2016,Jalna,Maharashtra,,,104,,62
+2016,Pune,Maharashtra,,,104,,63
+2016,Nagpur,Maharashtra,,,104,,64
+2016,Navi Mumbai,Maharashtra,,,104,,65
+2016,Amravati,Maharashtra,,,104,,66
+2016,Thane,Maharashtra,,,104,,67
+2016,Akola,Maharashtra,,,104,,68
+2016,Chandrapur,Maharashtra,,,104,,69
+2016,Ulhasnagar,Maharashtra,,,104,,70
+2016,Mumbai,Maharashtra,,,104,,71
+2016,Badlapur,Maharashtra,,,104,,72
+2016,Sagar,Madhya Pradesh,2,186,208,208,73
+2016,Ujjain,Madhya Pradesh,4,197,416,416,74
+2016,Dewas,Madhya Pradesh,,,104,,75
+2016,Indore,Madhya Pradesh,3,272,312,312,76
+2016,Bhopal,Madhya Pradesh,7,301,728,728,77
+2016,Gwalior,Madhya Pradesh,2,12,208,208,78
+2016,Gulbarga,Karnataka,,,104,,79
+2016,Hubli,Karnataka,2,161,208,208,80
+2016,Devanagere,Karnataka,,,104,,81
+2016,Bangalore,Karnataka,5,429,520,520,82
+2016,Dhanbad,Jharkhand,,,104,,83
+2016,Srinagar,Jammu & Kashmir,,,104,,84
+2016,Jammu,Jammu & Kashmir,,,104,,85
+2016,Damtal,Himachal Pradesh,,,104,,86
+2016,Parwanoo,Himachal Pradesh,,,104,,87
+2016,Sunder Nagar,Himachal Pradesh,,,104,,88
+2016,Paonta Sahib,Himachal Pradesh,,,104,,89
+2016,Kala Amb,Himachal Pradesh,,,104,,90
+2016,Nalagarh,Himachal Pradesh,,,104,,91
+2016,Baddi,Himachal Pradesh,,,104,,92
+2016,Surat,Gujarat,3,278,312,312,93
+2016,Vadodara,Gujarat,3,257,312,312,94
+2016,Ahmedabad,Gujarat,8,719,832,832,95
+2016,Delhi,Delhi,7,564,728,728,96
+2016,Korba,Chattisgarh,,,104,,97
+2016,Bhilai,Chattisgarh,,,104,,98
+2016,Raipur,Chattisgarh,,,104,,99
+2016,Chandigarh,Chandigarh,5,68,520,520,100
+2016,Gaya,Bihar,,,104,,101
+2016,Patna,Bihar,,,104,,102
+2016,Muzaffarpur,Bihar,,,104,,103
+2016,Silcher,Assam,,,104,,104
+2016,Nagaon,Assam,,,104,,105
+2016,Sivasagar,Assam,,,104,,106
+2016,Nalbari,Assam,,,104,,107
+2016,Guwahati,Assam,,,104,,108
+2016,Nellore,Andhra Pradesh,,,104,,109
+2016,Rajahmundry,Andhra Pradesh,,,104,,110
+2016,Ongole,Andhra Pradesh,,,104,,111
+2016,Guntur,Andhra Pradesh,,,104,,112
+2016,Chittoor,Andhra Pradesh,,,104,,113
+2016,Srikakulam,Andhra Pradesh,,,104,,114
+2016,Vizianagaram,Andhra Pradesh,,,104,,115
+2016,Visakhapatnam,Andhra Pradesh,,,104,,116
+2016,Kadapa,Andhra Pradesh,,,104,,117
+2016,Eluru,Andhra Pradesh,,,104,,118
+2016,Anantapur,Andhra Pradesh,,,104,,119
+2016,Kurnool,Andhra Pradesh,,,104,,120
+2016,Vijayawada,Andhra Pradesh,,,104,,121
+2017,Barrackpore,West Bengal,1,144,104,104,122
+2017,Haldia,West Bengal,1,104,104,104,123
+2017,Howrah,West Bengal,3,316,312,312,124
+2017,Kolkata,West Bengal,3,312,312,312,125
+2017,Raniganj,West Bengal,,,104,,126
+2017,Durgapur,West Bengal,1,103,104,104,127
+2017,Asansol,West Bengal,1,104,104,104,128
+2017,Kashipur,Uttarakhand,,,104,,129
+2017,Rishikesh,Uttarakhand,,,104,,130
+2017,Dehradun,Uttarakhand,,,104,,131
+2017,Jhansi,Uttar Pradesh,,,104,,132
+2017,Allahabad,Uttar Pradesh,,,104,,133
+2017,Rai Bareilly,Uttar Pradesh,,,104,,134
+2017,Anpara/ Sonbhadra,Uttar Pradesh,,,104,,135
+2017,Agra,Uttar Pradesh,4,425,416,416,136
+2017,Bareilly,Uttar Pradesh,,,104,,137
+2017,Gajraula,Uttar Pradesh,,,104,,138
+2017,Khurja,Uttar Pradesh,,,104,,139
+2017,Noida,Uttar Pradesh,,,104,,140
+2017,Moradabad,Uttar Pradesh,,,104,,141
+2017,Firozabad,Uttar Pradesh,,,104,,142
+2017,Kanpur,Uttar Pradesh,,,104,,143
+2017,Varanasi,Uttar Pradesh,,,104,,144
+2017,Lucknow,Uttar Pradesh,1,74,104,104,145
+2017,Ghaziabad,Uttar Pradesh,,,104,,146
+2017,Nalgonda,Telangana,1,87,104,104,147
+2017,Patancheru,Telangana,1,68,104,104,148
+2017,Sangareddy,Telangana,3,282,312,312,149
+2017,Hyderabad,Telangana,8,677,832,832,150
+2017,Trichy,Tamil Nadu,,,104,,151
+2017,Thoothukudi/ Tuticorin,Tamil Nadu,,,104,,152
+2017,Udaipur,Rajasthan,,,104,,153
+2017,Kota,Rajasthan,,,104,,154
+2017,Alwar,Rajasthan,,,104,,155
+2017,Jaipur,Rajasthan,,,104,,156
+2017,Jodhpur,Rajasthan,,,104,,157
+2017,Dera Baba Nanak,Punjab,,,104,,158
+2017,Naya Nangal,Punjab,,,104,,159
+2017,Dera Bassi,Punjab,,,104,,160
+2017,Patiala,Punjab,,,104,,161
+2017,Mandi Gobindgarh,Punjab,,,104,,162
+2017,Khanna,Punjab,,,104,,163
+2017,Ludhiana,Punjab,,,104,,164
+2017,Amritsar,Punjab,,,104,,165
+2017,Jalandhar,Punjab,,,104,,166
+2017,Balasore,Odisha,3,309,312,312,167
+2017,Cuttack,Odisha,3,310,312,312,168
+2017,Bhubaneswar,Odisha,6,307,624,624,169
+2017,Angul,Odisha,2,199,208,208,170
+2017,Talcher,Odisha,2,200,208,208,171
+2017,Rourkela,Odisha,5,334,520,520,172
+2017,Kalinga Nagar,Odisha,3,212,312,312,173
+2017,Kohima,Nagaland,,,104,,174
+2017,Dimapur,Nagaland,,,104,,175
+2017,Byrnihat,Meghalaya,,,104,,176
+2017,Solapur,Maharashtra,,,104,,177
+2017,Sangli,Maharashtra,,,104,,178
+2017,Jalgaon,Maharashtra,,,104,,179
+2017,Nashik,Maharashtra,,,104,,180
+2017,Latur,Maharashtra,,,104,,181
+2017,Aurangabad,Maharashtra,,,104,,182
+2017,Kolhapur,Maharashtra,,,104,,183
+2017,Jalna,Maharashtra,,,104,,184
+2017,Pune,Maharashtra,,,104,,185
+2017,Nagpur,Maharashtra,,,104,,186
+2017,Navi Mumbai,Maharashtra,,,104,,187
+2017,Amravati,Maharashtra,,,104,,188
+2017,Thane,Maharashtra,,,104,,189
+2017,Akola,Maharashtra,,,104,,190
+2017,Chandrapur,Maharashtra,,,104,,191
+2017,Ulhasnagar,Maharashtra,,,104,,192
+2017,Mumbai,Maharashtra,,,104,,193
+2017,Badlapur,Maharashtra,,,104,,194
+2017,Sagar,Madhya Pradesh,2,198,208,208,195
+2017,Ujjain,Madhya Pradesh,4,262,416,416,196
+2017,Dewas,Madhya Pradesh,,,104,,197
+2017,Indore,Madhya Pradesh,3,191,312,312,198
+2017,Bhopal,Madhya Pradesh,6,418,624,624,199
+2017,Gwalior,Madhya Pradesh,2,192,208,208,200
+2017,Gulbarga,Karnataka,,,104,,201
+2017,Hubli,Karnataka,2,189,208,208,202
+2017,Devanagere,Karnataka,3,106,312,312,203
+2017,Bangalore,Karnataka,7,464,728,728,204
+2017,Dhanbad,Jharkhand,,,104,,205
+2017,Srinagar,Jammu & Kashmir,,,104,,206
+2017,Jammu,Jammu & Kashmir,,,104,,207
+2017,Damtal,Himachal Pradesh,,,104,,208
+2017,Parwanoo,Himachal Pradesh,1,95,104,104,209
+2017,Sunder Nagar,Himachal Pradesh,2,192,208,208,210
+2017,Paonta Sahib,Himachal Pradesh,,,104,,211
+2017,Kala Amb,Himachal Pradesh,,,104,,212
+2017,Nalagarh,Himachal Pradesh,,,104,,213
+2017,Baddi,Himachal Pradesh,,,104,,214
+2017,Surat,Gujarat,,,104,,215
+2017,Vadodara,Gujarat,5,493,520,520,216
+2017,Ahmedabad,Gujarat,9,854,936,936,217
+2017,Delhi,Delhi,6,402,624,624,218
+2017,Korba,Chattisgarh,,,104,,219
+2017,Bhilai,Chattisgarh,,,104,,220
+2017,Raipur,Chattisgarh,,,104,,221
+2017,Chandigarh,Chandigarh,5,676,520,520,222
+2017,Gaya,Bihar,,,104,,223
+2017,Patna,Bihar,,,104,,224
+2017,Muzaffarpur,Bihar,1,103,104,104,225
+2017,Silcher,Assam,,,104,,226
+2017,Nagaon,Assam,,,104,,227
+2017,Sivasagar,Assam,,,104,,228
+2017,Nalbari,Assam,,,104,,229
+2017,Guwahati,Assam,,,104,,230
+2017,Nellore,Andhra Pradesh,,,104,,231
+2017,Rajahmundry,Andhra Pradesh,,,104,,232
+2017,Ongole,Andhra Pradesh,,,104,,233
+2017,Guntur,Andhra Pradesh,,,104,,234
+2017,Chittoor,Andhra Pradesh,,,104,,235
+2017,Srikakulam,Andhra Pradesh,,,104,,236
+2017,Vizianagaram,Andhra Pradesh,,,104,,237
+2017,Visakhapatnam,Andhra Pradesh,,,104,,238
+2017,Kadapa,Andhra Pradesh,,,104,,239
+2017,Eluru,Andhra Pradesh,,,104,,240
+2017,Anantapur,Andhra Pradesh,,,104,,241
+2017,Kurnool,Andhra Pradesh,,,104,,242
+2017,Vijayawada,Andhra Pradesh,,,104,,243
+2018,Barrackpore,West Bengal,1,104,104,104,244
+2018,Haldia,West Bengal,1,104,104,104,245
+2018,Howrah,West Bengal,2,292,208,208,246
+2018,Kolkata,West Bengal,5,704,520,520,247
+2018,Raniganj,West Bengal,,,104,,248
+2018,Durgapur,West Bengal,1,104,104,104,249
+2018,Asansol,West Bengal,1,103,104,104,250
+2018,Kashipur,Uttarakhand,,,104,,251
+2018,Rishikesh,Uttarakhand,,,104,,252
+2018,Dehradun,Uttarakhand,,,104,,253
+2018,Jhansi,Uttar Pradesh,,,104,,254
+2018,Allahabad,Uttar Pradesh,,,104,,255
+2018,Rai Bareilly,Uttar Pradesh,,,104,,256
+2018,Anpara/ Sonbhadra,Uttar Pradesh,,,104,,257
+2018,Agra,Uttar Pradesh,4,510,416,416,258
+2018,Bareilly,Uttar Pradesh,,,104,,259
+2018,Gajraula,Uttar Pradesh,,,104,,260
+2018,Khurja,Uttar Pradesh,,,104,,261
+2018,Noida,Uttar Pradesh,1,90,104,104,262
+2018,Moradabad,Uttar Pradesh,,,104,,263
+2018,Firozabad,Uttar Pradesh,,,104,,264
+2018,Kanpur,Uttar Pradesh,1,140,104,104,265
+2018,Varanasi,Uttar Pradesh,,,104,,266
+2018,Lucknow,Uttar Pradesh,1,108,104,104,267
+2018,Ghaziabad,Uttar Pradesh,2,181,208,208,268
+2018,Nalgonda,Telangana,2,22,208,208,269
+2018,Patancheru,Telangana,1,74,104,104,270
+2018,Sangareddy,Telangana,3,222,312,312,271
+2018,Hyderabad,Telangana,8,594,832,832,272
+2018,Trichy,Tamil Nadu,5,475,520,520,273
+2018,Thoothukudi/ Tuticorin,Tamil Nadu,3,291,312,312,274
+2018,Udaipur,Rajasthan,,,104,,275
+2018,Kota,Rajasthan,,,104,,276
+2018,Alwar,Rajasthan,,,104,,277
+2018,Jaipur,Rajasthan,,,104,,278
+2018,Jodhpur,Rajasthan,,,104,,279
+2018,Dera Baba Nanak,Punjab,,,104,,280
+2018,Naya Nangal,Punjab,,,104,,281
+2018,Dera Bassi,Punjab,,,104,,282
+2018,Patiala,Punjab,,,104,,283
+2018,Mandi Gobindgarh,Punjab,,,104,,284
+2018,Khanna,Punjab,,,104,,285
+2018,Ludhiana,Punjab,,,104,,286
+2018,Amritsar,Punjab,,,104,,287
+2018,Jalandhar,Punjab,,,104,,288
+2018,Balasore,Odisha,3,312,312,312,289
+2018,Cuttack,Odisha,3,266,312,312,290
+2018,Bhubaneswar,Odisha,6,374,624,624,291
+2018,Angul,Odisha,2,211,208,208,292
+2018,Talcher,Odisha,2,208,208,208,293
+2018,Rourkela,Odisha,4,390,416,416,294
+2018,Kalinga Nagar,Odisha,2,91,208,208,295
+2018,Kohima,Nagaland,,,104,,296
+2018,Dimapur,Nagaland,,,104,,297
+2018,Byrnihat,Meghalaya,,,104,,298
+2018,Solapur,Maharashtra,,,104,,299
+2018,Sangli,Maharashtra,,,104,,300
+2018,Jalgaon,Maharashtra,,,104,,301
+2018,Nashik,Maharashtra,,,104,,302
+2018,Latur,Maharashtra,,,104,,303
+2018,Aurangabad,Maharashtra,,,104,,304
+2018,Kolhapur,Maharashtra,,,104,,305
+2018,Jalna,Maharashtra,,,104,,306
+2018,Pune,Maharashtra,,,104,,307
+2018,Nagpur,Maharashtra,1,96,104,104,308
+2018,Navi Mumbai,Maharashtra,,,104,,309
+2018,Amravati,Maharashtra,,,104,,310
+2018,Thane,Maharashtra,,,104,,311
+2018,Akola,Maharashtra,,,104,,312
+2018,Chandrapur,Maharashtra,,,104,,313
+2018,Ulhasnagar,Maharashtra,,,104,,314
+2018,Mumbai,Maharashtra,1,96,104,104,315
+2018,Badlapur,Maharashtra,,,104,,316
+2018,Sagar,Madhya Pradesh,2,198,208,208,317
+2018,Ujjain,Madhya Pradesh,4,284,416,416,318
+2018,Dewas,Madhya Pradesh,3,297,312,312,319
+2018,Indore,Madhya Pradesh,3,292,312,312,320
+2018,Bhopal,Madhya Pradesh,7,693,728,728,321
+2018,Gwalior,Madhya Pradesh,2,165,208,208,322
+2018,Gulbarga,Karnataka,1,55,104,104,323
+2018,Hubli,Karnataka,2,160,208,208,324
+2018,Devanagere,Karnataka,2,147,208,208,325
+2018,Bangalore,Karnataka,5,363,520,520,326
+2018,Dhanbad,Jharkhand,,,104,,327
+2018,Srinagar,Jammu & Kashmir,,,104,,328
+2018,Jammu,Jammu & Kashmir,3,285,312,312,329
+2018,Damtal,Himachal Pradesh,2,199,208,208,330
+2018,Parwanoo,Himachal Pradesh,2,84,208,208,331
+2018,Sunder Nagar,Himachal Pradesh,2,163,208,208,332
+2018,Paonta Sahib,Himachal Pradesh,2,161,208,208,333
+2018,Kala Amb,Himachal Pradesh,2,84,208,208,334
+2018,Nalagarh,Himachal Pradesh,,,104,,335
+2018,Baddi,Himachal Pradesh,,,104,,336
+2018,Surat,Gujarat,3,313,312,312,337
+2018,Vadodara,Gujarat,5,517,520,520,338
+2018,Ahmedabad,Gujarat,9,929,936,936,339
+2018,Delhi,Delhi,6,362,624,624,340
+2018,Korba,Chattisgarh,2,103,208,208,341
+2018,Bhilai,Chattisgarh,,,104,,342
+2018,Raipur,Chattisgarh,,,104,,343
+2018,Chandigarh,Chandigarh,5,616,520,520,344
+2018,Gaya,Bihar,,,104,,345
+2018,Patna,Bihar,,,104,,346
+2018,Muzaffarpur,Bihar,1,107,104,104,347
+2018,Silcher,Assam,,,104,,348
+2018,Nagaon,Assam,,,104,,349
+2018,Sivasagar,Assam,,,104,,350
+2018,Nalbari,Assam,,,104,,351
+2018,Guwahati,Assam,2,159,208,208,352
+2018,Nellore,Andhra Pradesh,1,4,104,104,353
+2018,Rajahmundry,Andhra Pradesh,1,12,104,104,354
+2018,Ongole,Andhra Pradesh,,,104,,355
+2018,Guntur,Andhra Pradesh,,,104,,356
+2018,Chittoor,Andhra Pradesh,2,67,208,208,357
+2018,Srikakulam,Andhra Pradesh,,,104,,358
+2018,Vizianagaram,Andhra Pradesh,,,104,,359
+2018,Visakhapatnam,Andhra Pradesh,8,183,832,832,360
+2018,Kadapa,Andhra Pradesh,1,20,104,104,361
+2018,Eluru,Andhra Pradesh,,,104,,362
+2018,Anantapur,Andhra Pradesh,1,47,104,104,363
+2018,Kurnool,Andhra Pradesh,1,50,104,104,364
+2018,Vijayawada,Andhra Pradesh,3,100,312,312,365
+2019,Barrackpore,West Bengal,,,,,366
+2019,Haldia,West Bengal,,,,,367
+2019,Howrah,West Bengal,,,,,368
+2019,Kolkata,West Bengal,12,,1248,1248,369
+2019,Raniganj,West Bengal,1,,104,104,370
+2019,Durgapur,West Bengal,,,,,371
+2019,Asansol,West Bengal,2,3,208,208,372
+2019,Kashipur,Uttarakhand,,,,,373
+2019,Rishikesh,Uttarakhand,,,,,374
+2019,Dehradun,Uttarakhand,,,,,375
+2019,Jhansi,Uttar Pradesh,,,,,376
+2019,Allahabad,Uttar Pradesh,5,,520,520,377
+2019,Rai Bareilly,Uttar Pradesh,3,,312,312,378
+2019,Anpara/ Sonbhadra,Uttar Pradesh,2,,208,208,379
+2019,Agra,Uttar Pradesh,,,,,380
+2019,Bareilly,Uttar Pradesh,,,,,381
+2019,Gajraula,Uttar Pradesh,,,,,382
+2019,Khurja,Uttar Pradesh,,,,,383
+2019,Noida,Uttar Pradesh,,11,,,384
+2019,Moradabad,Uttar Pradesh,2,,208,208,385
+2019,Firozabad,Uttar Pradesh,,,,,386
+2019,Kanpur,Uttar Pradesh,,,,,387
+2019,Varanasi,Uttar Pradesh,2,,208,208,388
+2019,Lucknow,Uttar Pradesh,1,15,104,104,389
+2019,Ghaziabad,Uttar Pradesh,,7,,,390
+2019,Nalgonda,Telangana,,,,,391
+2019,Patancheru,Telangana,,,,,392
+2019,Sangareddy,Telangana,1,,104,104,393
+2019,Hyderabad,Telangana,7,4,728,728,394
+2019,Trichy,Tamil Nadu,5,,520,520,395
+2019,Thoothukudi/ Tuticorin,Tamil Nadu,3,,312,312,396
+2019,Udaipur,Rajasthan,,,,,397
+2019,Kota,Rajasthan,6,,624,624,398
+2019,Alwar,Rajasthan,,,,,399
+2019,Jaipur,Rajasthan,,,,,400
+2019,Jodhpur,Rajasthan,9,,936,936,401
+2019,Dera Baba Nanak,Punjab,,,,,402
+2019,Naya Nangal,Punjab,,,,,403
+2019,Dera Bassi,Punjab,,,,,404
+2019,Patiala,Punjab,,,,,405
+2019,Mandi Gobindgarh,Punjab,,,,,406
+2019,Khanna,Punjab,1,,104,104,407
+2019,Ludhiana,Punjab,8,3,832,832,408
+2019,Amritsar,Punjab,,,,,409
+2019,Jalandhar,Punjab,,,,,410
+2019,Balasore,Odisha,3,18,312,312,411
+2019,Cuttack,Odisha,3,15,312,312,412
+2019,Bhubaneswar,Odisha,5,2,520,520,413
+2019,Angul,Odisha,,5,,,414
+2019,Talcher,Odisha,,8,,,415
+2019,Rourkela,Odisha,1,,104,104,416
+2019,Kalinga Nagar,Odisha,,,,,417
+2019,Kohima,Nagaland,1,,104,104,418
+2019,Dimapur,Nagaland,2,,208,208,419
+2019,Byrnihat,Meghalaya,1,,104,104,420
+2019,Solapur,Maharashtra,,,,,421
+2019,Sangli,Maharashtra,,,,,422
+2019,Jalgaon,Maharashtra,,,,,423
+2019,Nashik,Maharashtra,,,,,424
+2019,Latur,Maharashtra,,,,,425
+2019,Aurangabad,Maharashtra,,,,,426
+2019,Kolhapur,Maharashtra,,,,,427
+2019,Jalna,Maharashtra,,,,,428
+2019,Pune,Maharashtra,,,,,429
+2019,Nagpur,Maharashtra,,,,,430
+2019,Navi Mumbai,Maharashtra,,,,,431
+2019,Amravati,Maharashtra,,,,,432
+2019,Thane,Maharashtra,,,,,433
+2019,Akola,Maharashtra,,,,,434
+2019,Chandrapur,Maharashtra,,,,,435
+2019,Ulhasnagar,Maharashtra,,,,,436
+2019,Mumbai,Maharashtra,,,,,437
+2019,Badlapur,Maharashtra,,,,,438
+2019,Sagar,Madhya Pradesh,2,1,208,208,439
+2019,Ujjain,Madhya Pradesh,,,,,440
+2019,Dewas,Madhya Pradesh,,,,,441
+2019,Indore,Madhya Pradesh,,,,,442
+2019,Bhopal,Madhya Pradesh,7,77,728,728,443
+2019,Gwalior,Madhya Pradesh,2,12,208,208,444
+2019,Gulbarga,Karnataka,,,,,445
+2019,Hubli,Karnataka,1,,104,104,446
+2019,Devanagere,Karnataka,,,,,447
+2019,Bangalore,Karnataka,1,,104,104,448
+2019,Dhanbad,Jharkhand,,,,,449
+2019,Srinagar,Jammu & Kashmir,,,,,450
+2019,Jammu,Jammu & Kashmir,,,,,451
+2019,Damtal,Himachal Pradesh,2,,208,208,452
+2019,Parwanoo,Himachal Pradesh,,,,,453
+2019,Sunder Nagar,Himachal Pradesh,,,,,454
+2019,Paonta Sahib,Himachal Pradesh,,4,,,455
+2019,Kala Amb,Himachal Pradesh,1,,104,104,456
+2019,Nalagarh,Himachal Pradesh,,,,,457
+2019,Baddi,Himachal Pradesh,,,,,458
+2019,Surat,Gujarat,,,,,459
+2019,Vadodara,Gujarat,,1,,,460
+2019,Ahmedabad,Gujarat,2,,208,208,461
+2019,Delhi,Delhi,,,,,462
+2019,Korba,Chattisgarh,,,,,463
+2019,Bhilai,Chattisgarh,2,10,208,208,464
+2019,Raipur,Chattisgarh,,,,,465
+2019,Chandigarh,Chandigarh,5,129,520,520,466
+2019,Gaya,Bihar,,9,,,467
+2019,Patna,Bihar,2,,208,208,468
+2019,Muzaffarpur,Bihar,,9,,,469
+2019,Silcher,Assam,1,,104,104,470
+2019,Nagaon,Assam,1,,104,104,471
+2019,Sivasagar,Assam,1,,104,104,472
+2019,Nalbari,Assam,,,,,473
+2019,Guwahati,Assam,6,75,624,624,474
+2019,Nellore,Andhra Pradesh,4,,416,416,475
+2019,Rajahmundry,Andhra Pradesh,4,19,416,416,476
+2019,Ongole,Andhra Pradesh,4,,416,416,477
+2019,Guntur,Andhra Pradesh,3,4,312,312,478
+2019,Chittoor,Andhra Pradesh,5,8,520,520,479
+2019,Srikakulam,Andhra Pradesh,4,14,416,416,480
+2019,Vizianagaram,Andhra Pradesh,4,9,416,416,481
+2019,Visakhapatnam,Andhra Pradesh,9,82,936,936,482
+2019,Kadapa,Andhra Pradesh,5,2,520,520,483
+2019,Eluru,Andhra Pradesh,4,,416,416,484
+2019,Anantapur,Andhra Pradesh,4,2,416,416,485
+2019,Kurnool,Andhra Pradesh,4,, ,416,486
+2019,Vijayawada,Andhra Pradesh,9,,936,936,487

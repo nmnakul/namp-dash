@@ -1,0 +1,977 @@
+﻿Pollutant,State,City ,NoOfLocationsUsed,Readings,IdealReadings,Year,Values,id
+PM-10,West Bengal,Barrackpore,3,305,312,2016,106,1
+PM-10,West Bengal,Barrackpore,3,312,312,2018,108,2
+PM-10,West Bengal,Barrackpore,0,0,104,2019,0,3
+PM-10,West Bengal,Barrackpore,4,312,416,2017,90,4
+PM-2.5,West Bengal,Barrackpore,3,311,312,2016,58,5
+PM-2.5,West Bengal,Haldia,0,0,104,2016,0,6
+PM-2.5,West Bengal,Howrah,3,311,312,2016,69,7
+PM-2.5,West Bengal,Kolkata,0,0,104,2016,0,8
+PM-10,West Bengal,Haldia,4,416,416,2016,103,9
+PM-10,West Bengal,Haldia,4,416,416,2018,99,10
+PM-10,West Bengal,Haldia,0,0,104,2019,0,11
+PM-10,West Bengal,Haldia,4,416,416,2017,97,12
+PM-2.5,West Bengal,Raniganj,0,0,104,2016,0,13
+PM-2.5,West Bengal,Durgapur,0,0,104,2016,0,14
+PM-2.5,West Bengal,Asansol,1,86,104,2016,88,15
+PM-2.5,Uttarakhand,Kashipur,0,0,104,2016,0,16
+PM-10,West Bengal,Howrah,3,312,312,2016,119,17
+PM-10,West Bengal,Howrah,4,584,416,2018,179,18
+PM-10,West Bengal,Howrah,0,0,104,2019,0,19
+PM-10,West Bengal,Howrah,4,416,416,2017,110,20
+PM-2.5,Uttarakhand,Rishikesh,0,0,104,2016,0,21
+PM-2.5,Uttarakhand,Dehradun,0,0,104,2016,0,22
+PM-2.5,Uttar Pradesh,Jhansi,0,0,104,2016,0,23
+PM-2.5,Uttar Pradesh,Allahabad,0,0,104,2016,0,24
+PM-10,West Bengal,Kolkata,9,886,936,2016,113,25
+PM-10,West Bengal,Kolkata,21,2833,2184,2018,144,26
+PM-10,West Bengal,Kolkata,12,85,1248,2019,66,27
+PM-10,West Bengal,Kolkata,19,1972,1976,2017,120,28
+PM-2.5,Uttar Pradesh,Rai Bareilly,0,0,104,2016,0,29
+PM-2.5,Uttar Pradesh,Anpara/ Sonbhadra,0,0,104,2016,0,30
+PM-2.5,Uttar Pradesh,Agra,0,0,104,2016,0,31
+PM-2.5,Uttar Pradesh,Bareilly,0,0,104,2016,0,32
+PM-10,West Bengal,Raniganj,3,312,312,2016,214,33
+PM-10,West Bengal,Raniganj,3,312,312,2018,147,34
+PM-10,West Bengal,Raniganj,1,9,104,2019,220,35
+PM-10,West Bengal,Raniganj,4,414,416,2017,165,36
+PM-2.5,Uttar Pradesh,Gajraula,0,0,104,2016,0,37
+PM-2.5,Uttar Pradesh,Khurja,0,0,104,2016,0,38
+PM-2.5,Uttar Pradesh,Noida,0,0,104,2016,0,39
+PM-2.5,Uttar Pradesh,Moradabad,0,0,104,2016,0,40
+PM-10,West Bengal,Durgapur,4,414,416,2016,196,41
+PM-10,West Bengal,Durgapur,4,416,416,2018,141,42
+PM-10,West Bengal,Durgapur,0,0,104,2019,0,43
+PM-10,West Bengal,Durgapur,4,415,416,2017,155,44
+PM-2.5,Uttar Pradesh,Firozabad,0,0,104,2016,0,45
+PM-2.5,Uttar Pradesh,Kanpur,0,0,104,2016,0,46
+PM-2.5,Uttar Pradesh,Varanasi,0,0,104,2016,0,47
+PM-2.5,Uttar Pradesh,Lucknow,0,0,104,2016,0,48
+PM-10,West Bengal,Asansol,3,295,312,2016,211,49
+PM-10,West Bengal,Asansol,3,321,312,2018,128,50
+PM-10,West Bengal,Asansol,2,15,208,2019,234,51
+PM-10,West Bengal,Asansol,3,312,312,2017,163,52
+PM-2.5,Uttar Pradesh,Ghaziabad,0,0,104,2016,0,53
+PM-2.5,Telangana,Nalgonda,1,9,104,2016,35,54
+PM-2.5,Telangana,Patancheru,1,56,104,2016,38,55
+PM-2.5,Telangana,Sangareddy,1,87,104,2016,28,56
+PM-10,Uttarakhand,Kashipur,1,98,104,2016,126,57
+PM-10,Uttarakhand,Kashipur,1,96,104,2018,105,58
+PM-10,Uttarakhand,Kashipur,1,15,104,2019,120,59
+PM-10,Uttarakhand,Kashipur,1,96,104,2017,111,60
+PM-2.5,Telangana,Hyderabad,8,533,832,2016,49,61
+PM-2.5,Tamil Nadu,Trichy,0,0,104,2016,0,62
+PM-2.5,Tamil Nadu,Thoothukudi/ Tuticorin,0,0,104,2016,0,63
+PM-2.5,Rajasthan,Udaipur,0,0,104,2016,0,64
+PM-10,Uttarakhand,Rishikesh,1,85,104,2016,119,65
+PM-10,Uttarakhand,Rishikesh,1,83,104,2018,133,66
+PM-10,Uttarakhand,Rishikesh,1,17,104,2019,141,67
+PM-10,Uttarakhand,Rishikesh,1,85,104,2017,128,68
+PM-2.5,Rajasthan,Kota,0,0,104,2016,0,69
+PM-2.5,Rajasthan,Alwar,0,0,104,2016,0,70
+PM-2.5,Rajasthan,Jaipur,0,0,104,2016,0,71
+PM-2.5,Rajasthan,Jodhpur,0,0,104,2016,0,72
+PM-10,Uttarakhand,Dehradun,3,71.33,312,2016,241,73
+PM-10,Uttarakhand,Dehradun,3,180,312,2018,217,74
+PM-10,Uttarakhand,Dehradun,1,40,104,2019,166,75
+PM-10,Uttarakhand,Dehradun,3,135,312,2017,248,76
+PM-2.5,Punjab,Dera Baba Nanak,0,0,104,2016,0,77
+PM-2.5,Punjab,Naya Nangal,0,0,104,2016,0,78
+PM-2.5,Punjab,Dera Bassi,0,0,104,2016,0,79
+PM-2.5,Punjab,Patiala,0,0,104,2016,0,80
+PM-10,Uttar Pradesh,Jhansi,2,222,208,2016,116,81
+PM-10,Uttar Pradesh,Jhansi,2,238,208,2018,96,82
+PM-10,Uttar Pradesh,Jhansi,0,0,104,2019,0,83
+PM-10,Uttar Pradesh,Jhansi,2,206,208,2017,113,84
+PM-2.5,Punjab,Mandi Gobindgarh,0,0,104,2016,0,85
+PM-2.5,Punjab,Khanna,0,0,104,2016,0,86
+PM-2.5,Punjab,Ludhiana,0,0,104,2016,0,87
+PM-2.5,Punjab,Amritsar,0,0,104,2016,0,88
+PM-2.5,Punjab,Jalandhar,0,0,104,2016,0,89
+PM-2.5,Odisha,Balasore,3,253,312,2016,47,90
+PM-2.5,Odisha,Cuttack,3,310,312,2016,42,91
+PM-10,Uttar Pradesh,Allahabad,5,532,520,2016,195,92
+PM-10,Uttar Pradesh,Allahabad,5,535,520,2018,231,93
+PM-10,Uttar Pradesh,Allahabad,5,261,520,2019,219,94
+PM-10,Uttar Pradesh,Allahabad,5,546,520,2017,140,95
+PM-2.5,Odisha,Bhubaneswar,6,451,624,2016,36,96
+PM-10,Uttar Pradesh,Rai Bareilly,3,255,312,2016,141,97
+PM-10,Uttar Pradesh,Rai Bareilly,2,209,208,2018,233,98
+PM-10,Uttar Pradesh,Rai Bareilly,3,41,312,2019,115,99
+PM-10,Uttar Pradesh,Rai Bareilly,3,224,312,2017,141,100
+PM-2.5,Odisha,Angul,0,0,104,2016,0,101
+PM-2.5,Odisha,Talcher,5,356,520,2016,35,102
+PM-2.5,Odisha,Rourkela,2,131,208,2016,45,103
+PM-2.5,Odisha,Kalinga Nagar,3,281,312,2016,46,104
+PM-10,Uttar Pradesh,Anpara/ Sonbhadra,2,163,208,2016,132,105
+PM-10,Uttar Pradesh,Anpara/ Sonbhadra,2,196,208,2018,191,106
+PM-10,Uttar Pradesh,Anpara/ Sonbhadra,2,49,208,2019,151,107
+PM-10,Uttar Pradesh,Anpara/ Sonbhadra,2,162,208,2017,154,108
+PM-2.5,Nagaland,Kohima,0,0,104,2016,0,109
+PM-2.5,Nagaland,Dimapur,0,0,104,2016,0,110
+PM-2.5,Meghalaya,Byrnihat,0,0,104,2016,0,111
+PM-2.5,Maharashtra,Solapur,0,0,104,2016,0,112
+PM-2.5,Maharashtra,Sangli,0,0,104,2016,0,113
+PM-2.5,Maharashtra,Jalgaon,0,0,104,2016,0,114
+PM-2.5,Maharashtra,Nashik,0,0,104,2016,0,115
+PM-10,Uttar Pradesh,Agra,6,805,624,2016,198,116
+PM-10,Uttar Pradesh,Agra,6,812,624,2018,209,117
+PM-10,Uttar Pradesh,Agra,1,15,104,2019,85,118
+PM-10,Uttar Pradesh,Agra,6,657,624,2017,185,119
+PM-2.5,Maharashtra,Latur,0,0,104,2016,0,120
+PM-10,Uttar Pradesh,Bareilly,2,104,208,2016,253,121
+PM-10,Uttar Pradesh,Bareilly,2,209,208,2018,233,122
+PM-10,Uttar Pradesh,Bareilly,0,0,104,2019,0,123
+PM-10,Uttar Pradesh,Bareilly,2,104,208,2017,195,124
+PM-2.5,Maharashtra,Aurangabad,0,0,104,2016,0,125
+PM-2.5,Maharashtra,Kolhapur,0,0,104,2016,0,126
+PM-2.5,Maharashtra,Jalna,0,0,104,2016,0,127
+PM-2.5,Maharashtra,Pune,0,0,104,2016,0,128
+PM-10,Uttar Pradesh,Gajraula,2,200,208,2016,193,129
+PM-10,Uttar Pradesh,Gajraula,2,199,208,2018,225,130
+PM-10,Uttar Pradesh,Gajraula,1,3,104,2019,211,131
+PM-10,Uttar Pradesh,Gajraula,2,190,208,2017,207,132
+PM-2.5,Maharashtra,Nagpur,0,0,104,2016,0,133
+PM-2.5,Maharashtra,Navi Mumbai,0,0,104,2016,0,134
+PM-2.5,Maharashtra,Amravati,0,0,104,2016,0,135
+PM-2.5,Maharashtra,Thane,0,0,104,2016,0,136
+PM-10,Uttar Pradesh,Khurja,2,178,208,2016,216,137
+PM-10,Uttar Pradesh,Khurja,2,171,208,2018,214,138
+PM-10,Uttar Pradesh,Khurja,0,0,104,2019,0,139
+PM-10,Uttar Pradesh,Khurja,2,184,208,2017,209,140
+PM-2.5,Maharashtra,Akola,0,0,104,2016,0,141
+PM-2.5,Maharashtra,Chandrapur,0,0,104,2016,0,142
+PM-2.5,Maharashtra,Ulhasnagar,0,0,104,2016,0,143
+PM-2.5,Maharashtra,Mumbai,0,0,104,2016,0,144
+PM-10,Uttar Pradesh,Noida,2,175,208,2016,176,145
+PM-10,Uttar Pradesh,Noida,2,180,208,2018,264,146
+PM-10,Uttar Pradesh,Noida,1,5,104,2019,201,147
+PM-10,Uttar Pradesh,Noida,2,172,208,2017,216,148
+PM-2.5,Maharashtra,Badlapur,0,0,104,2016,0,149
+PM-2.5,Madhya Pradesh,Sagar,2,186,208,2016,30,150
+PM-2.5,Madhya Pradesh,Ujjain,4,197,416,2016,44,151
+PM-2.5,Madhya Pradesh,Dewas,0,0,104,2016,0,152
+PM-10,Uttar Pradesh,Moradabad,2,203,208,2016,196,153
+PM-10,Uttar Pradesh,Moradabad,2,195,208,2018,227,154
+PM-10,Uttar Pradesh,Moradabad,2,16,208,2019,232,155
+PM-10,Uttar Pradesh,Moradabad,2,172,208,2017,217,156
+PM-2.5,Madhya Pradesh,Indore,3,272,312,2016,53,157
+PM-2.5,Madhya Pradesh,Bhopal,7,301,728,2016,27,158
+PM-2.5,Madhya Pradesh,Gwalior,2,12,208,2016,52,159
+PM-2.5,Karnataka,Gulbarga,0,0,104,2016,0,160
+PM-10,Uttar Pradesh,Firozabad,2,212,208,2016,223,161
+PM-10,Uttar Pradesh,Firozabad,3,309,312,2018,226,162
+PM-10,Uttar Pradesh,Firozabad,0,0,104,2019,0,163
+PM-10,Uttar Pradesh,Firozabad,3,184,312,2017,220,164
+PM-2.5,Karnataka,Hubli,2,161,208,2016,36,165
+PM-2.5,Karnataka,Devanagere,0,0,104,2016,0,166
+PM-2.5,Karnataka,Bangalore,5,429,520,2016,51,167
+PM-2.5,Jharkhand,Dhanbad,0,0,104,2016,0,168
+PM-10,Uttar Pradesh,Kanpur,8,507,832,2016,217,169
+PM-10,Uttar Pradesh,Kanpur,9,804,936,2018,210,170
+PM-10,Uttar Pradesh,Kanpur,1,3,104,2019,248,171
+PM-10,Uttar Pradesh,Kanpur,8,654,832,2017,225,172
+PM-2.5,Jammu & Kashmir,Srinagar,0,0,104,2016,0,173
+PM-2.5,Jammu & Kashmir,Jammu,0,0,104,2016,0,174
+PM-2.5,Himachal Pradesh,Damtal,0,0,104,2016,0,175
+PM-2.5,Himachal Pradesh,Parwanoo,0,0,104,2016,0,176
+PM-10,Uttar Pradesh,Varanasi,5,362,520,2017,244,177
+PM-10,Uttar Pradesh,Varanasi,0,0,104,2016,0,178
+PM-10,Uttar Pradesh,Varanasi,5,283,520,2018,190,179
+PM-10,Uttar Pradesh,Varanasi,2,67,208,2019,140,180
+PM-2.5,Himachal Pradesh,Sunder Nagar,0,0,104,2016,0,181
+PM-2.5,Himachal Pradesh,Paonta Sahib,0,0,104,2016,0,182
+PM-2.5,Himachal Pradesh,Kala Amb,0,0,104,2016,0,183
+PM-2.5,Himachal Pradesh,Nalagarh,0,0,104,2016,0,184
+PM-10,Uttar Pradesh,Lucknow,7,692,728,2016,214,185
+PM-10,Uttar Pradesh,Lucknow,8,775,832,2018,217,186
+PM-10,Uttar Pradesh,Lucknow,1,138,104,2019,189,187
+PM-10,Uttar Pradesh,Lucknow,8,509,832,2017,246,188
+PM-2.5,Himachal Pradesh,Baddi,0,0,104,2016,0,189
+PM-2.5,Gujarat,Surat,3,278,312,2016,31,190
+PM-2.5,Gujarat,Vadodara,3,257,312,2016,30,191
+PM-2.5,Gujarat,Ahmedabad,8,719,832,2016,34,192
+PM-10,Uttar Pradesh,Ghaziabad,2,219,208,2016,236,193
+PM-10,Uttar Pradesh,Ghaziabad,2,181,208,2018,245,194
+PM-10,Uttar Pradesh,Ghaziabad,1,3,104,2019,301,195
+PM-10,Uttar Pradesh,Ghaziabad,2,122,208,2017,281,196
+PM-2.5,Delhi,Delhi,7,564,728,2016,118,197
+PM-2.5,Chattisgarh,Korba,0,0,104,2016,0,198
+PM-2.5,Chattisgarh,Bhilai,0,0,104,2016,0,199
+PM-2.5,Chattisgarh,Raipur,0,0,104,2016,0,200
+PM-10,Telangana,Nalgonda,2,205,208,2016,62,201
+PM-10,Telangana,Nalgonda,2,144,208,2018,60,202
+PM-10,Telangana,Nalgonda,1,18,104,2019,59,203
+PM-10,Telangana,Nalgonda,2,171,208,2017,60,204
+PM-2.5,Chandigarh,Chandigarh,5,68,520,2016,123,205
+PM-2.5,Bihar,Gaya,0,0,104,2016,0,206
+PM-2.5,Bihar,Patna,0,0,104,2016,0,207
+PM-2.5,Bihar,Muzaffarpur,0,0,104,2016,0,208
+PM-10,Telangana,Patancheru,1,106,104,2016,78,209
+PM-10,Telangana,Patancheru,1,85,104,2018,81,210
+PM-10,Telangana,Patancheru,1,7,104,2019,53,211
+PM-10,Telangana,Patancheru,1,104,104,2017,78,212
+PM-2.5,Assam,Silcher,0,0,104,2016,0,213
+PM-2.5,Assam,Nagaon,0,0,104,2016,0,214
+PM-2.5,Assam,Sivasagar,0,0,104,2016,0,215
+PM-2.5,Assam,Nalbari,0,0,104,2016,0,216
+PM-10,Telangana,Sangareddy,3,293,312,2017,79,217
+PM-10,Telangana,Sangareddy,2,211,208,2016,70,218
+PM-10,Telangana,Sangareddy,3,258,312,2018,81,219
+PM-10,Telangana,Sangareddy,1,41,104,2019,65,220
+PM-2.5,Assam,Guwahati,0,0,104,2016,0,221
+PM-2.5,Andhra Pradesh,Nellore,0,0,104,2016,0,222
+PM-2.5,Andhra Pradesh,Rajahmundry,0,0,104,2016,0,223
+PM-2.5,Andhra Pradesh,Ongole,0,0,104,2016,0,224
+PM-10,Telangana,Hyderabad,10,913,1040,2016,100,225
+PM-10,Telangana,Hyderabad,10,1020,1040,2018,105,226
+PM-10,Telangana,Hyderabad,7,201,728,2019,106,227
+PM-10,Telangana,Hyderabad,10,988,1040,2017,108,228
+PM-2.5,Andhra Pradesh,Guntur,0,0,104,2016,0,229
+PM-2.5,Andhra Pradesh,Chittoor,0,0,104,2016,0,230
+PM-2.5,Andhra Pradesh,Srikakulam,0,0,104,2016,0,231
+PM-2.5,Andhra Pradesh,Vizianagaram,0,0,104,2016,0,232
+PM-10,Tamil Nadu,Trichy,5,479,520,2017,86,233
+PM-10,Tamil Nadu,Trichy,5,351,520,2016,95,234
+PM-10,Tamil Nadu,Trichy,5,476,520,2018,110,235
+PM-10,Tamil Nadu,Trichy,5,107,520,2019,63,236
+PM-2.5,Andhra Pradesh,Visakhapatnam,0,0,104,2016,0,237
+PM-2.5,Andhra Pradesh,Kadapa,0,0,104,2016,0,238
+PM-2.5,Andhra Pradesh,Eluru,0,0,104,2016,0,239
+PM-2.5,Andhra Pradesh,Anantapur,0,0,104,2016,0,240
+PM-10,Tamil Nadu,Thoothukudi/ Tuticorin,3,294,312,2017,132,241
+PM-10,Tamil Nadu,Thoothukudi/ Tuticorin,3,251,312,2016,175,242
+PM-10,Tamil Nadu,Thoothukudi/ Tuticorin,3,292,312,2018,102,243
+PM-10,Tamil Nadu,Thoothukudi/ Tuticorin,3,61,312,2019,81,244
+PM-2.5,Andhra Pradesh,Kurnool,0,0,104,2016,0,245
+PM-2.5,Andhra Pradesh,Vijayawada,0,0,104,2016,0,246
+PM-2.5,West Bengal,Barrackpore,1,144,104,2017,44,247
+PM-2.5,West Bengal,Haldia,1,104,104,2017,35,248
+PM-10,Rajasthan,Udaipur,3,313,312,2017,125,249
+PM-10,Rajasthan,Udaipur,3,315,312,2016,137,250
+PM-10,Rajasthan,Udaipur,3,313,312,2018,147,251
+PM-10,Rajasthan,Udaipur,0,0,104,2019,0,252
+PM-2.5,West Bengal,Howrah,3,316,312,2017,67,253
+PM-2.5,West Bengal,Kolkata,3,312,312,2017,69,254
+PM-2.5,West Bengal,Raniganj,0,0,104,2017,0,255
+PM-2.5,West Bengal,Durgapur,1,103,104,2017,69,256
+PM-10,Rajasthan,Kota,6,470,624,2016,110,257
+PM-10,Rajasthan,Kota,6,589,624,2018,152,258
+PM-10,Rajasthan,Kota,6,152,624,2019,66,259
+PM-10,Rajasthan,Kota,6,489,624,2017,131,260
+PM-2.5,West Bengal,Asansol,1,104,104,2017,67,261
+PM-2.5,Uttarakhand,Kashipur,0,0,104,2017,0,262
+PM-2.5,Uttarakhand,Rishikesh,0,0,104,2017,0,263
+PM-2.5,Uttarakhand,Dehradun,0,0,104,2017,0,264
+PM-2.5,Uttar Pradesh,Jhansi,0,0,104,2017,0,265
+PM-2.5,Uttar Pradesh,Allahabad,0,0,104,2017,0,266
+PM-2.5,Uttar Pradesh,Rai Bareilly,0,0,104,2017,0,267
+PM-10,Rajasthan,Alwar,3,299,312,2016,144,268
+PM-10,Rajasthan,Alwar,3,301,312,2018,183,269
+PM-10,Rajasthan,Alwar,0,0,104,2019,0,270
+PM-10,Rajasthan,Alwar,3,258,312,2017,134,271
+PM-2.5,Uttar Pradesh,Anpara/ Sonbhadra,0,0,104,2017,0,272
+PM-10,Rajasthan,Jaipur,6,604,624,2016,199,273
+PM-10,Rajasthan,Jaipur,9,867,936,2018,165,274
+PM-10,Rajasthan,Jaipur,0,0,104,2019,0,275
+PM-10,Rajasthan,Jaipur,9,898,936,2017,177,276
+PM-2.5,Uttar Pradesh,Agra,4,425,416,2017,124,277
+PM-2.5,Uttar Pradesh,Bareilly,0,0,104,2017,0,278
+PM-2.5,Uttar Pradesh,Gajraula,0,0,104,2017,0,279
+PM-2.5,Uttar Pradesh,Khurja,0,0,104,2017,0,280
+PM-10,Rajasthan,Jodhpur,6,606,624,2016,168,281
+PM-10,Rajasthan,Jodhpur,9,831,936,2018,223,282
+PM-10,Rajasthan,Jodhpur,9,464,936,2019,240,283
+PM-10,Rajasthan,Jodhpur,9,712,936,2017,180,284
+PM-2.5,Uttar Pradesh,Noida,0,0,104,2017,0,285
+PM-2.5,Uttar Pradesh,Moradabad,0,0,104,2017,0,286
+PM-2.5,Uttar Pradesh,Firozabad,0,0,104,2017,0,287
+PM-2.5,Uttar Pradesh,Kanpur,0,0,104,2017,0,288
+PM-10,Punjab,Dera Baba Nanak,0,0,104,2016,0,289
+PM-10,Punjab,Dera Baba Nanak,1,118,104,2018,81,290
+PM-10,Punjab,Dera Baba Nanak,0,0,104,2019,0,291
+PM-10,Punjab,Dera Baba Nanak,1,79,104,2017,90,292
+PM-2.5,Uttar Pradesh,Varanasi,0,0,104,2017,0,293
+PM-2.5,Uttar Pradesh,Lucknow,1,74,104,2017,102,294
+PM-2.5,Uttar Pradesh,Ghaziabad,0,0,104,2017,0,295
+PM-2.5,Telangana,Nalgonda,1,87,104,2017,36,296
+PM-10,Punjab,Naya Nangal,2,183,208,2016,91,297
+PM-10,Punjab,Naya Nangal,2,246,208,2017,91,298
+PM-10,Punjab,Naya Nangal,2,241,208,2018,91,299
+PM-10,Punjab,Naya Nangal,0,0,104,2019,0,300
+PM-2.5,Telangana,Patancheru,1,68,104,2017,31,301
+PM-2.5,Telangana,Sangareddy,3,282,312,2017,37,302
+PM-2.5,Telangana,Hyderabad,8,677,832,2017,54,303
+PM-2.5,Tamil Nadu,Trichy,0,0,104,2017,0,304
+PM-10,Punjab,Dera Bassi,2,204,208,2016,98,305
+PM-10,Punjab,Dera Bassi,2,230,208,2018,95,306
+PM-10,Punjab,Dera Bassi,0,0,104,2019,0,307
+PM-10,Punjab,Dera Bassi,2,260,208,2017,93,308
+PM-2.5,Tamil Nadu,Thoothukudi/ Tuticorin,0,0,104,2017,0,309
+PM-2.5,Rajasthan,Udaipur,0,0,104,2017,0,310
+PM-2.5,Rajasthan,Kota,0,0,104,2017,0,311
+PM-2.5,Rajasthan,Alwar,0,0,104,2017,0,312
+PM-10,Punjab,Patiala,2,117,208,2017,102,313
+PM-10,Punjab,Patiala,2,232,208,2016,106,314
+PM-10,Punjab,Patiala,2,260,208,2018,98,315
+PM-10,Punjab,Patiala,0,0,104,2019,0,316
+PM-2.5,Rajasthan,Jaipur,0,0,104,2017,0,317
+PM-2.5,Rajasthan,Jodhpur,0,0,104,2017,0,318
+PM-2.5,Punjab,Dera Baba Nanak,0,0,104,2017,0,319
+PM-2.5,Punjab,Naya Nangal,0,0,104,2017,0,320
+PM-10,Punjab,Mandi Gobindgarh,1,110,104,2016,123,321
+PM-10,Punjab,Mandi Gobindgarh,1,117,104,2018,136,322
+PM-10,Punjab,Mandi Gobindgarh,0,0,104,2019,0,323
+PM-10,Punjab,Mandi Gobindgarh,1,131,104,2017,136,324
+PM-2.5,Punjab,Dera Bassi,0,0,104,2017,0,325
+PM-2.5,Punjab,Patiala,0,0,104,2017,0,326
+PM-2.5,Punjab,Mandi Gobindgarh,0,0,104,2017,0,327
+PM-2.5,Punjab,Khanna,0,0,104,2017,0,328
+PM-10,Punjab,Khanna,2,254,208,2016,114,329
+PM-10,Punjab,Khanna,2,180,208,2018,135,330
+PM-10,Punjab,Khanna,1,25,104,2019,136,331
+PM-10,Punjab,Khanna,2,265,208,2017,139,332
+PM-2.5,Punjab,Ludhiana,0,0,104,2017,0,333
+PM-2.5,Punjab,Amritsar,0,0,104,2017,0,334
+PM-2.5,Punjab,Jalandhar,0,0,104,2017,0,335
+PM-2.5,Odisha,Balasore,3,309,312,2017,45,336
+PM-10,Punjab,Ludhiana,4,503,416,2016,139,337
+PM-10,Punjab,Ludhiana,4,560,416,2018,162,338
+PM-10,Punjab,Ludhiana,8,174,832,2019,156,339
+PM-10,Punjab,Ludhiana,4,544,416,2017,162,340
+PM-2.5,Odisha,Cuttack,3,310,312,2017,52,341
+PM-2.5,Odisha,Bhubaneswar,6,307,624,2017,36,342
+PM-2.5,Odisha,Angul,2,199,208,2017,46,343
+PM-2.5,Odisha,Talcher,2,200,208,2017,45,344
+PM-2.5,Odisha,Rourkela,5,334,520,2017,42,345
+PM-2.5,Odisha,Kalinga Nagar,3,212,312,2017,57,346
+PM-2.5,Nagaland,Kohima,0,0,104,2017,0,347
+PM-10,Punjab,Amritsar,3,129,312,2016,194,348
+PM-10,Punjab,Amritsar,2,193,208,2018,177,349
+PM-10,Punjab,Amritsar,0,0,104,2019,0,350
+PM-10,Punjab,Amritsar,3,185,312,2017,168,351
+PM-2.5,Nagaland,Dimapur,0,0,104,2017,0,352
+PM-10,Punjab,Jalandhar,0,0,104,2016,0,353
+PM-10,Punjab,Jalandhar,4,449,416,2018,153,354
+PM-10,Punjab,Jalandhar,0,0,104,2019,0,355
+PM-10,Punjab,Jalandhar,4,285,416,2017,223,356
+PM-2.5,Meghalaya,Byrnihat,0,0,104,2017,0,357
+PM-2.5,Maharashtra,Solapur,0,0,104,2017,0,358
+PM-2.5,Maharashtra,Sangli,0,0,104,2017,0,359
+PM-2.5,Maharashtra,Jalgaon,0,0,104,2017,0,360
+PM-2.5,Maharashtra,Nashik,0,0,104,2017,0,361
+PM-2.5,Maharashtra,Latur,0,0,104,2017,0,362
+PM-2.5,Maharashtra,Aurangabad,0,0,104,2017,0,363
+PM-10,Odisha,Balasore,3,258,312,2016,85,364
+PM-10,Odisha,Balasore,3,312,312,2018,86,365
+PM-10,Odisha,Balasore,3,168,312,2019,87,366
+PM-10,Odisha,Balasore,3,309,312,2017,83,367
+PM-2.5,Maharashtra,Kolhapur,0,0,104,2017,0,368
+PM-10,Odisha,Cuttack,3,317,312,2016,81,369
+PM-10,Odisha,Cuttack,3,266,312,2018,114,370
+PM-10,Odisha,Cuttack,3,101,312,2019,112,371
+PM-10,Odisha,Cuttack,4,397,416,2017,87,372
+PM-2.5,Maharashtra,Jalna,0,0,104,2017,0,373
+PM-2.5,Maharashtra,Pune,0,0,104,2017,0,374
+PM-2.5,Maharashtra,Nagpur,0,0,104,2017,0,375
+PM-2.5,Maharashtra,Navi Mumbai,0,0,104,2017,0,376
+PM-2.5,Maharashtra,Amravati,0,0,104,2017,0,377
+PM-2.5,Maharashtra,Thane,0,0,104,2017,0,378
+PM-2.5,Maharashtra,Akola,0,0,104,2017,0,379
+PM-10,Odisha,Bhubaneswar,5,517,520,2016,105,380
+PM-10,Odisha,Bhubaneswar,6,522,624,2018,99,381
+PM-10,Odisha,Bhubaneswar,5,195,520,2019,98,382
+PM-10,Odisha,Bhubaneswar,6,498,624,2017,91,383
+PM-2.5,Maharashtra,Chandrapur,0,0,104,2017,0,384
+PM-2.5,Maharashtra,Ulhasnagar,0,0,104,2017,0,385
+PM-2.5,Maharashtra,Mumbai,0,0,104,2017,0,386
+PM-2.5,Maharashtra,Badlapur,0,0,104,2017,0,387
+PM-10,Odisha,Angul,2,210,208,2016,97,388
+PM-10,Odisha,Angul,2,211,208,2018,101,389
+PM-10,Odisha,Angul,1,28,104,2019,94,390
+PM-10,Odisha,Angul,2,199,208,2017,95,391
+PM-2.5,Madhya Pradesh,Sagar,2,198,208,2017,25,392
+PM-10,Odisha,Talcher,2,200,208,2017,96,393
+PM-10,Odisha,Talcher,2,212,208,2016,105,394
+PM-10,Odisha,Talcher,2,208,208,2018,111,395
+PM-10,Odisha,Talcher,1,26,104,2019,92,396
+PM-2.5,Madhya Pradesh,Ujjain,4,262,416,2017,37,397
+PM-2.5,Madhya Pradesh,Dewas,0,0,104,2017,0,398
+PM-2.5,Madhya Pradesh,Indore,3,191,312,2017,44,399
+PM-2.5,Madhya Pradesh,Bhopal,6,418,624,2017,42,400
+PM-10,Odisha,Rourkela,6,429,624,2017,117,401
+PM-10,Odisha,Rourkela,5,365,520,2016,75,402
+PM-10,Odisha,Rourkela,1,104,104,2018,93,403
+PM-10,Odisha,Rourkela,1,36,104,2019,165,404
+PM-2.5,Madhya Pradesh,Gwalior,2,192,208,2017,48,405
+PM-2.5,Karnataka,Gulbarga,0,0,104,2017,0,406
+PM-2.5,Karnataka,Hubli,2,189,208,2017,34,407
+PM-2.5,Karnataka,Devanagere,3,106,312,2017,22,408
+PM-10,Odisha,Kalinga Nagar,3,295,312,2016,113,409
+PM-10,Odisha,Kalinga Nagar,2,186,208,2018,118,410
+PM-10,Odisha,Kalinga Nagar,0,0,104,2019,0,411
+PM-10,Odisha,Kalinga Nagar,3,251,312,2017,126,412
+PM-2.5,Karnataka,Bangalore,7,464,728,2017,46,413
+PM-2.5,Jharkhand,Dhanbad,0,0,104,2017,0,414
+PM-2.5,Jammu & Kashmir,Srinagar,0,0,104,2017,0,415
+PM-2.5,Jammu & Kashmir,Jammu,0,0,104,2017,0,416
+PM-10,Nagaland,Kohima,2,199,208,2016,90,417
+PM-10,Nagaland,Kohima,2,222,208,2018,105,418
+PM-10,Nagaland,Kohima,1,58,104,2019,59,419
+PM-10,Nagaland,Kohima,2,192,208,2017,114,420
+PM-2.5,Himachal Pradesh,Damtal,0,0,104,2017,0,421
+PM-2.5,Himachal Pradesh,Parwanoo,1,95,104,2017,20,422
+PM-2.5,Himachal Pradesh,Sunder Nagar,2,192,208,2017,41,423
+PM-2.5,Himachal Pradesh,Paonta Sahib,0,0,104,2017,0,424
+PM-10,Nagaland,Dimapur,2,192,208,2016,122,425
+PM-10,Nagaland,Dimapur,2,223,208,2018,135,426
+PM-10,Nagaland,Dimapur,2,90,208,2019,116,427
+PM-10,Nagaland,Dimapur,2,184,208,2017,138,428
+PM-2.5,Himachal Pradesh,Kala Amb,0,0,104,2017,0,429
+PM-2.5,Himachal Pradesh,Nalagarh,0,0,104,2017,0,430
+PM-2.5,Himachal Pradesh,Baddi,0,0,104,2017,0,431
+PM-2.5,Gujarat,Surat,0,0,104,2017,0,432
+PM-2.5,Gujarat,Vadodara,5,493,520,2017,36,433
+PM-2.5,Gujarat,Ahmedabad,9,854,936,2017,38,434
+PM-2.5,Delhi,Delhi,6,402,624,2017,101,435
+PM-10,Meghalaya,Byrnihat,1,75,104,2016,175,436
+PM-10,Meghalaya,Byrnihat,1,108,104,2018,166,437
+PM-10,Meghalaya,Byrnihat,1,40,104,2019,117,438
+PM-10,Meghalaya,Byrnihat,1,104,104,2017,174,439
+PM-2.5,Chattisgarh,Korba,0,0,104,2017,0,440
+PM-10,Maharashtra,Solapur,2,193,208,2017,64,441
+PM-10,Maharashtra,Solapur,2,205,208,2016,74,442
+PM-10,Maharashtra,Solapur,2,207,208,2018,71,443
+PM-10,Maharashtra,Solapur,1,35,104,2019,78,444
+PM-2.5,Chattisgarh,Bhilai,0,0,104,2017,0,445
+PM-2.5,Chattisgarh,Raipur,0,0,104,2017,0,446
+PM-2.5,Chandigarh,Chandigarh,5,676,520,2017,64,447
+PM-2.5,Bihar,Gaya,0,0,104,2017,0,448
+PM-10,Maharashtra,Sangli,3,299,312,2017,76,449
+PM-10,Maharashtra,Sangli,3,339,312,2016,83,450
+PM-10,Maharashtra,Sangli,3,308,312,2018,84,451
+PM-10,Maharashtra,Sangli,0,0,104,2019,0,452
+PM-2.5,Bihar,Patna,0,0,104,2017,0,453
+PM-2.5,Bihar,Muzaffarpur,1,103,104,2017,89,454
+PM-2.5,Assam,Silcher,0,0,104,2017,0,455
+PM-2.5,Assam,Nagaon,0,0,104,2017,0,456
+PM-10,Maharashtra,Jalgaon,3,308,312,2016,103,457
+PM-10,Maharashtra,Jalgaon,3,330,312,2018,74,458
+PM-10,Maharashtra,Jalgaon,0,0,104,2019,0,459
+PM-10,Maharashtra,Jalgaon,3,310,312,2017,77,460
+PM-2.5,Assam,Sivasagar,0,0,104,2017,0,461
+PM-2.5,Assam,Nalbari,0,0,104,2017,0,462
+PM-2.5,Assam,Guwahati,0,0,104,2017,0,463
+PM-2.5,Andhra Pradesh,Nellore,0,0,104,2017,0,464
+PM-10,Maharashtra,Nashik,4,573,416,2017,81,465
+PM-10,Maharashtra,Nashik,4,622,416,2016,85,466
+PM-10,Maharashtra,Nashik,5,929,520,2018,82,467
+PM-10,Maharashtra,Nashik,1,46,104,2019,110,468
+PM-2.5,Andhra Pradesh,Rajahmundry,0,0,104,2017,0,469
+PM-2.5,Andhra Pradesh,Ongole,0,0,104,2017,0,470
+PM-2.5,Andhra Pradesh,Guntur,0,0,104,2017,0,471
+PM-2.5,Andhra Pradesh,Chittoor,0,0,104,2017,0,472
+PM-10,Maharashtra,Latur,3,276,312,2017,81,473
+PM-10,Maharashtra,Latur,3,326,312,2016,81,474
+PM-10,Maharashtra,Latur,3,317,312,2018,95,475
+PM-10,Maharashtra,Latur,1,52,104,2019,108,476
+PM-2.5,Andhra Pradesh,Srikakulam,0,0,104,2017,0,477
+PM-2.5,Andhra Pradesh,Vizianagaram,0,0,104,2017,0,478
+PM-2.5,Andhra Pradesh,Visakhapatnam,0,0,104,2017,0,479
+PM-2.5,Andhra Pradesh,Kadapa,0,0,104,2017,0,480
+PM-2.5,Andhra Pradesh,Eluru,0,0,104,2017,0,481
+PM-2.5,Andhra Pradesh,Anantapur,0,0,104,2017,0,482
+PM-2.5,Andhra Pradesh,Kurnool,0,0,104,2017,0,483
+PM-10,Maharashtra,Aurangabad,3,300,312,2016,92,484
+PM-10,Maharashtra,Aurangabad,3,247,312,2018,70,485
+PM-10,Maharashtra,Aurangabad,1,22,104,2019,82,486
+PM-10,Maharashtra,Aurangabad,3,292,312,2017,83,487
+PM-2.5,Andhra Pradesh,Vijayawada,0,0,104,2017,0,488
+PM-10,Maharashtra,Kolhapur,3,273,312,2017,90,489
+PM-10,Maharashtra,Kolhapur,3,251,312,2016,96,490
+PM-10,Maharashtra,Kolhapur,3,297,312,2018,90,491
+PM-10,Maharashtra,Kolhapur,0,0,104,2019,0,492
+PM-2.5,West Bengal,Barrackpore,1,104,104,2018,44,493
+PM-2.5,West Bengal,Haldia,1,104,104,2018,33,494
+PM-2.5,West Bengal,Howrah,2,292,208,2018,97,495
+PM-2.5,West Bengal,Kolkata,5,704,520,2018,86,496
+PM-10,Maharashtra,Jalna,2,191,208,2016,110,497
+PM-10,Maharashtra,Jalna,2,178,208,2018,103,498
+PM-10,Maharashtra,Jalna,1,14,104,2019,98,499
+PM-10,Maharashtra,Jalna,2,186,208,2017,101,500
+PM-2.5,West Bengal,Raniganj,0,0,104,2018,0,501
+PM-2.5,West Bengal,Durgapur,1,104,104,2018,71,502
+PM-2.5,West Bengal,Asansol,1,103,104,2018,58,503
+PM-2.5,Uttarakhand,Kashipur,0,0,104,2018,0,504
+PM-10,Maharashtra,Pune,3,261,312,2017,102,505
+PM-10,Maharashtra,Pune,3,290,312,2016,107,506
+PM-10,Maharashtra,Pune,3,255,312,2018,106,507
+PM-10,Maharashtra,Pune,1,7,104,2019,148,508
+PM-2.5,Uttarakhand,Rishikesh,0,0,104,2018,0,509
+PM-2.5,Uttarakhand,Dehradun,0,0,104,2018,0,510
+PM-2.5,Uttar Pradesh,Jhansi,0,0,104,2018,0,511
+PM-2.5,Uttar Pradesh,Allahabad,0,0,104,2018,0,512
+PM-10,Maharashtra,Nagpur,7,855,728,2017,102,513
+PM-10,Maharashtra,Nagpur,7,859,728,2016,118,514
+PM-10,Maharashtra,Nagpur,6,590,624,2018,109,515
+PM-10,Maharashtra,Nagpur,1,75,104,2019,73,516
+PM-2.5,Uttar Pradesh,Rai Bareilly,0,0,104,2018,0,517
+PM-2.5,Uttar Pradesh,Anpara/ Sonbhadra,0,0,104,2018,0,518
+PM-2.5,Uttar Pradesh,Agra,4,510,416,2018,105,519
+PM-2.5,Uttar Pradesh,Bareilly,0,0,104,2018,0,520
+PM-10,Maharashtra,Navi Mumbai,6,616,624,2017,105,521
+PM-10,Maharashtra,Navi Mumbai,6,661,624,2016,118,522
+PM-10,Maharashtra,Navi Mumbai,6,595,624,2018,71,523
+PM-10,Maharashtra,Navi Mumbai,0,0,104,2019,0,524
+PM-2.5,Uttar Pradesh,Gajraula,0,0,104,2018,0,525
+PM-2.5,Uttar Pradesh,Khurja,0,0,104,2018,0,526
+PM-2.5,Uttar Pradesh,Noida,1,90,104,2018,119,527
+PM-2.5,Uttar Pradesh,Moradabad,0,0,104,2018,0,528
+PM-2.5,Uttar Pradesh,Firozabad,0,0,104,2018,0,529
+PM-2.5,Uttar Pradesh,Kanpur,1,140,104,2018,83,530
+PM-2.5,Uttar Pradesh,Varanasi,0,0,104,2018,0,531
+PM-10,Maharashtra,Amravati,3,223,312,2016,100,532
+PM-10,Maharashtra,Amravati,3,260,312,2018,104,533
+PM-10,Maharashtra,Amravati,1,53,104,2019,102,534
+PM-10,Maharashtra,Amravati,3,251,312,2017,106,535
+PM-2.5,Uttar Pradesh,Lucknow,1,108,104,2018,108,536
+PM-10,Maharashtra,Thane,3,266,312,2017,125,537
+PM-10,Maharashtra,Thane,3,287,312,2016,122,538
+PM-10,Maharashtra,Thane,3,271,312,2018,107,539
+PM-10,Maharashtra,Thane,0,0,104,2019,0,540
+PM-2.5,Uttar Pradesh,Ghaziabad,2,181,208,2018,103,541
+PM-2.5,Telangana,Nalgonda,2,22,208,2018,49,542
+PM-2.5,Telangana,Patancheru,1,74,104,2018,37,543
+PM-2.5,Telangana,Sangareddy,3,222,312,2018,39,544
+PM-2.5,Telangana,Hyderabad,8,594,832,2018,55,545
+PM-2.5,Tamil Nadu,Trichy,5,475,520,2018,53,546
+PM-2.5,Tamil Nadu,Thoothukudi/ Tuticorin,3,291,312,2018,25,547
+PM-10,Maharashtra,Akola,3,300,312,2016,126,548
+PM-10,Maharashtra,Akola,3,318,312,2018,72,549
+PM-10,Maharashtra,Akola,1,51,104,2019,75,550
+PM-10,Maharashtra,Akola,3,291,312,2017,127,551
+PM-2.5,Rajasthan,Udaipur,0,0,104,2018,0,552
+PM-2.5,Rajasthan,Kota,0,0,104,2018,0,553
+PM-2.5,Rajasthan,Alwar,0,0,104,2018,0,554
+PM-2.5,Rajasthan,Jaipur,0,0,104,2018,0,555
+PM-10,Maharashtra,Chandrapur,6,744,624,2016,111,556
+PM-10,Maharashtra,Chandrapur,6,831,624,2018,149,557
+PM-10,Maharashtra,Chandrapur,1,81,104,2019,107,558
+PM-10,Maharashtra,Chandrapur,6,796,624,2017,4,559
+PM-2.5,Rajasthan,Jodhpur,0,0,104,2018,0,560
+PM-10,Maharashtra,Ulhasnagar,2,144,208,2017,150,561
+PM-10,Maharashtra,Ulhasnagar,2,147,208,2016,118,562
+PM-10,Maharashtra,Ulhasnagar,2,164,208,2018,123,563
+PM-10,Maharashtra,Ulhasnagar,1,8,104,2019,147,564
+PM-2.5,Punjab,Dera Baba Nanak,0,0,104,2018,0,565
+PM-2.5,Punjab,Naya Nangal,0,0,104,2018,0,566
+PM-2.5,Punjab,Dera Bassi,0,0,104,2018,0,567
+PM-2.5,Punjab,Patiala,0,0,104,2018,0,568
+PM-10,Maharashtra,Mumbai,2,175,208,2017,151,569
+PM-10,Maharashtra,Mumbai,2,151,208,2016,119,570
+PM-10,Maharashtra,Mumbai,3,212,312,2018,165,571
+PM-10,Maharashtra,Mumbai,0,0,104,2019,0,572
+PM-2.5,Punjab,Mandi Gobindgarh,0,0,104,2018,0,573
+PM-2.5,Punjab,Khanna,0,0,104,2018,0,574
+PM-2.5,Punjab,Ludhiana,0,0,104,2018,0,575
+PM-2.5,Punjab,Amritsar,0,0,104,2018,0,576
+PM-2.5,Punjab,Jalandhar,0,0,104,2018,0,577
+PM-2.5,Odisha,Balasore,3,312,312,2018,47,578
+PM-2.5,Odisha,Cuttack,3,266,312,2018,50,579
+PM-10,Maharashtra,Badlapur,1,75,104,2016,125,580
+PM-10,Maharashtra,Badlapur,1,82,104,2018,144,581
+PM-10,Maharashtra,Badlapur,1,8,104,2019,137,582
+PM-10,Maharashtra,Badlapur,1,75,104,2017,159,583
+PM-2.5,Odisha,Bhubaneswar,6,374,624,2018,32,584
+PM-10,Madhya Pradesh,Sagar,2,118,208,2017,70,585
+PM-10,Madhya Pradesh,Sagar,1,94,104,2016,79,586
+PM-10,Madhya Pradesh,Sagar,2,196,208,2018,76,587
+PM-10,Madhya Pradesh,Sagar,2,114,208,2019,69,588
+PM-2.5,Odisha,Angul,2,211,208,2018,50,589
+PM-2.5,Odisha,Talcher,2,208,208,2018,50,590
+PM-2.5,Odisha,Rourkela,4,390,416,2018,46,591
+PM-2.5,Odisha,Kalinga Nagar,2,91,208,2018,58,592
+PM-10,Madhya Pradesh,Ujjain,4,354,416,2017,75,593
+PM-10,Madhya Pradesh,Ujjain,4,280,416,2016,90,594
+PM-10,Madhya Pradesh,Ujjain,4,416,416,2018,110,595
+PM-10,Madhya Pradesh,Ujjain,0,0,104,2019,0,596
+PM-2.5,Nagaland,Kohima,0,0,104,2018,0,597
+PM-2.5,Nagaland,Dimapur,0,0,104,2018,0,598
+PM-2.5,Meghalaya,Byrnihat,0,0,104,2018,0,599
+PM-2.5,Maharashtra,Solapur,0,0,104,2018,0,600
+PM-2.5,Maharashtra,Sangli,0,0,104,2018,0,601
+PM-2.5,Maharashtra,Jalgaon,0,0,104,2018,0,602
+PM-2.5,Maharashtra,Nashik,0,0,104,2018,0,603
+PM-10,Madhya Pradesh,Dewas,3,283,312,2016,89,604
+PM-10,Madhya Pradesh,Dewas,3,306,312,2018,68,605
+PM-10,Madhya Pradesh,Dewas,0,0,104,2019,0,606
+PM-10,Madhya Pradesh,Dewas,3,281,312,2017,75,607
+PM-2.5,Maharashtra,Latur,0,0,104,2018,0,608
+PM-10,Madhya Pradesh,Indore,3,274,312,2017,80,609
+PM-10,Madhya Pradesh,Indore,3,269,312,2016,95,610
+PM-10,Madhya Pradesh,Indore,3,315,312,2018,88,611
+PM-10,Madhya Pradesh,Indore,1,2,104,2019,93,612
+PM-2.5,Maharashtra,Aurangabad,0,0,104,2018,0,613
+PM-2.5,Maharashtra,Kolhapur,0,0,104,2018,0,614
+PM-2.5,Maharashtra,Jalna,0,0,104,2018,0,615
+PM-2.5,Maharashtra,Pune,0,0,104,2018,0,616
+PM-2.5,Maharashtra,Nagpur,1,96,104,2018,44,617
+PM-2.5,Maharashtra,Navi Mumbai,0,0,104,2018,0,618
+PM-2.5,Maharashtra,Amravati,0,0,104,2018,0,619
+PM-10,Madhya Pradesh,Bhopal,7,501,728,2016,89,620
+PM-10,Madhya Pradesh,Bhopal,7,729,728,2018,135,621
+PM-10,Madhya Pradesh,Bhopal,7,209,728,2019,144,622
+PM-10,Madhya Pradesh,Bhopal,7,605,728,2017,93,623
+PM-2.5,Maharashtra,Thane,0,0,104,2018,0,624
+PM-10,Madhya Pradesh,Gwalior,2,191,208,2017,110,625
+PM-10,Madhya Pradesh,Gwalior,2,146,208,2016,96,626
+PM-10,Madhya Pradesh,Gwalior,2,166,208,2018,134,627
+PM-10,Madhya Pradesh,Gwalior,2,45,208,2019,154,628
+PM-2.5,Maharashtra,Akola,0,0,104,2018,0,629
+PM-2.5,Maharashtra,Chandrapur,0,0,104,2018,0,630
+PM-2.5,Maharashtra,Ulhasnagar,0,0,104,2018,0,631
+PM-2.5,Maharashtra,Mumbai,1,96,104,2018,46,632
+PM-10,Karnataka,Gulbarga,1,101,104,2016,60,633
+PM-10,Karnataka,Gulbarga,1,59,104,2018,55,634
+PM-10,Karnataka,Gulbarga,1,2,104,2019,63,635
+PM-10,Karnataka,Gulbarga,1,89,104,2017,54,636
+PM-2.5,Maharashtra,Badlapur,0,0,104,2018,0,637
+PM-2.5,Madhya Pradesh,Sagar,2,198,208,2018,30,638
+PM-2.5,Madhya Pradesh,Ujjain,4,284,416,2018,34,639
+PM-2.5,Madhya Pradesh,Dewas,3,297,312,2018,49,640
+PM-10,Karnataka,Hubli,2,214,208,2017,79,641
+PM-10,Karnataka,Hubli,2,208,208,2016,84,642
+PM-10,Karnataka,Hubli,2,209,208,2018,75,643
+PM-10,Karnataka,Hubli,1,51,104,2019,78,644
+PM-2.5,Madhya Pradesh,Indore,3,292,312,2018,41,645
+PM-2.5,Madhya Pradesh,Bhopal,7,693,728,2018,59,646
+PM-2.5,Madhya Pradesh,Gwalior,2,165,208,2018,63,647
+PM-2.5,Karnataka,Gulbarga,1,55,104,2018,41,648
+PM-2.5,Karnataka,Hubli,2,160,208,2018,26,649
+PM-2.5,Karnataka,Devanagere,2,147,208,2018,18,650
+PM-2.5,Karnataka,Bangalore,5,363,520,2018,47,651
+PM-2.5,Jharkhand,Dhanbad,0,0,104,2018,0,652
+PM-10,Karnataka,Devanagere,3,157,312,2016,94,653
+PM-10,Karnataka,Devanagere,2,198,208,2018,44,654
+PM-10,Karnataka,Devanagere,0,0,104,2019,0,655
+PM-10,Karnataka,Devanagere,3,241,312,2017,87,656
+PM-2.5,Jammu & Kashmir,Srinagar,0,0,104,2018,0,657
+PM-2.5,Jammu & Kashmir,Jammu,3,285,312,2018,45,658
+PM-2.5,Himachal Pradesh,Damtal,2,199,208,2018,26,659
+PM-2.5,Himachal Pradesh,Parwanoo,2,84,208,2018,13,660
+PM-10,Karnataka,Bangalore,8,731,832,2016,103,661
+PM-10,Karnataka,Bangalore,8,818,832,2018,90,662
+PM-10,Karnataka,Bangalore,1,64,104,2019,57,663
+PM-10,Karnataka,Bangalore,9,772,936,2017,92,664
+PM-2.5,Himachal Pradesh,Sunder Nagar,2,163,208,2018,47,665
+PM-2.5,Himachal Pradesh,Paonta Sahib,2,161,208,2018,51,666
+PM-2.5,Himachal Pradesh,Kala Amb,2,84,208,2018,53,667
+PM-2.5,Himachal Pradesh,Nalagarh,0,0,104,2018,0,668
+PM-10,Jharkhand,Dhanbad,3,245,312,2016,226,669
+PM-10,Jharkhand,Dhanbad,3,256,312,2018,263,670
+PM-10,Jharkhand,Dhanbad,0,0,104,2019,0,671
+PM-10,Jharkhand,Dhanbad,3,78,312,2017,238,672
+PM-2.5,Himachal Pradesh,Baddi,0,0,104,2018,0,673
+PM-10,Jammu & Kashmir,Srinagar,0,0,104,2017,0,674
+PM-10,Jammu & Kashmir,Srinagar,0,0,104,2016,0,675
+PM-10,Jammu & Kashmir,Srinagar,3,134,312,2018,153,676
+PM-10,Jammu & Kashmir,Srinagar,0,0,104,2019,0,677
+PM-2.5,Gujarat,Surat,3,313,312,2018,56,678
+PM-2.5,Gujarat,Vadodara,5,517,520,2018,60,679
+PM-2.5,Gujarat,Ahmedabad,9,929,936,2018,73,680
+PM-2.5,Delhi,Delhi,6,362,624,2018,121,681
+PM-10,Jammu & Kashmir,Jammu,3,261,312,2017,149,682
+PM-10,Jammu & Kashmir,Jammu,3,275,312,2016,131,683
+PM-10,Jammu & Kashmir,Jammu,3,298,312,2018,164,684
+PM-10,Jammu & Kashmir,Jammu,1,41,104,2019,138,685
+PM-2.5,Chattisgarh,Korba,2,103,208,2018,19,686
+PM-2.5,Chattisgarh,Bhilai,0,0,104,2018,0,687
+PM-2.5,Chattisgarh,Raipur,0,0,104,2018,0,688
+PM-2.5,Chandigarh,Chandigarh,5,616,520,2018,50,689
+PM-2.5,Bihar,Gaya,0,0,104,2018,0,690
+PM-2.5,Bihar,Patna,0,0,104,2018,0,691
+PM-2.5,Bihar,Muzaffarpur,1,107,104,2018,84,692
+PM-10,Himachal Pradesh,Damtal,2,271,208,2016,85,693
+PM-10,Himachal Pradesh,Damtal,2,249,208,2018,63,694
+PM-10,Himachal Pradesh,Damtal,2,28,208,2019,46,695
+PM-10,Himachal Pradesh,Damtal,2,259,208,2017,63,696
+PM-2.5,Assam,Silcher,0,0,104,2018,0,697
+PM-10,Himachal Pradesh,Parwanoo,2,251,208,2017,65,698
+PM-10,Himachal Pradesh,Parwanoo,2,276,208,2016,70,699
+PM-10,Himachal Pradesh,Parwanoo,2,257,208,2018,63,700
+PM-10,Himachal Pradesh,Parwanoo,1,18,104,2019,54,701
+PM-2.5,Assam,Nagaon,0,0,104,2018,0,702
+PM-2.5,Assam,Sivasagar,0,0,104,2018,0,703
+PM-2.5,Assam,Nalbari,0,0,104,2018,0,704
+PM-2.5,Assam,Guwahati,2,159,208,2018,67,705
+PM-10,Himachal Pradesh,Sunder Nagar,2,257,208,2017,73,706
+PM-10,Himachal Pradesh,Sunder Nagar,2,260,208,2016,92,707
+PM-10,Himachal Pradesh,Sunder Nagar,2,266,208,2018,84,708
+PM-10,Himachal Pradesh,Sunder Nagar,1,4,104,2019,149,709
+PM-2.5,Andhra Pradesh,Nellore,1,4,104,2018,34,710
+PM-2.5,Andhra Pradesh,Rajahmundry,1,12,104,2018,69,711
+PM-2.5,Andhra Pradesh,Ongole,0,0,104,2018,0,712
+PM-2.5,Andhra Pradesh,Guntur,0,0,104,2018,0,713
+PM-10,Himachal Pradesh,Paonta Sahib,2,269,208,2017,84,714
+PM-10,Himachal Pradesh,Paonta Sahib,2,177,208,2016,102,715
+PM-10,Himachal Pradesh,Paonta Sahib,2,282,208,2018,88,716
+PM-10,Himachal Pradesh,Paonta Sahib,1,17,104,2019,87,717
+PM-2.5,Andhra Pradesh,Chittoor,2,67,208,2018,27,718
+PM-2.5,Andhra Pradesh,Srikakulam,0,0,104,2018,0,719
+PM-2.5,Andhra Pradesh,Vizianagaram,0,0,104,2018,0,720
+PM-2.5,Andhra Pradesh,Visakhapatnam,8,183,832,2018,49,721
+PM-10,Himachal Pradesh,Kala Amb,2,305,208,2017,119,722
+PM-10,Himachal Pradesh,Kala Amb,2,311,208,2016,129,723
+PM-10,Himachal Pradesh,Kala Amb,2,325,208,2018,104,724
+PM-10,Himachal Pradesh,Kala Amb,1,45,104,2019,89,725
+PM-2.5,Andhra Pradesh,Kadapa,1,20,104,2018,28,726
+PM-2.5,Andhra Pradesh,Eluru,0,0,104,2018,0,727
+PM-2.5,Andhra Pradesh,Anantapur,1,47,104,2018,34,728
+PM-2.5,Andhra Pradesh,Kurnool,1,50,104,2018,26,729
+PM-10,Himachal Pradesh,Nalagarh,1,122,104,2017,147,730
+PM-10,Himachal Pradesh,Nalagarh,1,113,104,2016,108,731
+PM-10,Himachal Pradesh,Nalagarh,1,129,104,2018,148,732
+PM-10,Himachal Pradesh,Nalagarh,0,0,104,2019,0,733
+PM-2.5,Andhra Pradesh,Vijayawada,3,100,312,2018,26,734
+PM-2.5,West Bengal,Barrackpore,0,0,104,2019,0,735
+PM-2.5,West Bengal,Haldia,0,0,104,2019,0,736
+PM-2.5,West Bengal,Howrah,0,0,104,2019,0,737
+PM-2.5,West Bengal,Kolkata,12,0,1248,2019,0,738
+PM-2.5,West Bengal,Raniganj,1,0,104,2019,0,739
+PM-2.5,West Bengal,Durgapur,0,0,104,2019,0,740
+PM-10,Himachal Pradesh,Baddi,3,163,312,2016,90,741
+PM-10,Himachal Pradesh,Baddi,3,377,312,2018,164,742
+PM-10,Himachal Pradesh,Baddi,0,0,104,2019,0,743
+PM-10,Himachal Pradesh,Baddi,3,263,312,2017,172,744
+PM-2.5,West Bengal,Asansol,2,3,208,2019,82,745
+PM-10,Gujarat,Surat,3,313,312,2017,106,746
+PM-10,Gujarat,Surat,3,278,312,2016,92,747
+PM-10,Gujarat,Surat,3,313,312,2018,176,748
+PM-10,Gujarat,Surat,1,28,104,2019,228,749
+PM-2.5,Uttarakhand,Kashipur,0,0,104,2019,0,750
+PM-2.5,Uttarakhand,Rishikesh,0,0,104,2019,0,751
+PM-2.5,Uttarakhand,Dehradun,0,0,104,2019,0,752
+PM-2.5,Uttar Pradesh,Jhansi,0,0,104,2019,0,753
+PM-10,Gujarat,Vadodara,5,493,520,2017,108,754
+PM-10,Gujarat,Vadodara,3,257,312,2016,93,755
+PM-10,Gujarat,Vadodara,5,517,520,2018,188,756
+PM-10,Gujarat,Vadodara,1,35,104,2019,225,757
+PM-2.5,Uttar Pradesh,Allahabad,5,0,520,2019,0,758
+PM-2.5,Uttar Pradesh,Rai Bareilly,3,0,312,2019,0,759
+PM-2.5,Uttar Pradesh,Anpara/ Sonbhadra,2,0,208,2019,0,760
+PM-2.5,Uttar Pradesh,Agra,0,0,104,2019,0,761
+PM-2.5,Uttar Pradesh,Bareilly,0,0,104,2019,0,762
+PM-2.5,Uttar Pradesh,Gajraula,0,0,104,2019,0,763
+PM-2.5,Uttar Pradesh,Khurja,0,0,104,2019,0,764
+PM-10,Gujarat,Ahmedabad,1,95,104,2016,108,765
+PM-10,Gujarat,Ahmedabad,9,929,936,2018,236,766
+PM-10,Gujarat,Ahmedabad,2,88,208,2019,189,767
+PM-10,Gujarat,Ahmedabad,9,856,936,2017,120,768
+PM-2.5,Uttar Pradesh,Noida,1,11,104,2019,216,769
+PM-2.5,Uttar Pradesh,Moradabad,2,0,208,2019,0,770
+PM-2.5,Uttar Pradesh,Firozabad,0,0,104,2019,0,771
+PM-2.5,Uttar Pradesh,Kanpur,0,0,104,2019,0,772
+PM-10,Delhi,Delhi,9,840,936,2017,240,773
+PM-10,Delhi,Delhi,9,848,936,2016,274,774
+PM-10,Delhi,Delhi,9,919,936,2018,225,775
+PM-10,Delhi,Delhi,0,0,104,2019,0,776
+PM-2.5,Uttar Pradesh,Varanasi,2,0,208,2019,0,777
+PM-10,Chattisgarh,Korba,2,140,208,2017,58,778
+PM-10,Chattisgarh,Korba,0,0,104,2016,0,779
+PM-10,Chattisgarh,Korba,2,196,208,2018,59,780
+PM-10,Chattisgarh,Korba,1,25,104,2019,71,781
+PM-2.5,Uttar Pradesh,Lucknow,1,15,104,2019,112,782
+PM-2.5,Uttar Pradesh,Ghaziabad,1,7,104,2019,228,783
+PM-2.5,Telangana,Nalgonda,0,0,104,2019,0,784
+PM-2.5,Telangana,Patancheru,0,0,104,2019,0,785
+PM-2.5,Telangana,Sangareddy,1,0,104,2019,0,786
+PM-2.5,Telangana,Hyderabad,7,4,728,2019,71,787
+PM-2.5,Tamil Nadu,Trichy,5,0,520,2019,0,788
+PM-10,Chattisgarh,Bhilai,3,248,312,2016,108,789
+PM-10,Chattisgarh,Bhilai,0,0,104,2018,0,790
+PM-10,Chattisgarh,Bhilai,2,103,208,2019,73,791
+PM-10,Chattisgarh,Bhilai,3,118,312,2017,97,792
+PM-2.5,Tamil Nadu,Thoothukudi/ Tuticorin,3,0,312,2019,0,793
+PM-10,Chattisgarh,Raipur,2,115,208,2017,103,794
+PM-10,Chattisgarh,Raipur,2,129,208,2016,148,795
+PM-10,Chattisgarh,Raipur,2,149,208,2018,65,796
+PM-10,Chattisgarh,Raipur,0,0,104,2019,0,797
+PM-2.5,Rajasthan,Udaipur,0,0,104,2019,0,798
+PM-2.5,Rajasthan,Kota,6,0,624,2019,0,799
+PM-2.5,Rajasthan,Alwar,0,0,104,2019,0,800
+PM-2.5,Rajasthan,Jaipur,0,0,104,2019,0,801
+PM-2.5,Rajasthan,Jodhpur,9,0,936,2019,0,802
+PM-2.5,Punjab,Dera Baba Nanak,0,0,104,2019,0,803
+PM-2.5,Punjab,Naya Nangal,0,0,104,2019,0,804
+PM-10,Chandigarh,Chandigarh,5,709,520,2017,109,805
+PM-10,Chandigarh,Chandigarh,5,659,520,2016,105,806
+PM-10,Chandigarh,Chandigarh,5,678,520,2018,102,807
+PM-10,Chandigarh,Chandigarh,5,219,520,2019,83,808
+PM-2.5,Punjab,Dera Bassi,0,0,104,2019,0,809
+PM-2.5,Punjab,Patiala,0,0,104,2019,0,810
+PM-2.5,Punjab,Mandi Gobindgarh,0,0,104,2019,0,811
+PM-2.5,Punjab,Khanna,1,0,104,2019,0,812
+PM-10,Bihar,Gaya,1,95,104,2017,77,813
+PM-10,Bihar,Gaya,0,0,104,2016,0,814
+PM-10,Bihar,Gaya,1,103,104,2018,89,815
+PM-10,Bihar,Gaya,0,0,104,2019,0,816
+PM-2.5,Punjab,Ludhiana,8,3,832,2019,241,817
+PM-10,Bihar,Patna,2,151,208,2017,157,818
+PM-10,Bihar,Patna,2,201,208,2016,212,819
+PM-10,Bihar,Patna,2,173,208,2018,208,820
+PM-10,Bihar,Patna,2,61,208,2019,234,821
+PM-2.5,Punjab,Amritsar,0,0,104,2019,0,822
+PM-2.5,Punjab,Jalandhar,0,0,104,2019,0,823
+PM-2.5,Odisha,Balasore,3,18,312,2019,50,824
+PM-2.5,Odisha,Cuttack,3,15,312,2019,70,825
+PM-10,Bihar,Muzaffarpur,1,103,104,2017,167,826
+PM-10,Bihar,Muzaffarpur,0,0,104,2016,0,827
+PM-10,Bihar,Muzaffarpur,1,107,104,2018,139,828
+PM-10,Bihar,Muzaffarpur,0,0,104,2019,0,829
+PM-2.5,Odisha,Bhubaneswar,5,2,520,2019,85,830
+PM-2.5,Odisha,Angul,1,5,104,2019,70,831
+PM-2.5,Odisha,Talcher,1,8,104,2019,76,832
+PM-2.5,Odisha,Rourkela,1,0,104,2019,0,833
+PM-10,Assam,Silcher,2,168,208,2017,49,834
+PM-10,Assam,Silcher,2,168,208,2016,558,835
+PM-10,Assam,Silcher,2,179,208,2018,50,836
+PM-10,Assam,Silcher,1,60,104,2019,46,837
+PM-2.5,Odisha,Kalinga Nagar,0,0,104,2019,0,838
+PM-2.5,Nagaland,Kohima,1,0,104,2019,0,839
+PM-2.5,Nagaland,Dimapur,2,0,208,2019,0,840
+PM-2.5,Meghalaya,Byrnihat,1,0,104,2019,0,841
+PM-10,Assam,Nagaon,1,82,104,2017,75,842
+PM-10,Assam,Nagaon,1,55,104,2016,111,843
+PM-10,Assam,Nagaon,1,99,104,2018,96,844
+PM-10,Assam,Nagaon,1,38,104,2019,105,845
+PM-2.5,Maharashtra,Solapur,0,0,104,2019,0,846
+PM-2.5,Maharashtra,Sangli,0,0,104,2019,0,847
+PM-2.5,Maharashtra,Jalgaon,0,0,104,2019,0,848
+PM-2.5,Maharashtra,Nashik,0,0,104,2019,0,849
+PM-10,Assam,Sivasagar,2,193,208,2017,81,850
+PM-10,Assam,Sivasagar,2,191,208,2016,75,851
+PM-10,Assam,Sivasagar,2,207,208,2018,72,852
+PM-10,Assam,Sivasagar,1,59,104,2019,54,853
+PM-2.5,Maharashtra,Latur,0,0,104,2019,0,854
+PM-2.5,Maharashtra,Aurangabad,0,0,104,2019,0,855
+PM-2.5,Maharashtra,Kolhapur,0,0,104,2019,0,856
+PM-2.5,Maharashtra,Jalna,0,0,104,2019,0,857
+PM-10,Assam,Nalbari,1,94,104,2017,95,858
+PM-10,Assam,Nalbari,1,103,104,2016,108,859
+PM-10,Assam,Nalbari,1,99,104,2018,97,860
+PM-10,Assam,Nalbari,1,34,104,2019,103,861
+PM-2.5,Maharashtra,Pune,0,0,104,2019,0,862
+PM-2.5,Maharashtra,Nagpur,0,0,104,2019,0,863
+PM-2.5,Maharashtra,Navi Mumbai,0,0,104,2019,0,864
+PM-2.5,Maharashtra,Amravati,0,0,104,2019,0,865
+PM-2.5,Maharashtra,Thane,0,0,104,2019,0,866
+PM-2.5,Maharashtra,Akola,0,0,104,2019,0,867
+PM-2.5,Maharashtra,Chandrapur,0,0,104,2019,0,868
+PM-10,Assam,Guwahati,6,811,624,2017,106,869
+PM-10,Assam,Guwahati,6,1288,624,2016,105,870
+PM-10,Assam,Guwahati,6,806,624,2018,112,871
+PM-10,Assam,Guwahati,6,395,624,2019,101,872
+PM-2.5,Maharashtra,Ulhasnagar,0,0,104,2019,0,873
+PM-10,Andhra Pradesh,Nellore,1,112,104,2017,65,874
+PM-10,Andhra Pradesh,Nellore,1,107,104,2016,66,875
+PM-10,Andhra Pradesh,Nellore,4,280,416,2018,64,876
+PM-10,Andhra Pradesh,Nellore,4,156,416,2019,68,877
+PM-2.5,Maharashtra,Mumbai,0,0,104,2019,0,878
+PM-2.5,Maharashtra,Badlapur,0,0,104,2019,0,879
+PM-2.5,Madhya Pradesh,Sagar,2,1,208,2019,50,880
+PM-2.5,Madhya Pradesh,Ujjain,0,0,104,2019,0,881
+PM-10,Andhra Pradesh,Rajahmundry,1,103,104,2017,65,882
+PM-10,Andhra Pradesh,Rajahmundry,1,102,104,2016,64,883
+PM-10,Andhra Pradesh,Rajahmundry,3,142,312,2018,94,884
+PM-10,Andhra Pradesh,Rajahmundry,4,106,416,2019,59,885
+PM-2.5,Madhya Pradesh,Dewas,0,0,104,2019,0,886
+PM-2.5,Madhya Pradesh,Indore,0,0,104,2019,0,887
+PM-2.5,Madhya Pradesh,Bhopal,7,77,728,2019,82,888
+PM-2.5,Madhya Pradesh,Gwalior,2,12,208,2019,79,889
+PM-10,Andhra Pradesh,Ongole,1,110,104,2017,65,890
+PM-10,Andhra Pradesh,Ongole,1,98,104,2016,65,891
+PM-10,Andhra Pradesh,Ongole,4,208,416,2018,66,892
+PM-10,Andhra Pradesh,Ongole,4,159,416,2019,58,893
+PM-2.5,Karnataka,Gulbarga,0,0,104,2019,0,894
+PM-2.5,Karnataka,Hubli,1,0,104,2019,0,895
+PM-2.5,Karnataka,Devanagere,0,0,104,2019,0,896
+PM-2.5,Karnataka,Bangalore,1,0,104,2019,0,897
+PM-2.5,Jharkhand,Dhanbad,0,0,104,2019,0,898
+PM-2.5,Jammu & Kashmir,Srinagar,0,0,104,2019,0,899
+PM-2.5,Jammu & Kashmir,Jammu,0,0,104,2019,0,900
+PM-10,Andhra Pradesh,Guntur,1,113,104,2017,69,901
+PM-10,Andhra Pradesh,Guntur,1,101,104,2016,88,902
+PM-10,Andhra Pradesh,Guntur,4,257,416,2018,49,903
+PM-10,Andhra Pradesh,Guntur,3,134,312,2019,54,904
+PM-2.5,Himachal Pradesh,Damtal,2,0,208,2019,0,905
+PM-2.5,Himachal Pradesh,Parwanoo,0,0,104,2019,0,906
+PM-2.5,Himachal Pradesh,Sunder Nagar,0,0,104,2019,0,907
+PM-2.5,Himachal Pradesh,Paonta Sahib,1,4,104,2019,57,908
+PM-10,Andhra Pradesh,Chittoor,1,107,104,2017,63,909
+PM-10,Andhra Pradesh,Chittoor,1,106,104,2016,59,910
+PM-10,Andhra Pradesh,Chittoor,1,107,104,2018,51,911
+PM-10,Andhra Pradesh,Chittoor,5,179,520,2019,61,912
+PM-2.5,Himachal Pradesh,Kala Amb,1,0,104,2019,0,913
+PM-10,Andhra Pradesh,Srikakulam,1,111,104,2017,70,914
+PM-10,Andhra Pradesh,Srikakulam,1,102,104,2016,71,915
+PM-10,Andhra Pradesh,Srikakulam,4,323,416,2018,71,916
+PM-10,Andhra Pradesh,Srikakulam,4,131,416,2019,65,917
+PM-2.5,Himachal Pradesh,Nalagarh,0,0,104,2019,0,918
+PM-2.5,Himachal Pradesh,Baddi,0,0,104,2019,0,919
+PM-2.5,Gujarat,Surat,0,0,104,2019,0,920
+PM-2.5,Gujarat,Vadodara,1,1,104,2019,86,921
+PM-10,Andhra Pradesh,Vizianagaram,1,107,104,2017,72,922
+PM-10,Andhra Pradesh,Vizianagaram,1,97,104,2016,85,923
+PM-10,Andhra Pradesh,Vizianagaram,3,308,312,2018,65,924
+PM-10,Andhra Pradesh,Vizianagaram,4,141,416,2019,70,925
+PM-2.5,Gujarat,Ahmedabad,2,0,208,2019,0,926
+PM-2.5,Delhi,Delhi,0,0,104,2019,0,927
+PM-2.5,Chattisgarh,Korba,0,0,104,2019,0,928
+PM-2.5,Chattisgarh,Bhilai,2,10,208,2019,55,929
+PM-10,Andhra Pradesh,Visakhapatnam,8,876,832,2017,73,930
+PM-10,Andhra Pradesh,Visakhapatnam,8,855,832,2016,77,931
+PM-10,Andhra Pradesh,Visakhapatnam,9,878,936,2018,78,932
+PM-10,Andhra Pradesh,Visakhapatnam,9,480,936,2019,71,933
+PM-2.5,Chattisgarh,Raipur,0,0,104,2019,0,934
+PM-2.5,Chandigarh,Chandigarh,5,129,520,2019,81,935
+PM-2.5,Bihar,Gaya,1,9,104,2019,230,936
+PM-2.5,Bihar,Patna,2,0,208,2019,0,937
+PM-2.5,Bihar,Muzaffarpur,1,9,104,2019,253,938
+PM-2.5,Assam,Silcher,1,0,104,2019,0,939
+PM-2.5,Assam,Nagaon,1,0,104,2019,0,940
+PM-10,Andhra Pradesh,Kadapa,1,111,104,2017,74,941
+PM-10,Andhra Pradesh,Kadapa,1,108,104,2016,68,942
+PM-10,Andhra Pradesh,Kadapa,5,378,520,2018,61,943
+PM-10,Andhra Pradesh,Kadapa,5,186,520,2019,58,944
+PM-2.5,Assam,Sivasagar,1,0,104,2019,0,945
+PM-2.5,Assam,Nalbari,0,0,104,2019,0,946
+PM-2.5,Assam,Guwahati,6,75,624,2019,69,947
+PM-2.5,Andhra Pradesh,Nellore,4,0,416,2019,0,948
+PM-10,Andhra Pradesh,Eluru,1,112,104,2017,74,949
+PM-10,Andhra Pradesh,Eluru,1,108,104,2016,70,950
+PM-10,Andhra Pradesh,Eluru,4,274,416,2018,67,951
+PM-10,Andhra Pradesh,Eluru,4,164,416,2019,66,952
+PM-2.5,Andhra Pradesh,Rajahmundry,4,19,416,2019,43,953
+PM-2.5,Andhra Pradesh,Ongole,4,0,416,2019,0,954
+PM-2.5,Andhra Pradesh,Guntur,3,4,312,2019,31,955
+PM-2.5,Andhra Pradesh,Chittoor,5,8,520,2019,50,956
+PM-10,Andhra Pradesh,Anantapur,1,111,104,2017,78,957
+PM-10,Andhra Pradesh,Anantapur,1,106,104,2016,85,958
+PM-10,Andhra Pradesh,Anantapur,4,398,416,2018,71,959
+PM-10,Andhra Pradesh,Anantapur,4,145,416,2019,81,960
+PM-2.5,Andhra Pradesh,Srikakulam,4,14,416,2019,45,961
+PM-10,Andhra Pradesh,Kurnool,1,112,104,2017,82,962
+PM-10,Andhra Pradesh,Kurnool,1,108,104,2016,69,963
+PM-10,Andhra Pradesh,Kurnool,4,390,416,2018,66,964
+PM-10,Andhra Pradesh,Kurnool,4,165,416,2019,62,965
+PM-2.5,Andhra Pradesh,Vizianagaram,4,9,416,2019,56,966
+PM-2.5,Andhra Pradesh,Visakhapatnam,9,82,936,2019,55,967
+PM-2.5,Andhra Pradesh,Kadapa,5,2,520,2019,60,968
+PM-2.5,Andhra Pradesh,Eluru,4,0,416,2019,0,969
+PM-10,Andhra Pradesh,Vijayawada,3,327,312,2017,99,970
+PM-10,Andhra Pradesh,Vijayawada,3,297,312,2016,102,971
+PM-10,Andhra Pradesh,Vijayawada,9,657,936,2018,77,972
+PM-10,Andhra Pradesh,Vijayawada,9,395,936,2019,78,973
+PM-2.5,Andhra Pradesh,Anantapur,4,2,416,2019,32,974
+PM-2.5,Andhra Pradesh,Kurnool,4,0,416,2019,0,975
+PM-2.5,Andhra Pradesh,Vijayawada,9,0,936,2019,0,976
