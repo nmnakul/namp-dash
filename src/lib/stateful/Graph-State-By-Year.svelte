@@ -30,29 +30,53 @@
     Chart.register(...registerables);
     
     import { onMount } from "svelte";
+  import { validate_component } from 'svelte/internal';
     import {pmFilteredByDataTables, selectedPM, selectedYear} from "../../store.js";
-    let dataForGraph= [];
+    let dataForGraph = {};
+    // Chart Rendering
     let chartCanvas;
     let ctx
+    // Legend
     let localSelectedPM = ($selectedPM ? 'PM-2.5' : 'PM-10');
+    // Data formation
 
+
+    /**
+     * The below subscription on mount wants to convert and process PM Data from the Basic-PM-Datatable component 
+     * and process it to form a graph.
+     * "key" is name of state
+     * "value" has 4 items. 
+     * 0-> sum of pm 
+     * 1-> total number of cities
+     * 2-> total number of valid cities ( non-zero values )
+     * 3-> average pm (sum of pm / total number of valid cities)
+    */
     onMount(async()=>{
-        let unsubscribe = pmFilteredByDataTables.subscribe(obj => {
-            if(obj.length > 0) {
-                Object.keys(obj).forEach(function(key) {
-                    // console.log('Key : ' + obj[key].State + ', Value : ' + obj[key].Values);
-                    if(dataForGraph[obj[key].State]) {
-                        dataForGraph[obj[key].State] = ( obj[key].Values + dataForGraph[obj[key].State] ) / 2 // avg. it out
-                        // obj[0].Values = 56 ( current ) + dataForGraph[ obj[0].State <==> 'Andra Pradesh' ] = 32 (Saved Value)
-                        // (56 + 32) / 2
+        let unsubscribe = pmFilteredByDataTables.subscribe(pmObj => {
+            if(pmObj.length > 0) {
+                Object.keys(pmObj).forEach(function(key) {
+                    
+                    let Obj = pmObj[key]; // this is the actual object that we want
+                    if(dataForGraph[Obj.State]) {
+                        dataForGraph[Obj.State] = [( Number(Obj.Values) + dataForGraph[Obj.State][0] ), Number(dataForGraph[Obj.State][1]) + 1, Number(dataForGraph[Obj.State][2]) + 1 ] // sum it up
                     } else {
-                        dataForGraph[obj[key].State] = obj[key].Values;
+                        dataForGraph[Obj.State] = [ Number(Obj.Values), 1, 1];
+                    }
+                    // cancel out unmonitored cities / no readings
+                    if(Number(Obj.Values) == 0) {
+                        dataForGraph[Obj.State][2] = Number(dataForGraph[Obj.State][2]) - 1;
                     }
                 });
             }  
-            console.log(dataForGraph);
             // sort dataForGraph before sending to charts   
+            Object.keys(dataForGraph).forEach(key => {
+                // EXPLAIN : AVERAGE = TOTAL SUM / VALID CITY COUNT
+                dataForGraph[key][3] = Math.round(dataForGraph[key][0] / dataForGraph[key][2]);
+                // EXPLAIN : REMOVING CASES OF 0/0 (NaN)
+                if(!dataForGraph[key][3]) dataForGraph[key][3] = 0;    
+            });
 
+            // console.log(dataForGraph);
         });
 
         // config block + render block

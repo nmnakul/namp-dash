@@ -10,8 +10,7 @@
     import { AspectRatio } from "carbon-components-svelte";
     import ProvidePmAndYear from "./lib/presentational/Provide-PM-And-Year.svelte";
     import BasicPmDatatable from "./lib/stateful/Basic-PM-Datatable.svelte";
-    import GraphStateByYear from "./lib/stateful/Graph-State-By-Year.svelte";
-
+    import YearOnYear from "./lib/stateful/Year-On-Year.svelte";
 </script>
 
   <style>
@@ -27,7 +26,7 @@
           <NampExplanation></NampExplanation>
           <ProvidePmAndYear></ProvidePmAndYear>
           <BasicPmDatatable></BasicPmDatatable>
-          <GraphStateByYear></GraphStateByYear>
+          <YearOnYear></YearOnYear>
       </body>
   </AspectRatio>
 </main>

@@ -11,8 +11,8 @@
 
     // Datatable Default Binding Variables
     let dtData = []; // dynamic
-    $: pmFilteredByDataTables.set(dtData)
     let dtStaticData = [] // static full Obj
+    $: pmFilteredByDataTables.set(dtStaticData)
     let dtSelectedRowIds = [];
     let filteredRowIds = []; // final datatable "row id"s after search filter
     let pageSize = 25;  
@@ -56,7 +56,7 @@
 
 </style>
 
-<div>
+<div class="overflow-x-auto">
   <!-- 
     useStaticWidth
     stickyHeader 
