@@ -1,12 +1,11 @@
 <script>
 // @ts-nocheck
 
-    // import { pm25CsvAsJson } from 'store.js';
     import { onMount } from 'svelte';
-    import { DataTable, Pagination, Toolbar, ToolbarContent, ToolbarSearch } from "carbon-components-svelte";
+    import { Dropdown, DataTable, Pagination, Toolbar, ToolbarContent, ToolbarSearch, Row, TableCell } from "carbon-components-svelte";
     import { faCircleArrowDown, faCircleArrowUp } from '@fortawesome/free-solid-svg-icons';
     import Fa from 'svelte-fa';
-    import {selectedPM, selectedYear, pmFilteredByDataTables, CSVToArray} from "../../store.js";
+    import { selectedYear, pmFilteredByDataTables } from "../../store.js";
 
     // Datatable Default Binding Variables
     let dtData = []; // dynamic
@@ -18,35 +17,26 @@
     let page = 1;
 
     onMount(async () => {
-      const response = await fetch('./assets/namp-dataset.csv');
-      dtData = await response.json();
-      
-      
-      // console.log($selectedPM);
-      dtData = dtStaticData.filter(obj=>filterByPollutant(obj));
-      dtData = dtData.filter(obj=>filterByPMYear(obj));
-    
-    }); 
+      const response = await fetch('./assets/namp-dataset.json');
+      dtStaticData = await response.json();
 
+      console.log(dtStaticData);
+      dtData = dtStaticData.filter(obj=>filterByPMYear(obj));
+      dtData.sort(sortByPM10); 
+    });
+    
     function filterByPMYear(value) {
-      if(value["Year"] == $selectedYear) return true;
+      if(value["year"] == $selectedYear) return true;
       return false;
     };
-
-    function filterByPollutant(value) {
-      if(value["Pollutant"] == 'PM-10' && $selectedPM == 0) return true;
-      if(value["Pollutant"] == 'PM-2.5' && $selectedPM == 1) return true;
-      return false;
+    
+    function sortByPM10(a, b) { 
+      return b.pm10 - a.pm10 || b.pm25 - a.pm25;
     };
 
     const unsubscribeYear = selectedYear.subscribe((val) => {
-      dtData = dtStaticData.filter(obj=>filterByPollutant(obj));
-      dtData = dtData.filter(obj=>filterByPMYear(obj));
-    });
-
-    const unsubscribePM = selectedPM.subscribe((val) => {
-      dtData = dtStaticData.filter(obj=>filterByPollutant(obj));
-      dtData = dtData.filter(obj=>filterByPMYear(obj));
+      dtData = dtStaticData.filter(obj=>filterByPMYear(obj));
+      dtData.sort(sortByPM10);
     });
 
 </script>
@@ -55,6 +45,20 @@
 
 </style>
 
+<div>
+  <Dropdown
+    titleText="Filter By Year"
+      bind:selectedId={$selectedYear}
+      items={[
+        { id: 2016, text: "Year 2016" },
+        { id: 2017, text: "Year 2017" },
+        { id: 2018, text: "Year 2018" },
+        { id: 2019, text: "Year 2019" },
+        { id: 2020, text: "Year 2020" },
+        { id: 2021, text: "Year 2021" },
+      ]}
+    />
+</div>
 <div class="overflow-x-auto">
   <!-- 
     useStaticWidth
@@ -62,19 +66,20 @@
   -->
   <DataTable
     title="National Air Quality Monitoring Programme Data"
-    description="Contains entire NAMP data from 2016 omwards till the lastest data sheet shared on the CPCB website."
+    description="Contains entire NAMP data from 2016 omwards till the lastest data sheet shared on the CPCB website. Data sorted by PM-10."
     sortable
     zebra
     data={dtData}
-    headers={[
-      { key: "Pollutant", value: "Pollutant"},  
-      { key: "Year", value: "Year"},
-      { key: "City", value: "City"},
-      { key: "State", value: "State"},
-      { key: "NoOfLocationsUsed", value: "#Monitors"},
-      { key: "IdealReadings", value: "#Required"},
-      { key: "Readings", value: "#Total"},
-      { key: "Values", value: "Average PM"},
+    headers={[  
+      { key: "year", value: "Year"},
+      { key: "city", value: "City"},
+      { key: "state", value: "State"},
+      { key: "monitors-pm10", value: "#Monitors PM-10", sort: (a, b) => b - a},
+      { key: "readings-pm10", value: "#Readings PM-10", sort: (a, b) => b - a},
+      { key: "pm10", value: "Average PM-10", sort: (a, b) => b - a},
+      { key: "monitors-pm25", value: "#Monitors PM-2.5", sort: (a, b) => b - a},
+      { key: "readings-pm25", value: "#Readings PM-2.5", sort: (a, b) => b - a},
+      { key: "pm25", value: "Average PM-2.5", sort: (a, b) => b - a},
     ]}
       bind:selectedRowIds={dtSelectedRowIds}
       {pageSize}
@@ -86,7 +91,7 @@
           <ToolbarSearch
           persistent 
           value=""
-          shouldFilterRows
+          shouldFilterRows  
           bind:filteredRowIds
         />
         </ToolbarContent>
@@ -94,13 +99,23 @@
 
       <!-- CONTROL OPTION CUSTOMIZATION -->
       <div class="flex items-center" slot="cell" let:row let:cell>
-        {#if cell.key == "Readings" && Number(cell.value) >= Number(row.IdealReadings)}
-        <div class="w-8">{cell.value}</div><div style="font-size: 1rem; color: lightgreen; padding: 0 5px;"><Fa icon={faCircleArrowUp} /></div>
-        {:else if cell.key == "Readings" && Number(cell.value) < Number(row.IdealReadings)}
-          <div class="w-8">{cell.value}</div><div style="font-size: 1rem; color: tomato; padding: 0 5px;"><Fa icon={faCircleArrowDown}/></div>
-        {:else}
-          {cell.value}
-        {/if}
+          {#if (row.year < 2020 && cell.key == "readings-pm10" && Number(cell.value) > Number(row[`monitors-pm10`])*104) || (cell.key == "readings-pm25" && Number(cell.value) > Number(row[`monitors-pm25`])*104)}
+            <div class="w-8">{cell.value}</div><div style="font-size: 1rem; color: forestgreen; padding: 0 5px;"><Fa icon={faCircleArrowUp} /></div>
+          {:else if (row.year < 2020 && cell.key == "readings-pm10" && Number(cell.value) < Number(row[`monitors-pm10`])*104) || (cell.key == "readings-pm25" && Number(cell.value) < Number(row[`monitors-pm25`])*104)}
+            <div class="w-8">{cell.value}</div><div style="font-size: 1rem; color: tomato; padding: 0 5px;"><Fa icon={faCircleArrowDown}/></div>
+          {:else if (cell.key == "pm10" || cell.key == "pm25" )}
+            {#if cell.value <= 40 && cell.value > 0}
+              <div class="font-bold" style="border-bottom: solid; border-color: forestgreen">{cell.value}</div>
+            {:else if cell.value <= 60 && cell.value > 40}
+              <div class="font-bold" style="border-bottom: solid; border-color: gold">{cell.value}</div>
+            {:else if cell.value > 60 }
+              <div class="" style="border-bottom: solid; border-color: tomato">{cell.value}</div>
+            {:else} 
+              {cell.value}
+            {/if}  
+          {:else}
+            {cell.value}
+          {/if}
       </div>
 
   </DataTable>

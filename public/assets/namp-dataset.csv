@@ -1,4 +1,4 @@
-id,srno,State,City,pm10,monitors-p10,readings-pm10,pm25,monitors-pm25,readings-pm25,year
+id,srno,state,city,pm10,monitors-pm10,readings-pm10,pm25,monitors-pm25,readings-pm25,year
 1,1,Andhra Pradesh,Anantapur,85,1,106,0,0,0,2016
 2,2,Andhra Pradesh,Chitoor,62,2,214,0,0,0,2016
 3,3,Andhra Pradesh,Eluru,70,1,108,0,0,0,2016
