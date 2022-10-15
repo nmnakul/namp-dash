@@ -6,8 +6,7 @@
     import { DataTable, Pagination, Toolbar, ToolbarContent, ToolbarSearch } from "carbon-components-svelte";
     import { faCircleArrowDown, faCircleArrowUp } from '@fortawesome/free-solid-svg-icons';
     import Fa from 'svelte-fa';
-    import {selectedPM, selectedYear, pmFilteredByDataTables} from "../../store.js";
-
+    import {selectedPM, selectedYear, pmFilteredByDataTables, CSVToArray} from "../../store.js";
 
     // Datatable Default Binding Variables
     let dtData = []; // dynamic
@@ -19,9 +18,9 @@
     let page = 1;
 
     onMount(async () => {
-      const response = await fetch('./assets/full-pm-csv.json');
+      const response = await fetch('./assets/namp-dataset.csv');
       dtData = await response.json();
-      dtStaticData = dtData; // used later to filter data
+      
       
       // console.log($selectedPM);
       dtData = dtStaticData.filter(obj=>filterByPollutant(obj));
