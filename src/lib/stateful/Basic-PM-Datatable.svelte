@@ -10,17 +10,16 @@
     // Datatable Default Binding Variables
     let dtData = []; // dynamic
     let dtStaticData = [] // static full Obj
-    $: pmFilteredByDataTables.set(dtStaticData)
+    $: pmFilteredByDataTables.set(dtData)
     let dtSelectedRowIds = [];
     let filteredRowIds = []; // final datatable "row id"s after search filter
-    let pageSize = 25;  
-    let page = 1;
+    let pageSize = 20;  
+    let page = 1;   
 
     onMount(async () => {
       const response = await fetch('./assets/namp-dataset.json');
       dtStaticData = await response.json();
-
-      console.log(dtStaticData);
+      
       dtData = dtStaticData.filter(obj=>filterByPMYear(obj));
       dtData.sort(sortByPM10); 
     });
@@ -37,6 +36,7 @@
     const unsubscribeYear = selectedYear.subscribe((val) => {
       dtData = dtStaticData.filter(obj=>filterByPMYear(obj));
       dtData.sort(sortByPM10);
+      page = 1;
     });
 
 </script>
@@ -59,10 +59,10 @@
       ]}
     />
 </div>
-<div class="overflow-x-auto">
+<div class="pb-20 overflow-x-auto">
   <!-- 
     useStaticWidth
-    stickyHeader 
+    stickyHeader    
   -->
   <DataTable
     title="National Air Quality Monitoring Programme Data"
@@ -104,11 +104,11 @@
           {:else if (row.year < 2020 && cell.key == "readings-pm10" && Number(cell.value) < Number(row[`monitors-pm10`])*104) || (cell.key == "readings-pm25" && Number(cell.value) < Number(row[`monitors-pm25`])*104)}
             <div class="w-8">{cell.value}</div><div style="font-size: 1rem; color: tomato; padding: 0 5px;"><Fa icon={faCircleArrowDown}/></div>
           {:else if (cell.key == "pm10" || cell.key == "pm25" )}
-            {#if cell.value <= 40 && cell.value > 0}
-              <div class="font-bold" style="border-bottom: solid; border-color: forestgreen">{cell.value}</div>
-            {:else if cell.value <= 60 && cell.value > 40}
-              <div class="font-bold" style="border-bottom: solid; border-color: gold">{cell.value}</div>
-            {:else if cell.value > 60 }
+            {#if cell.value <= 60 && cell.value > 0}
+              <div class="" style="border-bottom: solid; border-color: forestgreen">{cell.value}</div>
+            {:else if cell.value <= 120 && cell.value > 60}
+              <div class="" style="border-bottom: solid; border-color: gold">{cell.value}</div>
+            {:else if cell.value > 120 }
               <div class="" style="border-bottom: solid; border-color: tomato">{cell.value}</div>
             {:else} 
               {cell.value}
