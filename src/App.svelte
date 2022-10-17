@@ -1,14 +1,14 @@
 <svelte:head>
     <script src="https://kit.fontawesome.com/47e90b2f9b.js" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.9.1/chart.min.js"></script>   
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>   
 </svelte:head>
 
 <script>
-    import NampExplanation from "./lib/presentational/Namp-Explanation.svelte";
     import "carbon-components-svelte/css/white.css";
-    // @ts-ignore
     import { AspectRatio } from "carbon-components-svelte";
+    import NampExplanation from "./lib/presentational/Namp-Explanation.svelte";
     import BasicPmDatatable from "./lib/stateful/Basic-PM-Datatable.svelte";
+    import PmByYear from "./lib/stateful/PM-By-Year.svelte";
 </script>
 
   <style>
@@ -23,6 +23,7 @@
       <body class="w-full grey-100">
           <NampExplanation></NampExplanation>
           <BasicPmDatatable></BasicPmDatatable>
+          <PmByYear></PmByYear>
       </body>
   </AspectRatio>
 </main>
