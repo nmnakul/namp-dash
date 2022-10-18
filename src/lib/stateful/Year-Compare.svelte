@@ -26,7 +26,7 @@
 <div class="pb-20 overflow-x-auto">
     <!-- 
       useStaticWidth
-      stickyHeader    
+      stickyHeader      
     -->
     <DataTable
       title="{PMSelected} Comparision"

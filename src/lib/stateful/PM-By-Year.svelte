@@ -5,35 +5,48 @@
         </div>
     </div>
     <div class="flex w-full py-20 justify-center">
-        <a class="bg-red-700 text-white py-4 px-20" href="./namp-dataset.csv">Download CSV</a>
-        <div class="w-4"></div>
-        <a class="bg-red-700 text-white py-4 px-20" href="#">Download Image</a>
+        <Button kind="tertiary" href="./namp-dataset.csv">Download Data CSV</Button>
+        <Button on:click="{download}">Download Chart Image</Button>
     </div>
     
 </section>
 
 <script>
+// @ts-nocheck
+
     import { Chart, LineController, registerables } from 'chart.js';
     Chart.register(...registerables);
-    import { pmFilteredByYear } from '../../store.js';
+    import { pmFilteredByYear, selectedYear } from '../../store.js';
     import { onMount } from 'svelte';
+    import { Button } from "carbon-components-svelte";
 
     let chartCanvas;
     let myChart;
+
+    function download() {
+        const imageLink = document.createElement('a');
+        const canvas = document.getElementById('myChart');
+        imageLink.download = "pm-for-"+ $selectedYear +".png";
+        // @ts-ignore
+        imageLink.href = canvas.toDataURL('image/png', 1);
+        //console.log(imageLink.href);
+        imageLink.click();
+    }
 
     // data block
     const data = {
     labels: [],
     datasets: [
         {
+        type: 'bar',
         label: 'PM-10',
         data: [],
         backgroundColor: ['rgba(255, 99, 132, 0.8)'],
         borderColor: ['rgba(255, 99, 132, 0.8)'],
         borderWidth: 1,
-        type: 'bar'
       },
       {
+        type: 'bar',
         label: 'PM-2.5',
         data: [],
         backgroundColor: ['rgba(255, 159, 64, 0.8)'],
@@ -42,16 +55,7 @@
         parsing: {
             yAxisKey: 'pm25'
         },
-        type: 'bar'
       },
-
-      {
-        type: 'line',
-        label: 'Refrence Line',
-        data: [],
-        backgroundColor: ['black'],
-        borderWidth: 1
-      }
     ]};
 
     const horizontalDottedLine = {
@@ -79,7 +83,6 @@
         myChart = new Chart(
         chartCanvas, {
             // config block
-            
             // @ts-ignore
             data: 
                 data,
