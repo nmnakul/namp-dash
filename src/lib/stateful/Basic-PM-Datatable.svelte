@@ -5,12 +5,12 @@
     import { Dropdown, DataTable, Pagination, Toolbar, ToolbarContent, ToolbarSearch, Row, TableCell } from "carbon-components-svelte";
     import { faCircleArrowDown, faCircleArrowUp } from '@fortawesome/free-solid-svg-icons';
     import Fa from 'svelte-fa';
-    import { selectedYear, pmFilteredByDataTables } from "../../store.js";
+    import { selectedYear, pmFilteredByYear, pmNonFiltered } from "../../store.js";
 
     // Datatable Default Binding Variables
     let dtData = []; // dynamic
     let dtStaticData = [] // static full Obj
-    $: pmFilteredByDataTables.set(dtData)
+    $: pmFilteredByYear.set(dtData)
     let dtSelectedRowIds = [];
     let filteredRowIds = []; // final datatable "row id"s after search filter
     let pageSize = 20;  
@@ -19,7 +19,8 @@
     onMount(async () => {
       const response = await fetch('./assets/namp-dataset.json');
       dtStaticData = await response.json();
-      
+      pmNonFiltered.set(dtStaticData)
+
       dtData = dtStaticData.filter(obj=>filterByPMYear(obj));
       dtData.sort(sortByPM10); 
     });

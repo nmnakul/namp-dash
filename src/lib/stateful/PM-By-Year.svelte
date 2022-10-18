@@ -7,25 +7,19 @@
     <div class="flex w-full py-20 justify-center">
         <a class="bg-red-700 text-white py-4 px-20" href="./namp-dataset.csv">Download CSV</a>
         <div class="w-4"></div>
-        <a class="bg-red-700 text-white py-4 px-20">Download Image</a>
+        <a class="bg-red-700 text-white py-4 px-20" href="#">Download Image</a>
     </div>
     
 </section>
 
 <script>
-    import { Chart, registerables } from 'chart.js';
+    import { Chart, LineController, registerables } from 'chart.js';
     Chart.register(...registerables);
-    import { pmFilteredByDataTables } from '../../store.js';
+    import { pmFilteredByYear } from '../../store.js';
     import { onMount } from 'svelte';
 
     let chartCanvas;
     let myChart;
-
-    const unsubscribe = pmFilteredByDataTables.subscribe((val)=>{ 
-        data.datasets[0].data = val;
-        data.datasets[1].data = val;
-        if(myChart) myChart.update('none');
-    });
 
     // data block
     const data = {
@@ -34,30 +28,62 @@
         {
         label: 'PM-10',
         data: [],
-        backgroundColor: ['rgba(255, 99, 132, 1)'],
-        borderColor: ['rgba(255, 99, 132, 1)'],
-        borderWidth: 1
+        backgroundColor: ['rgba(255, 99, 132, 0.8)'],
+        borderColor: ['rgba(255, 99, 132, 0.8)'],
+        borderWidth: 1,
+        type: 'bar'
       },
       {
-        label: 'PM-25',
+        label: 'PM-2.5',
         data: [],
-        backgroundColor: ['rgba(255, 159, 64, 1)'],
-        borderColor: ['rgba(255, 159, 64, 1)'],
+        backgroundColor: ['rgba(255, 159, 64, 0.8)'],
+        borderColor: ['rgba(255, 159, 64, 0.8)'],
         borderWidth: 1,
         parsing: {
             yAxisKey: 'pm25'
-        }
+        },
+        type: 'bar'
       },
+
+      {
+        type: 'line',
+        label: 'Refrence Line',
+        data: [],
+        backgroundColor: ['black'],
+        borderWidth: 1
+      }
     ]};
+
+    const horizontalDottedLine = {
+        id: 'horizontalDottedLine',
+        beforeDatasetsDraw(chart, args, options) {
+            const { ctx, chartArea: { top, right, bottom, left, width, height }, scales: { x, y } } = chart;
+            ctx.save();
+            
+            ctx.lineWidth = 2;
+            //draw line
+            ctx.strokeStyle = 'grey';
+            ctx.setLineDash([10, 5]);
+            ctx.strokeRect(left, y.getPixelForValue(60), width, 0);
+
+            ctx.strokeStyle = 'grey';
+            ctx.setLineDash([10, 5]);
+            ctx.strokeRect(left, y.getPixelForValue(120), width, 0)
+
+            ctx.restore();
+        }
+    }
 
     onMount(async => {
         // init render block
         myChart = new Chart(
         chartCanvas, {
             // config block
-            type: 'bar',
+            
+            // @ts-ignore
             data: 
                 data,
+                plugins: [horizontalDottedLine],
                 options: {
                     parsing: {
                         xAxisKey: 'city',
@@ -173,5 +199,11 @@
                     }, // plugins end
                 } // options end
         }); // chart element end
+    });
+
+    const unsubscribe = pmFilteredByYear.subscribe((val)=>{ 
+        data.datasets[0].data = val;
+        data.datasets[1].data = val;
+        if(myChart) myChart.update('none');
     });
 </script>

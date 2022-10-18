@@ -5,10 +5,11 @@
 
 <script>
     import "carbon-components-svelte/css/white.css";
-    import { AspectRatio } from "carbon-components-svelte";
+    import { AspectRatio,  Tabs, Tab, TabContent } from "carbon-components-svelte";
     import NampExplanation from "./lib/presentational/Namp-Explanation.svelte";
     import BasicPmDatatable from "./lib/stateful/Basic-PM-Datatable.svelte";
     import PmByYear from "./lib/stateful/PM-By-Year.svelte";
+    import YearCompare from "./lib/stateful/Year-Compare.svelte";
 </script>
 
   <style>
@@ -24,6 +25,19 @@
           <NampExplanation></NampExplanation>
           <BasicPmDatatable></BasicPmDatatable>
           <PmByYear></PmByYear>
+
+          <Tabs autoWidth>
+            <Tab label="Year on Year PM-10" />
+            <Tab label="Year on Year PM-2.5" />
+            <svelte:fragment slot="content">
+                <TabContent>
+                    <YearCompare></YearCompare>
+                </TabContent>
+                <TabContent>
+                    <YearCompare PMSelected='PM-2.5' fetchUrl='./assets/namp-pm25-dataset.json'></YearCompare>
+                </TabContent>
+            </svelte:fragment>
+          </Tabs>
       </body>
   </AspectRatio>
 </main>
