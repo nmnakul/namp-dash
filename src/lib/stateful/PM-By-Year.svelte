@@ -16,7 +16,7 @@
 
     import { Chart, LineController, registerables } from 'chart.js';
     Chart.register(...registerables);
-    import { pmFilteredByYear, selectedYear } from '../../store.js';
+    import { pmFilteredByDataTable, pmFilteredByYear, selectedYear } from '../../store.js';
     import { onMount } from 'svelte';
     import { Button } from "carbon-components-svelte";
 
@@ -204,7 +204,7 @@
         }); // chart element end
     });
 
-    const unsubscribe = pmFilteredByYear.subscribe((val)=>{ 
+    const unsubscribe = pmFilteredByDataTable.subscribe((val)=>{ 
         data.datasets[0].data = val;
         data.datasets[1].data = val;
         if(myChart) myChart.update('none');

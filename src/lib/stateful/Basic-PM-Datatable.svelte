@@ -5,7 +5,8 @@
     import { Dropdown, DataTable, Pagination, Toolbar, ToolbarContent, ToolbarSearch, Row, TableCell } from "carbon-components-svelte";
     import { faCircleArrowDown, faCircleArrowUp } from '@fortawesome/free-solid-svg-icons';
     import Fa from 'svelte-fa';
-    import { selectedYear, pmFilteredByYear, pmNonFiltered } from "../../store.js";
+    import { selectedYear, pmFilteredByYear, pmNonFiltered, pmFilteredByDataTable } from "../../store.js";
+    import SvelteTooltip from 'svelte-tooltip';   
 
     // Datatable Default Binding Variables
     let dtData = []; // dynamic
@@ -40,6 +41,9 @@
       page = 1;
     });
 
+    // $: console.log(dtData);
+    $: pmFilteredByDataTable.set(dtData.filter((obj)=>filteredRowIds.includes(obj.id) ))
+
 </script>
 
 <style>
@@ -63,24 +67,24 @@
 <div class="pb-20 overflow-x-auto">
   <!-- 
     useStaticWidth
-    stickyHeader    
+    stickyHeader 
+    data={dtData}   
   -->
   <DataTable
     title="National Air Quality Monitoring Programme Data"
     description="Contains entire NAMP data from 2016 omwards till the lastest data sheet shared on the CPCB website. Data sorted by PM-10."
     sortable
     zebra
-    data={dtData}
     headers={[  
       { key: "year", value: "Year"},
       { key: "city", value: "City"},
       { key: "state", value: "State"},
-      { key: "monitors-pm10", value: "#Monitors PM-10", sort: (a, b) => b - a},
-      { key: "readings-pm10", value: "#Readings PM-10", sort: (a, b) => b - a},
-      { key: "pm10", value: "Average PM-10", sort: (a, b) => b - a},
-      { key: "monitors-pm25", value: "#Monitors PM-2.5", sort: (a, b) => b - a},
-      { key: "readings-pm25", value: "#Readings PM-2.5", sort: (a, b) => b - a},
-      { key: "pm25", value: "Average PM-2.5", sort: (a, b) => b - a},
+      { key: "monitors-pm10", value: "#Monitors PM-10", sort: (a, b) => a - b},
+      { key: "readings-pm10", value: "#Readings PM-10", sort: (a, b) => a - b},
+      { key: "pm10", value: "Average PM-10", sort: (a, b) => a - b},
+      { key: "monitors-pm25", value: "#Monitors PM-2.5", sort: (a, b) => a - b},
+      { key: "readings-pm25", value: "#Readings PM-2.5", sort: (a, b) => a - b},
+      { key: "pm25", value: "Average PM-2.5", sort: (a, b) => a - b},
     ]}
       bind:selectedRowIds={dtSelectedRowIds}
       {pageSize}
@@ -100,10 +104,38 @@
 
       <!-- CONTROL OPTION CUSTOMIZATION -->
       <div class="flex items-center" slot="cell" let:row let:cell>
-          {#if (row.year < 2020 && cell.key == "readings-pm10" && Number(cell.value) > Number(row[`monitors-pm10`])*104) || (cell.key == "readings-pm25" && Number(cell.value) > Number(row[`monitors-pm25`])*104)}
-            <div class="w-8">{cell.value}</div><div style="font-size: 1rem; color: forestgreen; padding: 0 5px;"><Fa icon={faCircleArrowUp} /></div>
-          {:else if (row.year < 2020 && cell.key == "readings-pm10" && Number(cell.value) < Number(row[`monitors-pm10`])*104) || (cell.key == "readings-pm25" && Number(cell.value) < Number(row[`monitors-pm25`])*104)}
-            <div class="w-8">{cell.value}</div><div style="font-size: 1rem; color: tomato; padding: 0 5px;"><Fa icon={faCircleArrowDown}/></div>
+          <!-- PM 10 UP -->
+          {#if (row.year < 2020 && cell.key == "readings-pm10" && Number(cell.value) > Number(row[`monitors-pm10`])*104)}
+            <div class="w-8">{cell.value}</div>
+            <div class="text-black">
+              <SvelteTooltip tip={"Accuracy > Ideal Avg. : " + Number(row[`monitors-pm10`])*104} right color="#C3BF6D">
+                <div style="font-size: 1rem; color: forestgreen; padding: 0 5px;"><Fa icon={faCircleArrowUp} /></div>
+              </SvelteTooltip>
+            </div>
+          <!-- PM 25 UP -->
+          {:else if (row.year < 2020 && cell.key == "readings-pm25" && Number(cell.value) > Number(row[`monitors-pm25`])*104)}
+            <div class="w-8">{cell.value}</div>
+            <div class="text-black">
+              <SvelteTooltip tip={"Accuracy > Ideal Avg. : " + Number(row[`monitors-pm25`])*104} left color="#C3BF6D">
+                <div style="font-size: 1rem; color: forestgreen; padding: 0 5px;"><Fa icon={faCircleArrowUp} /></div>
+              </SvelteTooltip>
+            </div>
+          <!-- PM 10 DOWN -->
+          {:else if (row.year < 2020 && cell.key == "readings-pm10" && Number(cell.value) < Number(row[`monitors-pm10`])*104)}
+            <div class="w-8">{cell.value}</div>
+            <div class="text-white">
+              <SvelteTooltip tip={"Accuracy < Ideal Avg. : " + Number(row[`monitors-pm10`])*104} right color="#DD7373">
+                <div style="font-size: 1rem; color: tomato; padding: 0 5px;"><Fa icon={faCircleArrowDown}/></div>
+              </SvelteTooltip>
+            </div>
+          <!-- PM 25 Down -->
+          {:else if (row.year < 2020 && cell.key == "readings-pm25" && Number(cell.value) < Number(row[`monitors-pm25`])*104)}
+            <div class="w-8">{cell.value}</div>
+            <div class="text-white">
+              <SvelteTooltip tip={"Accuracy < Ideal Avg. : " + Number(row[`monitors-pm25`])*104} right color="#DD7373">
+                <div style="font-size: 1rem; color: tomato; padding: 0 5px;"><Fa icon={faCircleArrowDown}/></div>
+              </SvelteTooltip>
+            </div>
           {:else if (cell.key == "pm10" || cell.key == "pm25" )}
             {#if cell.value <= 60 && cell.value > 0}
               <div class="" style="border-bottom: solid; border-color: forestgreen">{cell.value}</div>

@@ -33,7 +33,6 @@
       description="Year on Year {PMSelected} comparision of all 132 cities under NCAP, 2016 onwards."
       sortable
       zebra
-      data=dtStaticData
       headers={[  
         { key: "city", value: "City"},
         { key: "state", value: "State"},
