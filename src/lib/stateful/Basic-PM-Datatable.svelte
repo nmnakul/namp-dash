@@ -22,22 +22,16 @@
       dtStaticData = await response.json();
       pmNonFiltered.set(dtStaticData)
 
-      dtData = dtStaticData.filter(obj=>filterByPMYear(obj));
-      dtData.sort(sortByPM10); 
+      dtData = dtStaticData.filter(obj=>filterByPMYear(obj)); 
     });
     
     function filterByPMYear(value) {
       if(value["year"] == $selectedYear) return true;
       return false;
     };
-    
-    function sortByPM10(a, b) { 
-      return b.pm10 - a.pm10 || b.pm25 - a.pm25;
-    };
 
     const unsubscribeYear = selectedYear.subscribe((val) => {
       dtData = dtStaticData.filter(obj=>filterByPMYear(obj));
-      dtData.sort(sortByPM10);
       page = 1;
     });
 
@@ -105,49 +99,58 @@
       <!-- CONTROL OPTION CUSTOMIZATION -->
       <div class="flex items-center" slot="cell" let:row let:cell>
           <!-- PM 10 UP -->
-          {#if (row.year < 2020 && cell.key == "readings-pm10" && Number(cell.value) > Number(row[`monitors-pm10`])*104)}
-            <div class="w-8">{cell.value}</div>
-            <div class="text-black">
-              <SvelteTooltip tip={"Accuracy > Ideal Avg. : " + Number(row[`monitors-pm10`])*104} right color="#C3BF6D">
-                <div style="font-size: 1rem; color: forestgreen; padding: 0 5px;"><Fa icon={faCircleArrowUp} /></div>
-              </SvelteTooltip>
-            </div>
-          <!-- PM 25 UP -->
-          {:else if (row.year < 2020 && cell.key == "readings-pm25" && Number(cell.value) > Number(row[`monitors-pm25`])*104)}
-            <div class="w-8">{cell.value}</div>
-            <div class="text-black">
-              <SvelteTooltip tip={"Accuracy > Ideal Avg. : " + Number(row[`monitors-pm25`])*104} left color="#C3BF6D">
-                <div style="font-size: 1rem; color: forestgreen; padding: 0 5px;"><Fa icon={faCircleArrowUp} /></div>
-              </SvelteTooltip>
-            </div>
-          <!-- PM 10 DOWN -->
-          {:else if (row.year < 2020 && cell.key == "readings-pm10" && Number(cell.value) < Number(row[`monitors-pm10`])*104)}
-            <div class="w-8">{cell.value}</div>
-            <div class="text-white">
-              <SvelteTooltip tip={"Accuracy < Ideal Avg. : " + Number(row[`monitors-pm10`])*104} right color="#DD7373">
-                <div style="font-size: 1rem; color: tomato; padding: 0 5px;"><Fa icon={faCircleArrowDown}/></div>
-              </SvelteTooltip>
-            </div>
-          <!-- PM 25 Down -->
-          {:else if (row.year < 2020 && cell.key == "readings-pm25" && Number(cell.value) < Number(row[`monitors-pm25`])*104)}
-            <div class="w-8">{cell.value}</div>
-            <div class="text-white">
-              <SvelteTooltip tip={"Accuracy < Ideal Avg. : " + Number(row[`monitors-pm25`])*104} right color="#DD7373">
-                <div style="font-size: 1rem; color: tomato; padding: 0 5px;"><Fa icon={faCircleArrowDown}/></div>
-              </SvelteTooltip>
-            </div>
-          {:else if (cell.key == "pm10" || cell.key == "pm25" )}
-            {#if cell.value <= 60 && cell.value > 0}
-              <div class="" style="border-bottom: solid; border-color: forestgreen">{cell.value}</div>
-            {:else if cell.value <= 120 && cell.value > 60}
-              <div class="" style="border-bottom: solid; border-color: gold">{cell.value}</div>
-            {:else if cell.value > 120 }
-              <div class="" style="border-bottom: solid; border-color: tomato">{cell.value}</div>
-            {:else} 
+          {#if cell.value !== null}
+            {#if 
+              (row.year < 2020 && cell.key == "readings-pm10" && Number(cell.value) > Number(row[`monitors-pm10`])*104)}
+              <div class="w-8">{cell.value}</div>
+              <div class="text-black">
+                <SvelteTooltip tip={ Math.floor((cell.value/(Number(row[`monitors-pm10`])*104))*100)+ "% Accuracy > Ideal Avg. : " + Number(row[`monitors-pm10`])*104} right color="#C3BF6D">
+                  <div style="font-size: 1rem; color: forestgreen; padding: 0 5px;"><Fa icon={faCircleArrowUp} /></div>
+                </SvelteTooltip>
+              </div>
+            <!-- PM 25 UP -->
+            {:else if 
+              (row.year < 2020 && cell.key == "readings-pm25" && Number(cell.value) > Number(row[`monitors-pm25`])*104)}
+              <div class="w-8">{cell.value}</div>
+              <div class="text-black">
+                <SvelteTooltip tip={ Math.floor((cell.value/(Number(row[`monitors-pm25`])*104))*100)+ "% Accuracy > Ideal Avg. : " + Number(row[`monitors-pm25`])*104} left color="#C3BF6D">
+                  <div style="font-size: 1rem; color: forestgreen; padding: 0 5px;"><Fa icon={faCircleArrowUp} /></div>
+                </SvelteTooltip>
+              </div>
+            <!-- PM 10 DOWN -->
+            {:else if 
+              (row.year < 2020 && cell.key == "readings-pm10" && Number(cell.value) < Number(row[`monitors-pm10`])*104)}
+              <div class="w-8">{cell.value}</div>
+              <div class="text-white">
+                <SvelteTooltip tip={ Math.floor((cell.value/(Number(row[`monitors-pm10`])*104))*100)+ "% Accuracy < Ideal Avg. : " + Number(row[`monitors-pm10`])*104} right color="#DD7373">
+                  <div style="font-size: 1rem; color: tomato; padding: 0 5px;"><Fa icon={faCircleArrowDown}/></div>
+                </SvelteTooltip>
+              </div>
+            <!-- PM 25 Down -->
+            {:else if 
+              (row.year < 2020 && cell.key == "readings-pm25" && Number(cell.value) < Number(row[`monitors-pm25`])*104)}
+              <div class="w-8">{cell.value}</div>
+              <div class="text-white">
+                <SvelteTooltip tip={ Math.floor((cell.value/(Number(row[`monitors-pm25`])*104))*100)+ "% Accuracy < Ideal Avg. : " + Number(row[`monitors-pm25`])*104} left color="#DD7373">
+                  <div style="font-size: 1rem; color: tomato; padding: 0 5px;"><Fa icon={faCircleArrowDown}/></div>
+                </SvelteTooltip>
+              </div>
+            <!-- UNDERLINE PM VALUES -->
+            {:else if (cell.key == "pm10" || cell.key == "pm25" )}  
+              {#if cell.value <= 60 && cell.value >= 0}
+                <div class="" style="border-bottom: solid; border-color: forestgreen">{cell.value}</div>
+              {:else if cell.value <= 120 && cell.value > 60}
+                <div class="" style="border-bottom: solid; border-color: gold">{cell.value}</div>
+              {:else if cell.value > 120 }
+                <div class="" style="border-bottom: solid; border-color: tomato">{cell.value}</div>
+              {:else} 
+                {cell.value}
+              {/if}  
+            {:else}
               {cell.value}
-            {/if}  
+            {/if}
           {:else}
-            {cell.value}
+            <span>-</span>
           {/if}
       </div>
 

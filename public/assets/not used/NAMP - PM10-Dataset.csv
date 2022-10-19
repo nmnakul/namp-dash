@@ -1,0 +1,133 @@
+id,State,City,2016,2017-gap,2017,2018-gap,2018,2019-gap,2019,2020-gap,2020
+1,Andhra Pradesh,Anantapur,85,-7,78,-7,71,-10,61,-1,60
+2,Andhra Pradesh,Chitoor,62,7,69,-7,62,4,66,-23,43
+3,Andhra Pradesh,Eluru,70,4,74,-8,67,-7,59,1,60
+4,Andhra Pradesh,Guntur,88,-19,69,-20,49,18,67,-15,52
+5,Andhra Pradesh,Kadapa,68,6,74,-13,61,1,62,-16,46
+6,Andhra Pradesh,Kurnool,69,13,82,-16,66,-12,54,-2,53
+7,Andhra Pradesh,Nellore,66,-1,65,-2,64,0,63,-6,57
+8,Andhra Pradesh,Ongole,65,0,65,1,66,1,67,-18,49
+9,Andhra Pradesh,Rajahmundry,64,1,65,29,94,-22,73,-14,58
+10,Andhra Pradesh,Srikakulam,71,-1,70,1,71,5,76,-15,61
+11,Andhra Pradesh,Vijaywada,102,-3,99,-22,77,-24,53,3,56
+12,Andhra Pradesh,Vishakhapatnam,77,-4,73,4,78,-24,53,21,75
+13,Andhra Pradesh,Vizianagaram,85,-13,72,-7,65,2,67,-6,61
+14,Assam,Guwahati,105,0,105,7,112,-15,97,-11,86
+15,Assam,Nagaon,111,-36,75,21,96,9,105,-31,74
+16,Assam,Nalbari,108,-13,95,2,97,-10,87,-33,54
+17,Assam,Sibsagar,75,6,81,-9,72,-17,56,-7,49
+18,Assam,Silchar,58,-9,49,1,50,-3,47,-4,43
+19,Bihar,Gaya,,77,77,12,89,63,152,-152,
+20,Bihar,Muzaffarpur,,167,167,-28,139,99,238,-238,
+21,Bihar,Patna,212,-55,157,51,208,-137,71,75,146
+22,Chandigarh,Chandigarh,105,4,109,-7,102,-5,97,-4,92
+23,Chattisgarh,Durg-Bhillainagar,108,-108,,84,84,-5,79,-19,60
+24,Chattisgarh,Korba,,58,58,1,59,-1,58,-12,46
+25,Chattisgarh,Raipur,148,-45,103,-38,65,4,69,-16,53
+26,Delhi,Delhi,278,-37,240,-16,225,-26,199,-4,194
+27,Gujarat,Ahmedabad,108,12,120,116,236,-110,127,-25,101
+28,Gujarat,Rajkot,93,14,107,96,203,-72,131,-34,97
+29,Gujarat,Surat,92,14,106,70,176,-41,135,-35,100
+30,Gujarat,Vadodara,93,16,108,80,188,-61,128,-36,92
+31,Himachal Pradesh,Baddi,90,82,172,-9,164,-15,148,-40,108
+32,Himachal Pradesh,Damtal,85,-22,63,0,63,-14,49,11,59
+33,Himachal Pradesh,Kala Amb,129,-10,119,-16,104,-2,102,-25,77
+34,Himachal Pradesh,Nalagarh,108,39,147,1,148,-23,125,-39,86
+35,Himachal Pradesh,Paonta Sahib,102,-18,84,4,88,-4,84,-9,75
+36,Himachal Pradesh,Parwanoo,70,-5,65,-2,63,1,64,-19,46
+37,Himachal Pradesh,Sunder Nagar,92,-19,73,12,84,-12,73,-24,49
+38,Jammu & Kashmir,Jammu,131,18,149,16,164,-26,138,29,167
+39,Jammu & Kashmir,Srinagar,,0,,153,153,-21,132,23,155
+40,Jharkhand,Dhanbad,226,12,238,26,264,-27,237,-55,182
+41,Jharkhand,Jamshedpur,136,-6,131,-2,129,10,139,-35,104
+42,Jharkhand,Ranchi,196,-54,142,-20,122,-13,109,-3,106
+43,Karnataka,Bangalore,103,-11,92,-2,90,-11,79,-11,67
+44,Karnataka,Devanagere,94,-8,87,-43,44,26,70,-2,68
+45,Karnataka,Gulbarga,60,-6,54,1,55,32,87,-6,81
+46,Karnataka,Hubli-Dharwad,84,-5,79,-4,75,-6,69,-18,52
+47,Madhya Pradesh,Bhopal,89,4,93,42,135,26,161,-3,158
+48,Madhya Pradesh,Dewas,89,-15,75,-7,68,11,79,-13,66
+49,Madhya Pradesh,Gwalior,96,14,110,24,134,-62,72,67,139
+50,Madhya Pradesh,Indore,95,-15,80,8,88,51,139,-64,75
+51,Madhya Pradesh,Jabalpur,71,3,74,45,119,-41,78,-2,77
+52,Madhya Pradesh,Sagar,79,-10,70,6,76,2,77,-14,64
+53,Madhya Pradesh,Ujjain,90,-15,75,8,83,1,84,-6,78
+54,Maharashtra,Akola,126,1,127,-54,72,-4,69,-13,56
+55,Maharashtra,Amravati,100,6,106,-2,104,-14,90,-26,64
+56,Maharashtra,Aurangabad,92,-10,83,-12,70,3,74,0,74
+57,Maharashtra,Badlapur,125,34,159,-15,144,-36,108,-44,64
+58,Maharashtra,Chandrapur,111,35,146,3,149,-17,133,3,135
+59,Maharashtra,Jalgaon,103,-26,77,-3,74,-14,60,-8,52
+60,Maharashtra,Jalna,110,-9,101,2,103,-6,97,-15,82
+61,Maharashtra,Kolhapur,96,-6,90,0,90,-5,85,1,87
+62,Maharashtra,Latur,81,0,81,14,95,-9,86,-28,58
+63,Maharashtra,Mumbai,119,33,151,14,165,-40,125,-125,
+64,Maharashtra,Nagpur,118,-16,102,8,109,-9,101,-7,93
+65,Maharashtra,Nashik,85,-4,81,1,82,-19,63,-25,38
+66,Maharashtra,Navi Mumbai,118,-13,105,-35,71,-17,54,-4,50
+67,Maharashtra,Pune,107,-5,102,4,106,37,143,-37,106
+68,Maharashtra,Sangli,83,-8,76,8,84,-17,67,5,71
+69,Maharashtra,Solapur,74,-10,64,7,71,3,74,-15,60
+70,Maharashtra,Thane,122,3,125,-18,107,-13,95,-12,83
+71,Maharashtra,Ulhasnagar,118,32,150,-27,123,6,129,-65,64
+72,Maharashtra,Vasai-Virar,,0,,0,,0,,0,
+73,Meghalaya,Byrnihat,175,-1,174,-8,166,-63,103,10,113
+74,Nagaland,Dimapur,122,17,138,-4,135,-57,77,1,78
+75,Nagaland,Kohima,90,25,114,-10,105,-10,95,-9,86
+76,Orissa,Angul,97,-3,95,7,101,-2,100,-12,88
+77,Orissa,Balasore,85,-2,83,3,86,0,86,-8,78
+78,Orissa,Bhubaneswar,105,-14,91,8,99,0,99,-19,80
+79,Orissa,Cuttack,81,6,87,27,114,-8,106,-14,92
+80,Orissa,Kalinga Nagar,113,13,126,-9,118,-12,106,6,112
+81,Orissa,Rourkela,75,42,117,-8,109,10,118,-29,89
+82,Orissa,Talcher,105,-9,96,15,111,13,123,-29,94
+83,Punjab,Amritsar,194,-26,168,9,177,-76,102,65,166
+84,Punjab,Dera Baba Nanak,89,1,90,-9,81,72,153,-85,68
+85,Punjab,Dera Bassi,98,-6,93,2,95,76,170,-68,102
+86,Punjab,Gobindgarh,148,-12,136,-16,121,-51,70,39,109
+87,Punjab,Jalandhar,,223,223,-70,153,-56,98,68,166
+88,Punjab,Khanna,114,25,139,-4,135,7,142,-142,
+89,Punjab,Ludhiana,139,23,162,0,162,-25,137,25,161
+90,Punjab,Naya Nangal,91,0,91,1,91,74,165,-65,100
+91,Punjab,Patiala,106,-5,102,-4,98,-8,91,10,101
+92,Rajasthan,Alwar,144,-10,134,49,183,-11,172,-9,162
+93,Rajasthan,Jaipur,199,-22,177,-11,165,-25,141,-9,132
+94,Rajasthan,Jodhpur,168,12,180,43,223,17,240,-79,160
+95,Rajasthan,Kota,110,21,131,22,152,-23,129,-25,104
+96,Rajasthan,Udaipur,137,-12,125,22,147,9,156,-17,139
+97,Tamil Nadu,Chennai,65,-3,62,16,78,8,86,-35,51
+98,Tamil Nadu,Madurai,76,-9,67,16,83,-11,73,-16,57
+99,Tamil Nadu,Trichy,95,-8,86,24,110,-32,79,-38,41
+100,Tamil Nadu,Tuticorin,175,-43,132,-30,102,-29,73,0,73
+101,Telangana,Hyderabad,100,7,108,-3,105,-6,99,-1,98
+102,Telangana,Nalgonda,62,-2,60,-1,60,-1,59,-5,55
+103,Telangana,Patancheru,78,0,78,3,81,2,83,-83,
+104,Telangana,Sangareddy,,79,79,3,81,6,87,-10,77
+105,Uttar Pradesh,Agra,198,-14,185,25,209,-23,186,-12,174
+106,Uttar Pradesh,Allahabad,195,-55,140,91,231,-9,222,-42,180
+107,Uttar Pradesh,Anpara,132,22,154,37,191,-20,171,-25,147
+108,Uttar Pradesh,Bareily,253,-58,195,38,233,-33,200,-25,176
+109,Uttar Pradesh,Firozabad,223,-3,220,7,226,-13,214,-33,180
+110,Uttar Pradesh,Gajraula,193,14,207,18,225,4,229,-64,165
+111,Uttar Pradesh,Ghaziabad,236,45,281,-36,245,-37,208,-5,203
+112,Uttar Pradesh,Gorakhpur,,186,186,32,218,-54,163,17,181
+113,Uttar Pradesh,Jhansi,116,-3,113,-17,96,199,295,-198,97
+114,Uttar Pradesh,Kanpur,217,7,224,-14,210,-115,96,96,192
+115,Uttar Pradesh,Khurja,216,-8,209,5,214,-16,198,1,199
+116,Uttar Pradesh,Lucknow,214,32,246,-29,217,-22,195,-8,187
+117,Uttar Pradesh,Meerut,158,-5,153,24,177,7,184,-184,
+118,Uttar Pradesh,Moradabad,196,21,217,10,227,-19,208,9,217
+119,Uttar Pradesh,Noida,176,40,216,48,264,-51,213,-6,207
+120,Uttar Pradesh,Raebareli,141,0,141,1,141,98,240,-130,110
+121,Uttar Pradesh,Varanasi,,244,244,-54,190,22,212,-67,145
+122,Uttarakhand,Dehradun,241,7,248,-32,217,-80,137,1,138
+123,Uttarakhand,Kashipur,126,-15,111,-6,105,63,168,-47,121
+124,Uttarakhand,Rishikesh,119,9,128,5,133,-1,132,-20,112
+125,West Bengal,Asansol,211,-48,163,-18,145,-30,115,-1,114
+126,West Bengal,Barrackpore,106,-16,90,18,108,65,173,-95,79
+127,West Bengal,Durgapur,196,-41,155,-14,141,-141,,107,107
+128,West Bengal,Faridabad,,0,,0,,104,104,-104,
+129,West Bengal,Haldia,103,-6,97,1,99,-13,86,1,87
+130,West Bengal,Howrah,119,-9,110,69,179,-4,175,-50,125
+131,West Bengal,Kolkata,113,6,120,24,144,40,184,-84,100
+132,West Bengal,Raniganj,217,-70,147,0,147,40,186,-72,114

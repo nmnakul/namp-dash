@@ -16,7 +16,7 @@
 
     import { Chart, LineController, registerables } from 'chart.js';
     Chart.register(...registerables);
-    import { pmFilteredByDataTable, pmFilteredByYear, selectedYear } from '../../store.js';
+    import { pmFilteredByDataTable, selectedYear } from '../../store.js';
     import { onMount } from 'svelte';
     import { Button } from "carbon-components-svelte";
 
@@ -204,9 +204,13 @@
         }); // chart element end
     });
 
+    function sortByPM10(a, b) { 
+      return b.pm10 - a.pm10 || b.pm25 - a.pm25;
+    };
+
     const unsubscribe = pmFilteredByDataTable.subscribe((val)=>{ 
-        data.datasets[0].data = val;
-        data.datasets[1].data = val;
+        data.datasets[0].data = val.sort(sortByPM10);
+        data.datasets[1].data = val.sort(sortByPM10);
         if(myChart) myChart.update('none');
     });
 </script>

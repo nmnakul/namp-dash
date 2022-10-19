@@ -8,7 +8,7 @@
     import { AspectRatio,  Tabs, Tab, TabContent } from "carbon-components-svelte";
     import NampExplanation from "./lib/presentational/Namp-Explanation.svelte";
     import BasicPmDatatable from "./lib/stateful/Basic-PM-Datatable.svelte";
-    import PmByYear from "./lib/stateful/PM-By-Year.svelte";
+    import GraphPMDatatable from "./lib/stateful/Graph-PM-Datatable.svelte";
     import YearCompare from "./lib/stateful/Year-Compare.svelte";
 </script>
 
@@ -24,8 +24,7 @@
       <body class="w-full grey-100">
           <NampExplanation></NampExplanation>
           <BasicPmDatatable></BasicPmDatatable>
-          <PmByYear></PmByYear>
-
+          <GraphPMDatatable></GraphPMDatatable>
           <Tabs autoWidth>
             <Tab label="Year on Year PM-10" />
             <Tab label="Year on Year PM-2.5" />

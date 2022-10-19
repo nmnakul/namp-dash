@@ -7,7 +7,7 @@
    "pm10": 85,
    "monitors-pm10": 1,
    "readings-pm10": "106",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -20,7 +20,7 @@
    "pm10": 62,
    "monitors-pm10": 2,
    "readings-pm10": "214",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -33,7 +33,7 @@
    "pm10": 70,
    "monitors-pm10": 1,
    "readings-pm10": "108",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -46,7 +46,7 @@
    "pm10": 88,
    "monitors-pm10": 1,
    "readings-pm10": "101",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -59,7 +59,7 @@
    "pm10": 68,
    "monitors-pm10": 1,
    "readings-pm10": "108",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -72,7 +72,7 @@
    "pm10": 69,
    "monitors-pm10": 1,
    "readings-pm10": "108",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -85,7 +85,7 @@
    "pm10": 66,
    "monitors-pm10": 1,
    "readings-pm10": "107",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -98,7 +98,7 @@
    "pm10": 65,
    "monitors-pm10": 1,
    "readings-pm10": "98",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -111,7 +111,7 @@
    "pm10": 64,
    "monitors-pm10": 1,
    "readings-pm10": "102",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -124,7 +124,7 @@
    "pm10": 71,
    "monitors-pm10": 1,
    "readings-pm10": "102",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -137,7 +137,7 @@
    "pm10": 102,
    "monitors-pm10": 3,
    "readings-pm10": "297",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -150,7 +150,7 @@
    "pm10": 77,
    "monitors-pm10": 8,
    "readings-pm10": "855",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -163,7 +163,7 @@
    "pm10": 85,
    "monitors-pm10": 1,
    "readings-pm10": "97",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -176,7 +176,7 @@
    "pm10": 105,
    "monitors-pm10": 6,
    "readings-pm10": "1288",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -189,7 +189,7 @@
    "pm10": 111,
    "monitors-pm10": 1,
    "readings-pm10": "55",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -202,7 +202,7 @@
    "pm10": 108,
    "monitors-pm10": 1,
    "readings-pm10": "103",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -215,7 +215,7 @@
    "pm10": 75,
    "monitors-pm10": 2,
    "readings-pm10": "191",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -228,7 +228,7 @@
    "pm10": 58,
    "monitors-pm10": 2,
    "readings-pm10": "168",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -238,10 +238,10 @@
    "srno": 19,
    "state": "Bihar",
    "city": "Gaya",
-   "pm10": 0,
+   "pm10": null,
    "monitors-pm10": 0,
    "readings-pm10": "0",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -251,10 +251,10 @@
    "srno": 20,
    "state": "Bihar",
    "city": "Muzaffarpur",
-   "pm10": 0,
+   "pm10": null,
    "monitors-pm10": 0,
    "readings-pm10": "0",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -267,7 +267,7 @@
    "pm10": 212,
    "monitors-pm10": 2,
    "readings-pm10": "201",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -281,7 +281,7 @@
    "monitors-pm10": 5,
    "readings-pm10": "659",
    "pm25": 123,
-   "monitors-pm25": 0,
+   "monitors-pm25": 5,
    "readings-pm25": "68",
    "year": 2016
  },
@@ -293,7 +293,7 @@
    "pm10": 108,
    "monitors-pm10": 3,
    "readings-pm10": "248",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -303,10 +303,10 @@
    "srno": 24,
    "state": "Chattisgarh",
    "city": "Korba",
-   "pm10": 0,
+   "pm10": null,
    "monitors-pm10": 0,
    "readings-pm10": "0",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -319,7 +319,7 @@
    "pm10": 148,
    "monitors-pm10": 2,
    "readings-pm10": "129",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -333,7 +333,7 @@
    "monitors-pm10": 9,
    "readings-pm10": "848",
    "pm25": 118,
-   "monitors-pm25": 0,
+   "monitors-pm25": 7,
    "readings-pm25": "564",
    "year": 2016
  },
@@ -346,7 +346,7 @@
    "monitors-pm10": 8,
    "readings-pm10": "719",
    "pm25": 34,
-   "monitors-pm25": 0,
+   "monitors-pm25": 8,
    "readings-pm25": "719",
    "year": 2016
  },
@@ -359,7 +359,7 @@
    "monitors-pm10": 2,
    "readings-pm10": "202",
    "pm25": 32,
-   "monitors-pm25": 0,
+   "monitors-pm25": 2,
    "readings-pm25": "202",
    "year": 2016
  },
@@ -372,7 +372,7 @@
    "monitors-pm10": 3,
    "readings-pm10": "278",
    "pm25": 31,
-   "monitors-pm25": 0,
+   "monitors-pm25": 3,
    "readings-pm25": "278",
    "year": 2016
  },
@@ -385,7 +385,7 @@
    "monitors-pm10": 3,
    "readings-pm10": "257",
    "pm25": 30,
-   "monitors-pm25": 0,
+   "monitors-pm25": 3,
    "readings-pm25": "257",
    "year": 2016
  },
@@ -397,7 +397,7 @@
    "pm10": 90,
    "monitors-pm10": 3,
    "readings-pm10": "163",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -410,7 +410,7 @@
    "pm10": 85,
    "monitors-pm10": 2,
    "readings-pm10": "271",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -423,7 +423,7 @@
    "pm10": 129,
    "monitors-pm10": 2,
    "readings-pm10": "311",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -436,7 +436,7 @@
    "pm10": 108,
    "monitors-pm10": 1,
    "readings-pm10": "113",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -449,7 +449,7 @@
    "pm10": 102,
    "monitors-pm10": 2,
    "readings-pm10": "277",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -462,7 +462,7 @@
    "pm10": 70,
    "monitors-pm10": 2,
    "readings-pm10": "276",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -475,7 +475,7 @@
    "pm10": 92,
    "monitors-pm10": 2,
    "readings-pm10": "260",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -488,7 +488,7 @@
    "pm10": 131,
    "monitors-pm10": 3,
    "readings-pm10": "275",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -498,10 +498,10 @@
    "srno": 39,
    "state": "Jammu & Kashmir",
    "city": "Srinagar",
-   "pm10": 0,
+   "pm10": null,
    "monitors-pm10": 0,
    "readings-pm10": "0",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -514,7 +514,7 @@
    "pm10": 226,
    "monitors-pm10": 3,
    "readings-pm10": "245",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -527,7 +527,7 @@
    "pm10": 136,
    "monitors-pm10": 2,
    "readings-pm10": "123",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -540,7 +540,7 @@
    "pm10": 196,
    "monitors-pm10": 1,
    "readings-pm10": "64",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -554,7 +554,7 @@
    "monitors-pm10": 8,
    "readings-pm10": "731",
    "pm25": 51,
-   "monitors-pm25": 0,
+   "monitors-pm25": 5,
    "readings-pm25": "429",
    "year": 2016
  },
@@ -566,7 +566,7 @@
    "pm10": 94,
    "monitors-pm10": 3,
    "readings-pm10": "157",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -579,7 +579,7 @@
    "pm10": 60,
    "monitors-pm10": 1,
    "readings-pm10": "101",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -593,7 +593,7 @@
    "monitors-pm10": 2,
    "readings-pm10": "208",
    "pm25": 36,
-   "monitors-pm25": 0,
+   "monitors-pm25": 2,
    "readings-pm25": "161",
    "year": 2016
  },
@@ -606,7 +606,7 @@
    "monitors-pm10": 7,
    "readings-pm10": "501",
    "pm25": 27,
-   "monitors-pm25": 0,
+   "monitors-pm25": 7,
    "readings-pm25": "301",
    "year": 2016
  },
@@ -618,7 +618,7 @@
    "pm10": 89,
    "monitors-pm10": 3,
    "readings-pm10": "283",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -632,7 +632,7 @@
    "monitors-pm10": 2,
    "readings-pm10": "146",
    "pm25": 52,
-   "monitors-pm25": 0,
+   "monitors-pm25": 2,
    "readings-pm25": "12",
    "year": 2016
  },
@@ -645,7 +645,7 @@
    "monitors-pm10": 3,
    "readings-pm10": "269",
    "pm25": 53,
-   "monitors-pm25": 0,
+   "monitors-pm25": 3,
    "readings-pm25": "272",
    "year": 2016
  },
@@ -658,7 +658,7 @@
    "monitors-pm10": 2,
    "readings-pm10": "118",
    "pm25": 32,
-   "monitors-pm25": 0,
+   "monitors-pm25": 2,
    "readings-pm25": "106",
    "year": 2016
  },
@@ -671,7 +671,7 @@
    "monitors-pm10": 1,
    "readings-pm10": "94",
    "pm25": 30,
-   "monitors-pm25": 0,
+   "monitors-pm25": 2,
    "readings-pm25": "146",
    "year": 2016
  },
@@ -684,7 +684,7 @@
    "monitors-pm10": 4,
    "readings-pm10": "280",
    "pm25": 44,
-   "monitors-pm25": 0,
+   "monitors-pm25": 4,
    "readings-pm25": "197",
    "year": 2016
  },
@@ -696,7 +696,7 @@
    "pm10": 126,
    "monitors-pm10": 3,
    "readings-pm10": "300",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -709,7 +709,7 @@
    "pm10": 100,
    "monitors-pm10": 3,
    "readings-pm10": "223",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -722,7 +722,7 @@
    "pm10": 92,
    "monitors-pm10": 3,
    "readings-pm10": "300",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -735,7 +735,7 @@
    "pm10": 125,
    "monitors-pm10": 1,
    "readings-pm10": "75",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -748,7 +748,7 @@
    "pm10": 111,
    "monitors-pm10": 6,
    "readings-pm10": "744",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -761,7 +761,7 @@
    "pm10": 103,
    "monitors-pm10": 3,
    "readings-pm10": "308",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -774,7 +774,7 @@
    "pm10": 110,
    "monitors-pm10": 2,
    "readings-pm10": "191",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -787,7 +787,7 @@
    "pm10": 96,
    "monitors-pm10": 3,
    "readings-pm10": "251",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -800,7 +800,7 @@
    "pm10": 81,
    "monitors-pm10": 3,
    "readings-pm10": "326",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -813,7 +813,7 @@
    "pm10": 119,
    "monitors-pm10": 2,
    "readings-pm10": "151",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -826,7 +826,7 @@
    "pm10": 118,
    "monitors-pm10": 7,
    "readings-pm10": "859",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -839,7 +839,7 @@
    "pm10": 85,
    "monitors-pm10": 4,
    "readings-pm10": "622",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -852,7 +852,7 @@
    "pm10": 118,
    "monitors-pm10": 6,
    "readings-pm10": "661",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -865,7 +865,7 @@
    "pm10": 107,
    "monitors-pm10": 3,
    "readings-pm10": "290",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -878,7 +878,7 @@
    "pm10": 83,
    "monitors-pm10": 3,
    "readings-pm10": "339",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -891,7 +891,7 @@
    "pm10": 74,
    "monitors-pm10": 2,
    "readings-pm10": "205",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -904,7 +904,7 @@
    "pm10": 122,
    "monitors-pm10": 3,
    "readings-pm10": "287",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -917,7 +917,7 @@
    "pm10": 118,
    "monitors-pm10": 2,
    "readings-pm10": "147",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -927,10 +927,10 @@
    "srno": 72,
    "state": "Maharashtra",
    "city": "Vasai-Virar",
-   "pm10": 0,
+   "pm10": null,
    "monitors-pm10": 0,
    "readings-pm10": "0",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -943,7 +943,7 @@
    "pm10": 175,
    "monitors-pm10": 1,
    "readings-pm10": "75",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -956,7 +956,7 @@
    "pm10": 122,
    "monitors-pm10": 2,
    "readings-pm10": "192",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -969,7 +969,7 @@
    "pm10": 90,
    "monitors-pm10": 2,
    "readings-pm10": "199",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -982,7 +982,7 @@
    "pm10": 97,
    "monitors-pm10": 2,
    "readings-pm10": "210",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -996,7 +996,7 @@
    "monitors-pm10": 3,
    "readings-pm10": "258",
    "pm25": 47,
-   "monitors-pm25": 0,
+   "monitors-pm25": 3,
    "readings-pm25": "253",
    "year": 2016
  },
@@ -1009,7 +1009,7 @@
    "monitors-pm10": 6,
    "readings-pm10": "517",
    "pm25": 36,
-   "monitors-pm25": 0,
+   "monitors-pm25": 6,
    "readings-pm25": "451",
    "year": 2016
  },
@@ -1022,7 +1022,7 @@
    "monitors-pm10": 3,
    "readings-pm10": "317",
    "pm25": 42,
-   "monitors-pm25": 0,
+   "monitors-pm25": 3,
    "readings-pm25": "310",
    "year": 2016
  },
@@ -1035,7 +1035,7 @@
    "monitors-pm10": 3,
    "readings-pm10": "295",
    "pm25": 46,
-   "monitors-pm25": 0,
+   "monitors-pm25": 3,
    "readings-pm25": "281",
    "year": 2016
  },
@@ -1048,7 +1048,7 @@
    "monitors-pm10": 5,
    "readings-pm10": "365",
    "pm25": 45,
-   "monitors-pm25": 0,
+   "monitors-pm25": 2,
    "readings-pm25": "131",
    "year": 2016
  },
@@ -1061,7 +1061,7 @@
    "monitors-pm10": 2,
    "readings-pm10": "212",
    "pm25": 35,
-   "monitors-pm25": 0,
+   "monitors-pm25": 5,
    "readings-pm25": "356",
    "year": 2016
  },
@@ -1073,7 +1073,7 @@
    "pm10": 194,
    "monitors-pm10": 3,
    "readings-pm10": "129",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -1086,7 +1086,7 @@
    "pm10": 89,
    "monitors-pm10": 1,
    "readings-pm10": "98",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -1099,7 +1099,7 @@
    "pm10": 98,
    "monitors-pm10": 2,
    "readings-pm10": "204",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -1112,7 +1112,7 @@
    "pm10": 148,
    "monitors-pm10": 5,
    "readings-pm10": "513",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -1122,10 +1122,10 @@
    "srno": 87,
    "state": "Punjab",
    "city": "Jalandhar",
-   "pm10": 0,
+   "pm10": null,
    "monitors-pm10": 0,
    "readings-pm10": "0",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -1138,7 +1138,7 @@
    "pm10": 114,
    "monitors-pm10": 2,
    "readings-pm10": "254",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -1151,7 +1151,7 @@
    "pm10": 139,
    "monitors-pm10": 4,
    "readings-pm10": "503",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -1164,7 +1164,7 @@
    "pm10": 91,
    "monitors-pm10": 2,
    "readings-pm10": "183",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -1177,7 +1177,7 @@
    "pm10": 106,
    "monitors-pm10": 2,
    "readings-pm10": "232",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -1190,7 +1190,7 @@
    "pm10": 144,
    "monitors-pm10": 3,
    "readings-pm10": "299",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -1203,7 +1203,7 @@
    "pm10": 199,
    "monitors-pm10": 6,
    "readings-pm10": "604",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -1216,7 +1216,7 @@
    "pm10": 168,
    "monitors-pm10": 6,
    "readings-pm10": "606",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -1229,7 +1229,7 @@
    "pm10": 110,
    "monitors-pm10": 6,
    "readings-pm10": "470",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -1242,7 +1242,7 @@
    "pm10": 137,
    "monitors-pm10": 3,
    "readings-pm10": "315",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -1255,7 +1255,7 @@
    "pm10": 65,
    "monitors-pm10": 11,
    "readings-pm10": "842",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -1268,7 +1268,7 @@
    "pm10": 76,
    "monitors-pm10": 3,
    "readings-pm10": "239",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -1281,7 +1281,7 @@
    "pm10": 95,
    "monitors-pm10": 5,
    "readings-pm10": "351",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -1294,7 +1294,7 @@
    "pm10": 175,
    "monitors-pm10": 3,
    "readings-pm10": "251",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -1308,7 +1308,7 @@
    "monitors-pm10": 10,
    "readings-pm10": "913",
    "pm25": 49,
-   "monitors-pm25": 0,
+   "monitors-pm25": 8,
    "readings-pm25": "533",
    "year": 2016
  },
@@ -1321,7 +1321,7 @@
    "monitors-pm10": 2,
    "readings-pm10": "205",
    "pm25": 35,
-   "monitors-pm25": 0,
+   "monitors-pm25": 1,
    "readings-pm25": "9",
    "year": 2016
  },
@@ -1334,7 +1334,7 @@
    "monitors-pm10": 1,
    "readings-pm10": "106",
    "pm25": 33,
-   "monitors-pm25": 0,
+   "monitors-pm25": 3,
    "readings-pm25": "216",
    "year": 2016
  },
@@ -1343,10 +1343,10 @@
    "srno": 104,
    "state": "Telangana",
    "city": "Sangareddy",
-   "pm10": 0,
+   "pm10": null,
    "monitors-pm10": 0,
    "readings-pm10": "0",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -1359,7 +1359,7 @@
    "pm10": 198,
    "monitors-pm10": 6,
    "readings-pm10": "805",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -1372,7 +1372,7 @@
    "pm10": 195,
    "monitors-pm10": 5,
    "readings-pm10": "532",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -1385,7 +1385,7 @@
    "pm10": 132,
    "monitors-pm10": 2,
    "readings-pm10": "163",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -1398,7 +1398,7 @@
    "pm10": 253,
    "monitors-pm10": 2,
    "readings-pm10": "104",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -1411,7 +1411,7 @@
    "pm10": 223,
    "monitors-pm10": 2,
    "readings-pm10": "212",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -1424,7 +1424,7 @@
    "pm10": 193,
    "monitors-pm10": 2,
    "readings-pm10": "200",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -1437,7 +1437,7 @@
    "pm10": 236,
    "monitors-pm10": 2,
    "readings-pm10": "219",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -1447,10 +1447,10 @@
    "srno": 112,
    "state": "Uttar Pradesh",
    "city": "Gorakhpur",
-   "pm10": 0,
+   "pm10": null,
    "monitors-pm10": 0,
    "readings-pm10": "0",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -1463,7 +1463,7 @@
    "pm10": 116,
    "monitors-pm10": 2,
    "readings-pm10": "222",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -1476,7 +1476,7 @@
    "pm10": 217,
    "monitors-pm10": 8,
    "readings-pm10": "507",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -1489,7 +1489,7 @@
    "pm10": 216,
    "monitors-pm10": 2,
    "readings-pm10": "178",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -1502,7 +1502,7 @@
    "pm10": 214,
    "monitors-pm10": 7,
    "readings-pm10": "692",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -1515,7 +1515,7 @@
    "pm10": 158,
    "monitors-pm10": 2,
    "readings-pm10": "128",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -1528,7 +1528,7 @@
    "pm10": 196,
    "monitors-pm10": 2,
    "readings-pm10": "203",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -1541,7 +1541,7 @@
    "pm10": 176,
    "monitors-pm10": 2,
    "readings-pm10": "175",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -1554,7 +1554,7 @@
    "pm10": 141,
    "monitors-pm10": 3,
    "readings-pm10": "255",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -1564,10 +1564,10 @@
    "srno": 121,
    "state": "Uttar Pradesh",
    "city": "Varanasi",
-   "pm10": 0,
+   "pm10": null,
    "monitors-pm10": 0,
    "readings-pm10": "0",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -1580,7 +1580,7 @@
    "pm10": 241,
    "monitors-pm10": 3,
    "readings-pm10": "214",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -1593,7 +1593,7 @@
    "pm10": 126,
    "monitors-pm10": 1,
    "readings-pm10": "98",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -1606,7 +1606,7 @@
    "pm10": 119,
    "monitors-pm10": 1,
    "readings-pm10": "85",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -1620,7 +1620,7 @@
    "monitors-pm10": 3,
    "readings-pm10": "295",
    "pm25": 88,
-   "monitors-pm25": 0,
+   "monitors-pm25": 1,
    "readings-pm25": "86",
    "year": 2016
  },
@@ -1633,7 +1633,7 @@
    "monitors-pm10": 3,
    "readings-pm10": "305",
    "pm25": 58,
-   "monitors-pm25": 0,
+   "monitors-pm25": 3,
    "readings-pm25": "311",
    "year": 2016
  },
@@ -1645,7 +1645,7 @@
    "pm10": 196,
    "monitors-pm10": 4,
    "readings-pm10": "414",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -1655,10 +1655,10 @@
    "srno": 128,
    "state": "West Bengal",
    "city": "Faridabad",
-   "pm10": 0,
+   "pm10": null,
    "monitors-pm10": 0,
    "readings-pm10": "0",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -1671,7 +1671,7 @@
    "pm10": 103,
    "monitors-pm10": 5,
    "readings-pm10": "416",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -1685,7 +1685,7 @@
    "monitors-pm10": 3,
    "readings-pm10": "312",
    "pm25": 69,
-   "monitors-pm25": 0,
+   "monitors-pm25": 6,
    "readings-pm25": "519",
    "year": 2016
  },
@@ -1697,7 +1697,7 @@
    "pm10": 113,
    "monitors-pm10": 9,
    "readings-pm10": "886",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -1710,7 +1710,7 @@
    "pm10": 217,
    "monitors-pm10": 3,
    "readings-pm10": "312",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2016
@@ -1723,7 +1723,7 @@
    "pm10": 78,
    "monitors-pm10": 1,
    "readings-pm10": "111",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -1736,7 +1736,7 @@
    "pm10": 69,
    "monitors-pm10": 2,
    "readings-pm10": "214",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -1749,7 +1749,7 @@
    "pm10": 74,
    "monitors-pm10": 1,
    "readings-pm10": "112",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -1762,7 +1762,7 @@
    "pm10": 69,
    "monitors-pm10": 1,
    "readings-pm10": "113",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -1775,7 +1775,7 @@
    "pm10": 74,
    "monitors-pm10": 1,
    "readings-pm10": "111",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -1788,7 +1788,7 @@
    "pm10": 82,
    "monitors-pm10": 1,
    "readings-pm10": "112",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -1801,7 +1801,7 @@
    "pm10": 65,
    "monitors-pm10": 1,
    "readings-pm10": "112",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -1814,7 +1814,7 @@
    "pm10": 65,
    "monitors-pm10": 1,
    "readings-pm10": "110",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -1827,7 +1827,7 @@
    "pm10": 65,
    "monitors-pm10": 1,
    "readings-pm10": "103",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -1840,7 +1840,7 @@
    "pm10": 70,
    "monitors-pm10": 1,
    "readings-pm10": "111",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -1853,7 +1853,7 @@
    "pm10": 99,
    "monitors-pm10": 3,
    "readings-pm10": "327",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -1866,7 +1866,7 @@
    "pm10": 73,
    "monitors-pm10": 8,
    "readings-pm10": "876",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -1879,7 +1879,7 @@
    "pm10": 72,
    "monitors-pm10": 1,
    "readings-pm10": "107",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -1892,7 +1892,7 @@
    "pm10": 106,
    "monitors-pm10": 6,
    "readings-pm10": "811",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -1905,7 +1905,7 @@
    "pm10": 75,
    "monitors-pm10": 1,
    "readings-pm10": "82",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -1918,7 +1918,7 @@
    "pm10": 95,
    "monitors-pm10": 1,
    "readings-pm10": "94",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -1931,7 +1931,7 @@
    "pm10": 81,
    "monitors-pm10": 2,
    "readings-pm10": "193",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -1944,7 +1944,7 @@
    "pm10": 49,
    "monitors-pm10": 2,
    "readings-pm10": "168",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -1957,7 +1957,7 @@
    "pm10": 77,
    "monitors-pm10": 1,
    "readings-pm10": "95",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -1983,7 +1983,7 @@
    "pm10": 157,
    "monitors-pm10": 2,
    "readings-pm10": "151",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -2006,10 +2006,10 @@
    "srno": 23,
    "state": "Chattisgarh",
    "city": "Durg-Bhillainagar",
-   "pm10": 0,
+   "pm10": null,
    "monitors-pm10": 0,
    "readings-pm10": "0",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -2022,7 +2022,7 @@
    "pm10": 58,
    "monitors-pm10": 2,
    "readings-pm10": "140",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -2035,7 +2035,7 @@
    "pm10": 103,
    "monitors-pm10": 2,
    "readings-pm10": "115",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -2113,7 +2113,7 @@
    "pm10": 172,
    "monitors-pm10": 3,
    "readings-pm10": "263",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -2126,7 +2126,7 @@
    "pm10": 63,
    "monitors-pm10": 2,
    "readings-pm10": "259",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -2139,7 +2139,7 @@
    "pm10": 119,
    "monitors-pm10": 2,
    "readings-pm10": "305",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -2152,7 +2152,7 @@
    "pm10": 147,
    "monitors-pm10": 1,
    "readings-pm10": "122",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -2165,7 +2165,7 @@
    "pm10": 84,
    "monitors-pm10": 2,
    "readings-pm10": "269",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -2204,7 +2204,7 @@
    "pm10": 149,
    "monitors-pm10": 3,
    "readings-pm10": "261",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -2214,10 +2214,10 @@
    "srno": 39,
    "state": "Jammu & Kashmir",
    "city": "Srinagar",
-   "pm10": 0,
+   "pm10": null,
    "monitors-pm10": 0,
    "readings-pm10": "0",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -2230,7 +2230,7 @@
    "pm10": 238,
    "monitors-pm10": 3,
    "readings-pm10": "78",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -2243,7 +2243,7 @@
    "pm10": 131,
    "monitors-pm10": 2,
    "readings-pm10": "129",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -2256,7 +2256,7 @@
    "pm10": 142,
    "monitors-pm10": 1,
    "readings-pm10": "101",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -2295,7 +2295,7 @@
    "pm10": 54,
    "monitors-pm10": 1,
    "readings-pm10": "89",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -2334,7 +2334,7 @@
    "pm10": 75,
    "monitors-pm10": 3,
    "readings-pm10": "281",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -2412,7 +2412,7 @@
    "pm10": 127,
    "monitors-pm10": 3,
    "readings-pm10": "291",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -2425,7 +2425,7 @@
    "pm10": 106,
    "monitors-pm10": 3,
    "readings-pm10": "251",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -2438,7 +2438,7 @@
    "pm10": 83,
    "monitors-pm10": 3,
    "readings-pm10": "292",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -2451,7 +2451,7 @@
    "pm10": 159,
    "monitors-pm10": 1,
    "readings-pm10": "75",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -2464,7 +2464,7 @@
    "pm10": 146,
    "monitors-pm10": 6,
    "readings-pm10": "796",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -2477,7 +2477,7 @@
    "pm10": 77,
    "monitors-pm10": 3,
    "readings-pm10": "310",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -2490,7 +2490,7 @@
    "pm10": 101,
    "monitors-pm10": 2,
    "readings-pm10": "186",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -2503,7 +2503,7 @@
    "pm10": 90,
    "monitors-pm10": 3,
    "readings-pm10": "273",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -2516,7 +2516,7 @@
    "pm10": 81,
    "monitors-pm10": 3,
    "readings-pm10": "276",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -2529,7 +2529,7 @@
    "pm10": 151,
    "monitors-pm10": 2,
    "readings-pm10": "175",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -2542,7 +2542,7 @@
    "pm10": 102,
    "monitors-pm10": 7,
    "readings-pm10": "855",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -2555,7 +2555,7 @@
    "pm10": 81,
    "monitors-pm10": 4,
    "readings-pm10": "573",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -2568,7 +2568,7 @@
    "pm10": 105,
    "monitors-pm10": 6,
    "readings-pm10": "616",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -2581,7 +2581,7 @@
    "pm10": 102,
    "monitors-pm10": 3,
    "readings-pm10": "261",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -2594,7 +2594,7 @@
    "pm10": 76,
    "monitors-pm10": 3,
    "readings-pm10": "299",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -2607,7 +2607,7 @@
    "pm10": 64,
    "monitors-pm10": 2,
    "readings-pm10": "193",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -2620,7 +2620,7 @@
    "pm10": 125,
    "monitors-pm10": 3,
    "readings-pm10": "266",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -2633,7 +2633,7 @@
    "pm10": 150,
    "monitors-pm10": 2,
    "readings-pm10": "144",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -2643,10 +2643,10 @@
    "srno": 72,
    "state": "Maharashtra",
    "city": "Vasai-Virar",
-   "pm10": 0,
+   "pm10": null,
    "monitors-pm10": 0,
    "readings-pm10": "0",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -2659,7 +2659,7 @@
    "pm10": 174,
    "monitors-pm10": 1,
    "readings-pm10": "104",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -2672,7 +2672,7 @@
    "pm10": 138,
    "monitors-pm10": 2,
    "readings-pm10": "184",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -2685,7 +2685,7 @@
    "pm10": 114,
    "monitors-pm10": 2,
    "readings-pm10": "192",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -2789,7 +2789,7 @@
    "pm10": 168,
    "monitors-pm10": 3,
    "readings-pm10": "185",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -2802,7 +2802,7 @@
    "pm10": 90,
    "monitors-pm10": 1,
    "readings-pm10": "79",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -2815,7 +2815,7 @@
    "pm10": 93,
    "monitors-pm10": 2,
    "readings-pm10": "260",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -2828,7 +2828,7 @@
    "pm10": 136,
    "monitors-pm10": 3,
    "readings-pm10": "387",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -2841,7 +2841,7 @@
    "pm10": 223,
    "monitors-pm10": 4,
    "readings-pm10": "285",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -2854,7 +2854,7 @@
    "pm10": 139,
    "monitors-pm10": 2,
    "readings-pm10": "265",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -2867,7 +2867,7 @@
    "pm10": 162,
    "monitors-pm10": 4,
    "readings-pm10": "544",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -2880,7 +2880,7 @@
    "pm10": 91,
    "monitors-pm10": 2,
    "readings-pm10": "246",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -2893,7 +2893,7 @@
    "pm10": 102,
    "monitors-pm10": 2,
    "readings-pm10": "117",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -2906,7 +2906,7 @@
    "pm10": 134,
    "monitors-pm10": 3,
    "readings-pm10": "258",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -2919,7 +2919,7 @@
    "pm10": 177,
    "monitors-pm10": 9,
    "readings-pm10": "898",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -2932,7 +2932,7 @@
    "pm10": 180,
    "monitors-pm10": 9,
    "readings-pm10": "712",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -2945,7 +2945,7 @@
    "pm10": 131,
    "monitors-pm10": 6,
    "readings-pm10": "489",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -2958,7 +2958,7 @@
    "pm10": 125,
    "monitors-pm10": 3,
    "readings-pm10": "313",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -2997,7 +2997,7 @@
    "pm10": 86,
    "monitors-pm10": 5,
    "readings-pm10": "479",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -3010,7 +3010,7 @@
    "pm10": 132,
    "monitors-pm10": 3,
    "readings-pm10": "294",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -3088,7 +3088,7 @@
    "pm10": 140,
    "monitors-pm10": 5,
    "readings-pm10": "546",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -3101,7 +3101,7 @@
    "pm10": 154,
    "monitors-pm10": 2,
    "readings-pm10": "162",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -3114,7 +3114,7 @@
    "pm10": 195,
    "monitors-pm10": 2,
    "readings-pm10": "104",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -3127,7 +3127,7 @@
    "pm10": 220,
    "monitors-pm10": 3,
    "readings-pm10": "184",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -3140,7 +3140,7 @@
    "pm10": 207,
    "monitors-pm10": 2,
    "readings-pm10": "190",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -3153,7 +3153,7 @@
    "pm10": 281,
    "monitors-pm10": 2,
    "readings-pm10": "122",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -3166,7 +3166,7 @@
    "pm10": 186,
    "monitors-pm10": 3,
    "readings-pm10": "150",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -3179,7 +3179,7 @@
    "pm10": 113,
    "monitors-pm10": 2,
    "readings-pm10": "206",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -3192,7 +3192,7 @@
    "pm10": 224,
    "monitors-pm10": 8,
    "readings-pm10": "654",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -3205,7 +3205,7 @@
    "pm10": 209,
    "monitors-pm10": 2,
    "readings-pm10": "184",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -3231,7 +3231,7 @@
    "pm10": 153,
    "monitors-pm10": 2,
    "readings-pm10": "108",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -3244,7 +3244,7 @@
    "pm10": 217,
    "monitors-pm10": 2,
    "readings-pm10": "172",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -3257,7 +3257,7 @@
    "pm10": 216,
    "monitors-pm10": 2,
    "readings-pm10": "172",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -3270,7 +3270,7 @@
    "pm10": 141,
    "monitors-pm10": 3,
    "readings-pm10": "224",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -3283,7 +3283,7 @@
    "pm10": 244,
    "monitors-pm10": 5,
    "readings-pm10": "362",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -3296,7 +3296,7 @@
    "pm10": 248,
    "monitors-pm10": 3,
    "readings-pm10": "135",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -3309,7 +3309,7 @@
    "pm10": 111,
    "monitors-pm10": 1,
    "readings-pm10": "96",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -3322,7 +3322,7 @@
    "pm10": 128,
    "monitors-pm10": 1,
    "readings-pm10": "85",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -3371,10 +3371,10 @@
    "srno": 128,
    "state": "West Bengal",
    "city": "Faridabad",
-   "pm10": 0,
+   "pm10": null,
    "monitors-pm10": 0,
    "readings-pm10": "0",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -3426,7 +3426,7 @@
    "pm10": 147,
    "monitors-pm10": 4,
    "readings-pm10": "414",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2017
@@ -3465,7 +3465,7 @@
    "pm10": 67,
    "monitors-pm10": 4,
    "readings-pm10": "274",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2018
@@ -3478,7 +3478,7 @@
    "pm10": 49,
    "monitors-pm10": 4,
    "readings-pm10": "257",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2018
@@ -3530,7 +3530,7 @@
    "pm10": 66,
    "monitors-pm10": 4,
    "readings-pm10": "208",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2018
@@ -3556,7 +3556,7 @@
    "pm10": 71,
    "monitors-pm10": 4,
    "readings-pm10": "323",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2018
@@ -3595,7 +3595,7 @@
    "pm10": 65,
    "monitors-pm10": 3,
    "readings-pm10": "308",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2018
@@ -3621,7 +3621,7 @@
    "pm10": 96,
    "monitors-pm10": 1,
    "readings-pm10": "99",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2018
@@ -3634,7 +3634,7 @@
    "pm10": 97,
    "monitors-pm10": 1,
    "readings-pm10": "99",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2018
@@ -3647,7 +3647,7 @@
    "pm10": 72,
    "monitors-pm10": 2,
    "readings-pm10": "207",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2018
@@ -3660,7 +3660,7 @@
    "pm10": 50,
    "monitors-pm10": 2,
    "readings-pm10": "179",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2018
@@ -3673,7 +3673,7 @@
    "pm10": 89,
    "monitors-pm10": 1,
    "readings-pm10": "103",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2018
@@ -3699,7 +3699,7 @@
    "pm10": 208,
    "monitors-pm10": 2,
    "readings-pm10": "173",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2018
@@ -3725,7 +3725,7 @@
    "pm10": 84,
    "monitors-pm10": 4,
    "readings-pm10": "346",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2018
@@ -3751,7 +3751,7 @@
    "pm10": 65,
    "monitors-pm10": 2,
    "readings-pm10": "149",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2018
@@ -3829,7 +3829,7 @@
    "pm10": 164,
    "monitors-pm10": 3,
    "readings-pm10": "377",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2018
@@ -3868,7 +3868,7 @@
    "pm10": 148,
    "monitors-pm10": 1,
    "readings-pm10": "129",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2018
@@ -3933,7 +3933,7 @@
    "pm10": 153,
    "monitors-pm10": 3,
    "readings-pm10": "134",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2018
@@ -3946,7 +3946,7 @@
    "pm10": 264,
    "monitors-pm10": 3,
    "readings-pm10": "256",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2018
@@ -3959,7 +3959,7 @@
    "pm10": 129,
    "monitors-pm10": 2,
    "readings-pm10": "182",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2018
@@ -3972,7 +3972,7 @@
    "pm10": 122,
    "monitors-pm10": 1,
    "readings-pm10": "92",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2018
@@ -4128,7 +4128,7 @@
    "pm10": 72,
    "monitors-pm10": 3,
    "readings-pm10": "318",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2018
@@ -4141,7 +4141,7 @@
    "pm10": 104,
    "monitors-pm10": 3,
    "readings-pm10": "260",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2018
@@ -4154,7 +4154,7 @@
    "pm10": 70,
    "monitors-pm10": 3,
    "readings-pm10": "247",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2018
@@ -4167,7 +4167,7 @@
    "pm10": 144,
    "monitors-pm10": 1,
    "readings-pm10": "82",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2018
@@ -4180,7 +4180,7 @@
    "pm10": 149,
    "monitors-pm10": 6,
    "readings-pm10": "831",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2018
@@ -4193,7 +4193,7 @@
    "pm10": 74,
    "monitors-pm10": 3,
    "readings-pm10": "330",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2018
@@ -4206,7 +4206,7 @@
    "pm10": 103,
    "monitors-pm10": 2,
    "readings-pm10": "178",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2018
@@ -4219,7 +4219,7 @@
    "pm10": 90,
    "monitors-pm10": 3,
    "readings-pm10": "297",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2018
@@ -4232,7 +4232,7 @@
    "pm10": 95,
    "monitors-pm10": 3,
    "readings-pm10": "317",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2018
@@ -4271,7 +4271,7 @@
    "pm10": 82,
    "monitors-pm10": 5,
    "readings-pm10": "929",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2018
@@ -4284,7 +4284,7 @@
    "pm10": 71,
    "monitors-pm10": 6,
    "readings-pm10": "595",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2018
@@ -4297,7 +4297,7 @@
    "pm10": 106,
    "monitors-pm10": 3,
    "readings-pm10": "255",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2018
@@ -4310,7 +4310,7 @@
    "pm10": 84,
    "monitors-pm10": 3,
    "readings-pm10": "308",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2018
@@ -4323,7 +4323,7 @@
    "pm10": 71,
    "monitors-pm10": 2,
    "readings-pm10": "207",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2018
@@ -4336,7 +4336,7 @@
    "pm10": 107,
    "monitors-pm10": 3,
    "readings-pm10": "271",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2018
@@ -4349,7 +4349,7 @@
    "pm10": 123,
    "monitors-pm10": 2,
    "readings-pm10": "164",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2018
@@ -4359,10 +4359,10 @@
    "srno": 72,
    "state": "Maharashtra",
    "city": "Vasai-Virar",
-   "pm10": 0,
+   "pm10": null,
    "monitors-pm10": 0,
    "readings-pm10": "0",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2018
@@ -4375,7 +4375,7 @@
    "pm10": 166,
    "monitors-pm10": 1,
    "readings-pm10": "108",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2018
@@ -4388,7 +4388,7 @@
    "pm10": 135,
    "monitors-pm10": 2,
    "readings-pm10": "223",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2018
@@ -4401,7 +4401,7 @@
    "pm10": 105,
    "monitors-pm10": 2,
    "readings-pm10": "222",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2018
@@ -4505,7 +4505,7 @@
    "pm10": 177,
    "monitors-pm10": 2,
    "readings-pm10": "193",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2018
@@ -4518,7 +4518,7 @@
    "pm10": 81,
    "monitors-pm10": 1,
    "readings-pm10": "118",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2018
@@ -4531,7 +4531,7 @@
    "pm10": 95,
    "monitors-pm10": 2,
    "readings-pm10": "230",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2018
@@ -4544,7 +4544,7 @@
    "pm10": 121,
    "monitors-pm10": 3,
    "readings-pm10": "367",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2018
@@ -4557,7 +4557,7 @@
    "pm10": 153,
    "monitors-pm10": 4,
    "readings-pm10": "449",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2018
@@ -4570,7 +4570,7 @@
    "pm10": 135,
    "monitors-pm10": 2,
    "readings-pm10": "180",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2018
@@ -4583,7 +4583,7 @@
    "pm10": 162,
    "monitors-pm10": 4,
    "readings-pm10": "560",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2018
@@ -4596,7 +4596,7 @@
    "pm10": 91,
    "monitors-pm10": 2,
    "readings-pm10": "241",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2018
@@ -4609,7 +4609,7 @@
    "pm10": 98,
    "monitors-pm10": 2,
    "readings-pm10": "260",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2018
@@ -4622,7 +4622,7 @@
    "pm10": 183,
    "monitors-pm10": 3,
    "readings-pm10": "301",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2018
@@ -4635,7 +4635,7 @@
    "pm10": 165,
    "monitors-pm10": 9,
    "readings-pm10": "867",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2018
@@ -4648,7 +4648,7 @@
    "pm10": 223,
    "monitors-pm10": 9,
    "readings-pm10": "831",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2018
@@ -4661,7 +4661,7 @@
    "pm10": 152,
    "monitors-pm10": 6,
    "readings-pm10": "589",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2018
@@ -4674,7 +4674,7 @@
    "pm10": 147,
    "monitors-pm10": 3,
    "readings-pm10": "313",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2018
@@ -4804,7 +4804,7 @@
    "pm10": 231,
    "monitors-pm10": 5,
    "readings-pm10": "535",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2018
@@ -4817,7 +4817,7 @@
    "pm10": 191,
    "monitors-pm10": 2,
    "readings-pm10": "196",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2018
@@ -4830,7 +4830,7 @@
    "pm10": 233,
    "monitors-pm10": 2,
    "readings-pm10": "209",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2018
@@ -4843,7 +4843,7 @@
    "pm10": 226,
    "monitors-pm10": 3,
    "readings-pm10": "309",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2018
@@ -4856,7 +4856,7 @@
    "pm10": 225,
    "monitors-pm10": 2,
    "readings-pm10": "199",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2018
@@ -4882,7 +4882,7 @@
    "pm10": 218,
    "monitors-pm10": 3,
    "readings-pm10": "315",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2018
@@ -4895,7 +4895,7 @@
    "pm10": 96,
    "monitors-pm10": 2,
    "readings-pm10": "238",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2018
@@ -4921,7 +4921,7 @@
    "pm10": 214,
    "monitors-pm10": 2,
    "readings-pm10": "171",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2018
@@ -4947,7 +4947,7 @@
    "pm10": 177,
    "monitors-pm10": 2,
    "readings-pm10": "113",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2018
@@ -4960,7 +4960,7 @@
    "pm10": 227,
    "monitors-pm10": 2,
    "readings-pm10": "195",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2018
@@ -4986,7 +4986,7 @@
    "pm10": 141,
    "monitors-pm10": 3,
    "readings-pm10": "210",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2018
@@ -4999,7 +4999,7 @@
    "pm10": 190,
    "monitors-pm10": 5,
    "readings-pm10": "283",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2018
@@ -5012,7 +5012,7 @@
    "pm10": 217,
    "monitors-pm10": 3,
    "readings-pm10": "180",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2018
@@ -5025,7 +5025,7 @@
    "pm10": 105,
    "monitors-pm10": 1,
    "readings-pm10": "96",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2018
@@ -5038,7 +5038,7 @@
    "pm10": 133,
    "monitors-pm10": 1,
    "readings-pm10": "83",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2018
@@ -5087,10 +5087,10 @@
    "srno": 128,
    "state": "West Bengal",
    "city": "Faridabad",
-   "pm10": 0,
+   "pm10": null,
    "monitors-pm10": 0,
    "readings-pm10": "0",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2018
@@ -5142,7 +5142,7 @@
    "pm10": 147,
    "monitors-pm10": 3,
    "readings-pm10": "312",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2018
@@ -5337,7 +5337,7 @@
    "pm10": 105,
    "monitors-pm10": 1,
    "readings-pm10": "97",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2019
@@ -5350,7 +5350,7 @@
    "pm10": 87,
    "monitors-pm10": 1,
    "readings-pm10": "77",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2019
@@ -5363,7 +5363,7 @@
    "pm10": 56,
    "monitors-pm10": 2,
    "readings-pm10": "205",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2019
@@ -5376,7 +5376,7 @@
    "pm10": 47,
    "monitors-pm10": 2,
    "readings-pm10": "149",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2019
@@ -5389,7 +5389,7 @@
    "pm10": 152,
    "monitors-pm10": 1,
    "readings-pm10": "104",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2019
@@ -5415,7 +5415,7 @@
    "pm10": 71,
    "monitors-pm10": 2,
    "readings-pm10": "134",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2019
@@ -5467,7 +5467,7 @@
    "pm10": 69,
    "monitors-pm10": 2,
    "readings-pm10": "185",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2019
@@ -5545,7 +5545,7 @@
    "pm10": 148,
    "monitors-pm10": 3,
    "readings-pm10": "277",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2019
@@ -5584,7 +5584,7 @@
    "pm10": 125,
    "monitors-pm10": 1,
    "readings-pm10": "120",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2019
@@ -5649,7 +5649,7 @@
    "pm10": 132,
    "monitors-pm10": 3,
    "readings-pm10": "160",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2019
@@ -5662,7 +5662,7 @@
    "pm10": 237,
    "monitors-pm10": 3,
    "readings-pm10": "278",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2019
@@ -5675,7 +5675,7 @@
    "pm10": 139,
    "monitors-pm10": 2,
    "readings-pm10": "184",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2019
@@ -5688,7 +5688,7 @@
    "pm10": 109,
    "monitors-pm10": 1,
    "readings-pm10": "96",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2019
@@ -5805,7 +5805,7 @@
    "pm10": 78,
    "monitors-pm10": 2,
    "readings-pm10": "202",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2019
@@ -5844,7 +5844,7 @@
    "pm10": 69,
    "monitors-pm10": 3,
    "readings-pm10": "427",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2019
@@ -5857,7 +5857,7 @@
    "pm10": 90,
    "monitors-pm10": 3,
    "readings-pm10": "461",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2019
@@ -5870,7 +5870,7 @@
    "pm10": 74,
    "monitors-pm10": 3,
    "readings-pm10": "350",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2019
@@ -5883,7 +5883,7 @@
    "pm10": 108,
    "monitors-pm10": 1,
    "readings-pm10": "187",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2019
@@ -5896,7 +5896,7 @@
    "pm10": 133,
    "monitors-pm10": 6,
    "readings-pm10": "651",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2019
@@ -5909,7 +5909,7 @@
    "pm10": 60,
    "monitors-pm10": 3,
    "readings-pm10": "420",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2019
@@ -5922,7 +5922,7 @@
    "pm10": 97,
    "monitors-pm10": 2,
    "readings-pm10": "276",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2019
@@ -5935,7 +5935,7 @@
    "pm10": 85,
    "monitors-pm10": 3,
    "readings-pm10": "431",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2019
@@ -5948,7 +5948,7 @@
    "pm10": 86,
    "monitors-pm10": 3,
    "readings-pm10": "515",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2019
@@ -5987,7 +5987,7 @@
    "pm10": 63,
    "monitors-pm10": 4,
    "readings-pm10": "781",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2019
@@ -6000,7 +6000,7 @@
    "pm10": 54,
    "monitors-pm10": 6,
    "readings-pm10": "1000",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2019
@@ -6013,7 +6013,7 @@
    "pm10": 143,
    "monitors-pm10": 3,
    "readings-pm10": "208",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2019
@@ -6026,7 +6026,7 @@
    "pm10": 67,
    "monitors-pm10": 3,
    "readings-pm10": "488",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2019
@@ -6039,7 +6039,7 @@
    "pm10": 74,
    "monitors-pm10": 2,
    "readings-pm10": "246",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2019
@@ -6052,7 +6052,7 @@
    "pm10": 95,
    "monitors-pm10": 3,
    "readings-pm10": "145",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2019
@@ -6065,7 +6065,7 @@
    "pm10": 129,
    "monitors-pm10": 2,
    "readings-pm10": "206",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2019
@@ -6075,10 +6075,10 @@
    "srno": 72,
    "state": "Maharashtra",
    "city": "Vasai-Virar",
-   "pm10": 0,
+   "pm10": null,
    "monitors-pm10": 0,
    "readings-pm10": "0",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2019
@@ -6104,7 +6104,7 @@
    "pm10": 77,
    "monitors-pm10": 7,
    "readings-pm10": "610",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2019
@@ -6117,7 +6117,7 @@
    "pm10": 95,
    "monitors-pm10": 2,
    "readings-pm10": "259",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2019
@@ -6182,7 +6182,7 @@
    "pm10": 106,
    "monitors-pm10": 2,
    "readings-pm10": "132",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2019
@@ -6221,7 +6221,7 @@
    "pm10": 102,
    "monitors-pm10": 2,
    "readings-pm10": "122",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2019
@@ -6234,7 +6234,7 @@
    "pm10": 153,
    "monitors-pm10": 1,
    "readings-pm10": "68",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2019
@@ -6247,7 +6247,7 @@
    "pm10": 170,
    "monitors-pm10": 2,
    "readings-pm10": "220",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2019
@@ -6260,7 +6260,7 @@
    "pm10": 70,
    "monitors-pm10": 3,
    "readings-pm10": "391",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2019
@@ -6273,7 +6273,7 @@
    "pm10": 98,
    "monitors-pm10": 4,
    "readings-pm10": "276",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2019
@@ -6286,7 +6286,7 @@
    "pm10": 142,
    "monitors-pm10": 2,
    "readings-pm10": "231",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2019
@@ -6299,7 +6299,7 @@
    "pm10": 137,
    "monitors-pm10": 4,
    "readings-pm10": "522",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2019
@@ -6312,7 +6312,7 @@
    "pm10": 165,
    "monitors-pm10": 2,
    "readings-pm10": "201",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2019
@@ -6325,7 +6325,7 @@
    "pm10": 91,
    "monitors-pm10": 2,
    "readings-pm10": "263",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2019
@@ -6338,7 +6338,7 @@
    "pm10": 172,
    "monitors-pm10": 3,
    "readings-pm10": "306",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2019
@@ -6351,7 +6351,7 @@
    "pm10": 141,
    "monitors-pm10": 9,
    "readings-pm10": "933",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2019
@@ -6364,7 +6364,7 @@
    "pm10": 240,
    "monitors-pm10": 9,
    "readings-pm10": "644",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2019
@@ -6377,7 +6377,7 @@
    "pm10": 129,
    "monitors-pm10": 6,
    "readings-pm10": "626",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2019
@@ -6390,7 +6390,7 @@
    "pm10": 156,
    "monitors-pm10": 3,
    "readings-pm10": "312",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2019
@@ -6520,7 +6520,7 @@
    "pm10": 222,
    "monitors-pm10": 5,
    "readings-pm10": "490",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2019
@@ -6533,7 +6533,7 @@
    "pm10": 171,
    "monitors-pm10": 2,
    "readings-pm10": "204",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2019
@@ -6559,7 +6559,7 @@
    "pm10": 214,
    "monitors-pm10": 3,
    "readings-pm10": "309",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2019
@@ -6572,7 +6572,7 @@
    "pm10": 229,
    "monitors-pm10": 2,
    "readings-pm10": "183",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2019
@@ -6598,7 +6598,7 @@
    "pm10": 163,
    "monitors-pm10": 3,
    "readings-pm10": "286",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2019
@@ -6611,7 +6611,7 @@
    "pm10": 295,
    "monitors-pm10": 2,
    "readings-pm10": "234",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2019
@@ -6637,7 +6637,7 @@
    "pm10": 198,
    "monitors-pm10": 2,
    "readings-pm10": "195",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2019
@@ -6650,7 +6650,7 @@
    "pm10": 195,
    "monitors-pm10": 8,
    "readings-pm10": "1831",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2019
@@ -6663,7 +6663,7 @@
    "pm10": 184,
    "monitors-pm10": 2,
    "readings-pm10": "118",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2019
@@ -6676,7 +6676,7 @@
    "pm10": 208,
    "monitors-pm10": 2,
    "readings-pm10": "181",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2019
@@ -6702,7 +6702,7 @@
    "pm10": 240,
    "monitors-pm10": 3,
    "readings-pm10": "162",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2019
@@ -6715,7 +6715,7 @@
    "pm10": 212,
    "monitors-pm10": 5,
    "readings-pm10": "561",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2019
@@ -6728,7 +6728,7 @@
    "pm10": 137,
    "monitors-pm10": 3,
    "readings-pm10": "207",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2019
@@ -6741,7 +6741,7 @@
    "pm10": 168,
    "monitors-pm10": 1,
    "readings-pm10": "70",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2019
@@ -6754,7 +6754,7 @@
    "pm10": 132,
    "monitors-pm10": 1,
    "readings-pm10": "82",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2019
@@ -6790,7 +6790,7 @@
    "srno": 127,
    "state": "West Bengal",
    "city": "Durgapur",
-   "pm10": 0,
+   "pm10": null,
    "monitors-pm10": 4,
    "readings-pm10": "415",
    "pm25": 73,
@@ -6806,7 +6806,7 @@
    "pm10": 104,
    "monitors-pm10": 0,
    "readings-pm10": "0",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2019
@@ -6858,7 +6858,7 @@
    "pm10": 186,
    "monitors-pm10": 3,
    "readings-pm10": "312",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "0",
    "year": 2019
@@ -6897,7 +6897,7 @@
    "pm10": 60,
    "monitors-pm10": 3,
    "readings-pm10": "-",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "-",
    "year": 2020
@@ -6923,7 +6923,7 @@
    "pm10": 46,
    "monitors-pm10": 5,
    "readings-pm10": "-",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "-",
    "year": 2020
@@ -6975,7 +6975,7 @@
    "pm10": 58,
    "monitors-pm10": 3,
    "readings-pm10": "-",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "-",
    "year": 2020
@@ -7053,7 +7053,7 @@
    "pm10": 74,
    "monitors-pm10": 1,
    "readings-pm10": "-",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "-",
    "year": 2020
@@ -7066,7 +7066,7 @@
    "pm10": 54,
    "monitors-pm10": 1,
    "readings-pm10": "-",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "-",
    "year": 2020
@@ -7079,7 +7079,7 @@
    "pm10": 49,
    "monitors-pm10": 2,
    "readings-pm10": "-",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "-",
    "year": 2020
@@ -7092,7 +7092,7 @@
    "pm10": 43,
    "monitors-pm10": 2,
    "readings-pm10": "-",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "-",
    "year": 2020
@@ -7102,10 +7102,10 @@
    "srno": 19,
    "state": "Bihar",
    "city": "Gaya",
-   "pm10": 0,
+   "pm10": null,
    "monitors-pm10": 0,
    "readings-pm10": "-",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "-",
    "year": 2020
@@ -7115,10 +7115,10 @@
    "srno": 20,
    "state": "Bihar",
    "city": "Muzaffarpur",
-   "pm10": 0,
+   "pm10": null,
    "monitors-pm10": 0,
    "readings-pm10": "-",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "-",
    "year": 2020
@@ -7131,7 +7131,7 @@
    "pm10": 146,
    "monitors-pm10": 2,
    "readings-pm10": "-",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "-",
    "year": 2020
@@ -7183,7 +7183,7 @@
    "pm10": 53,
    "monitors-pm10": 2,
    "readings-pm10": "-",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "-",
    "year": 2020
@@ -7261,7 +7261,7 @@
    "pm10": 108,
    "monitors-pm10": 1,
    "readings-pm10": "-",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "-",
    "year": 2020
@@ -7274,7 +7274,7 @@
    "pm10": 59,
    "monitors-pm10": 2,
    "readings-pm10": "-",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "-",
    "year": 2020
@@ -7300,7 +7300,7 @@
    "pm10": 86,
    "monitors-pm10": 1,
    "readings-pm10": "-",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "-",
    "year": 2020
@@ -7339,7 +7339,7 @@
    "pm10": 49,
    "monitors-pm10": 2,
    "readings-pm10": "-",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "-",
    "year": 2020
@@ -7365,7 +7365,7 @@
    "pm10": 155,
    "monitors-pm10": 3,
    "readings-pm10": "-",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "-",
    "year": 2020
@@ -7378,7 +7378,7 @@
    "pm10": 182,
    "monitors-pm10": 3,
    "readings-pm10": "-",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "-",
    "year": 2020
@@ -7391,7 +7391,7 @@
    "pm10": 104,
    "monitors-pm10": 2,
    "readings-pm10": "-",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "-",
    "year": 2020
@@ -7404,7 +7404,7 @@
    "pm10": 106,
    "monitors-pm10": 1,
    "readings-pm10": "-",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "-",
    "year": 2020
@@ -7417,7 +7417,7 @@
    "pm10": 67,
    "monitors-pm10": 7,
    "readings-pm10": "-",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "-",
    "year": 2020
@@ -7443,7 +7443,7 @@
    "pm10": 81,
    "monitors-pm10": 1,
    "readings-pm10": "-",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "-",
    "year": 2020
@@ -7469,7 +7469,7 @@
    "pm10": 158,
    "monitors-pm10": 4,
    "readings-pm10": "-",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "-",
    "year": 2020
@@ -7560,7 +7560,7 @@
    "pm10": 56,
    "monitors-pm10": 3,
    "readings-pm10": "-",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "-",
    "year": 2020
@@ -7573,7 +7573,7 @@
    "pm10": 64,
    "monitors-pm10": 3,
    "readings-pm10": "-",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "-",
    "year": 2020
@@ -7586,7 +7586,7 @@
    "pm10": 74,
    "monitors-pm10": 3,
    "readings-pm10": "-",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "-",
    "year": 2020
@@ -7599,7 +7599,7 @@
    "pm10": 64,
    "monitors-pm10": 1,
    "readings-pm10": "-",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "-",
    "year": 2020
@@ -7612,7 +7612,7 @@
    "pm10": 135,
    "monitors-pm10": 5,
    "readings-pm10": "-",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "-",
    "year": 2020
@@ -7625,7 +7625,7 @@
    "pm10": 52,
    "monitors-pm10": 3,
    "readings-pm10": "-",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "-",
    "year": 2020
@@ -7638,7 +7638,7 @@
    "pm10": 82,
    "monitors-pm10": 2,
    "readings-pm10": "-",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "-",
    "year": 2020
@@ -7651,7 +7651,7 @@
    "pm10": 87,
    "monitors-pm10": 3,
    "readings-pm10": "-",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "-",
    "year": 2020
@@ -7664,7 +7664,7 @@
    "pm10": 58,
    "monitors-pm10": 3,
    "readings-pm10": "-",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "-",
    "year": 2020
@@ -7674,10 +7674,10 @@
    "srno": 63,
    "state": "Maharashtra",
    "city": "Mumbai",
-   "pm10": 0,
+   "pm10": null,
    "monitors-pm10": 0,
    "readings-pm10": "-",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "-",
    "year": 2020
@@ -7690,7 +7690,7 @@
    "pm10": 93,
    "monitors-pm10": 4,
    "readings-pm10": "-",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "-",
    "year": 2020
@@ -7703,7 +7703,7 @@
    "pm10": 38,
    "monitors-pm10": 4,
    "readings-pm10": "-",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "-",
    "year": 2020
@@ -7716,7 +7716,7 @@
    "pm10": 50,
    "monitors-pm10": 6,
    "readings-pm10": "-",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "-",
    "year": 2020
@@ -7729,7 +7729,7 @@
    "pm10": 106,
    "monitors-pm10": 3,
    "readings-pm10": "-",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "-",
    "year": 2020
@@ -7742,7 +7742,7 @@
    "pm10": 71,
    "monitors-pm10": 3,
    "readings-pm10": "-",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "-",
    "year": 2020
@@ -7755,7 +7755,7 @@
    "pm10": 60,
    "monitors-pm10": 2,
    "readings-pm10": "-",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "-",
    "year": 2020
@@ -7768,7 +7768,7 @@
    "pm10": 83,
    "monitors-pm10": 3,
    "readings-pm10": "-",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "-",
    "year": 2020
@@ -7781,7 +7781,7 @@
    "pm10": 64,
    "monitors-pm10": 2,
    "readings-pm10": "-",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "-",
    "year": 2020
@@ -7791,10 +7791,10 @@
    "srno": 72,
    "state": "Maharashtra",
    "city": "Vasai-Virar",
-   "pm10": 0,
+   "pm10": null,
    "monitors-pm10": 0,
    "readings-pm10": "-",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "-",
    "year": 2020
@@ -7820,7 +7820,7 @@
    "pm10": 78,
    "monitors-pm10": 7,
    "readings-pm10": "-",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "-",
    "year": 2020
@@ -7833,7 +7833,7 @@
    "pm10": 86,
    "monitors-pm10": 2,
    "readings-pm10": "-",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "-",
    "year": 2020
@@ -7872,7 +7872,7 @@
    "pm10": 80,
    "monitors-pm10": 4,
    "readings-pm10": "-",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "-",
    "year": 2020
@@ -7898,7 +7898,7 @@
    "pm10": 112,
    "monitors-pm10": 2,
    "readings-pm10": "-",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "-",
    "year": 2020
@@ -7937,7 +7937,7 @@
    "pm10": 166,
    "monitors-pm10": 2,
    "readings-pm10": "-",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "-",
    "year": 2020
@@ -7950,7 +7950,7 @@
    "pm10": 68,
    "monitors-pm10": 1,
    "readings-pm10": "-",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "-",
    "year": 2020
@@ -7963,7 +7963,7 @@
    "pm10": 102,
    "monitors-pm10": 2,
    "readings-pm10": "-",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "-",
    "year": 2020
@@ -7976,7 +7976,7 @@
    "pm10": 109,
    "monitors-pm10": 3,
    "readings-pm10": "-",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "-",
    "year": 2020
@@ -7989,7 +7989,7 @@
    "pm10": 166,
    "monitors-pm10": 4,
    "readings-pm10": "-",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "-",
    "year": 2020
@@ -7999,10 +7999,10 @@
    "srno": 88,
    "state": "Punjab",
    "city": "Khanna",
-   "pm10": 0,
+   "pm10": null,
    "monitors-pm10": 0,
    "readings-pm10": "-",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "-",
    "year": 2020
@@ -8015,7 +8015,7 @@
    "pm10": 161,
    "monitors-pm10": 4,
    "readings-pm10": "-",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "-",
    "year": 2020
@@ -8028,7 +8028,7 @@
    "pm10": 100,
    "monitors-pm10": 2,
    "readings-pm10": "-",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "-",
    "year": 2020
@@ -8041,7 +8041,7 @@
    "pm10": 101,
    "monitors-pm10": 2,
    "readings-pm10": "-",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "-",
    "year": 2020
@@ -8054,7 +8054,7 @@
    "pm10": 162,
    "monitors-pm10": 3,
    "readings-pm10": "-",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "-",
    "year": 2020
@@ -8067,7 +8067,7 @@
    "pm10": 132,
    "monitors-pm10": 9,
    "readings-pm10": "-",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "-",
    "year": 2020
@@ -8080,7 +8080,7 @@
    "pm10": 160,
    "monitors-pm10": 9,
    "readings-pm10": "-",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "-",
    "year": 2020
@@ -8093,7 +8093,7 @@
    "pm10": 104,
    "monitors-pm10": 5,
    "readings-pm10": "-",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "-",
    "year": 2020
@@ -8106,7 +8106,7 @@
    "pm10": 139,
    "monitors-pm10": 3,
    "readings-pm10": "-",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "-",
    "year": 2020
@@ -8132,7 +8132,7 @@
    "pm10": 57,
    "monitors-pm10": 3,
    "readings-pm10": "-",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "-",
    "year": 2020
@@ -8158,7 +8158,7 @@
    "pm10": 73,
    "monitors-pm10": 3,
    "readings-pm10": "-",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "-",
    "year": 2020
@@ -8171,7 +8171,7 @@
    "pm10": 98,
    "monitors-pm10": 7,
    "readings-pm10": "-",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "-",
    "year": 2020
@@ -8184,7 +8184,7 @@
    "pm10": 55,
    "monitors-pm10": 2,
    "readings-pm10": "-",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "-",
    "year": 2020
@@ -8194,10 +8194,10 @@
    "srno": 103,
    "state": "Telangana",
    "city": "Patancheru",
-   "pm10": 0,
+   "pm10": null,
    "monitors-pm10": 0,
    "readings-pm10": "-",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "-",
    "year": 2020
@@ -8236,7 +8236,7 @@
    "pm10": 180,
    "monitors-pm10": 5,
    "readings-pm10": "-",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "-",
    "year": 2020
@@ -8249,7 +8249,7 @@
    "pm10": 147,
    "monitors-pm10": 2,
    "readings-pm10": "-",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "-",
    "year": 2020
@@ -8275,7 +8275,7 @@
    "pm10": 180,
    "monitors-pm10": 3,
    "readings-pm10": "-",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "-",
    "year": 2020
@@ -8288,7 +8288,7 @@
    "pm10": 165,
    "monitors-pm10": 2,
    "readings-pm10": "-",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "-",
    "year": 2020
@@ -8314,7 +8314,7 @@
    "pm10": 181,
    "monitors-pm10": 3,
    "readings-pm10": "-",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "-",
    "year": 2020
@@ -8327,7 +8327,7 @@
    "pm10": 97,
    "monitors-pm10": 2,
    "readings-pm10": "-",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "-",
    "year": 2020
@@ -8353,7 +8353,7 @@
    "pm10": 199,
    "monitors-pm10": 1,
    "readings-pm10": "-",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "-",
    "year": 2020
@@ -8366,7 +8366,7 @@
    "pm10": 187,
    "monitors-pm10": 8,
    "readings-pm10": "-",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "-",
    "year": 2020
@@ -8376,10 +8376,10 @@
    "srno": 117,
    "state": "Uttar Pradesh",
    "city": "Meerut",
-   "pm10": 0,
+   "pm10": null,
    "monitors-pm10": 0,
    "readings-pm10": "-",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "-",
    "year": 2020
@@ -8392,7 +8392,7 @@
    "pm10": 217,
    "monitors-pm10": 2,
    "readings-pm10": "-",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "-",
    "year": 2020
@@ -8418,7 +8418,7 @@
    "pm10": 110,
    "monitors-pm10": 3,
    "readings-pm10": "-",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "-",
    "year": 2020
@@ -8431,7 +8431,7 @@
    "pm10": 145,
    "monitors-pm10": 5,
    "readings-pm10": "-",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "-",
    "year": 2020
@@ -8457,7 +8457,7 @@
    "pm10": 121,
    "monitors-pm10": 1,
    "readings-pm10": "-",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "-",
    "year": 2020
@@ -8470,7 +8470,7 @@
    "pm10": 112,
    "monitors-pm10": 1,
    "readings-pm10": "-",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "-",
    "year": 2020
@@ -8519,10 +8519,10 @@
    "srno": 128,
    "state": "West Bengal",
    "city": "Faridabad",
-   "pm10": 0,
+   "pm10": null,
    "monitors-pm10": 0,
    "readings-pm10": "-",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "-",
    "year": 2020
@@ -8574,7 +8574,7 @@
    "pm10": 114,
    "monitors-pm10": 3,
    "readings-pm10": "-",
-   "pm25": 0,
+   "pm25": null,
    "monitors-pm25": 0,
    "readings-pm25": "-",
    "year": 2020
