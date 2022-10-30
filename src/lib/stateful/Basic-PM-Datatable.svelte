@@ -14,7 +14,7 @@
     $: pmFilteredByYear.set(dtData)
     let dtSelectedRowIds = [];
     let filteredRowIds = []; // final datatable "row id"s after search filter
-    let pageSize = 20;  
+    let pageSize = 22;  
     let page = 1;   
 
     onMount(async () => {

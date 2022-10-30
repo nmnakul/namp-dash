@@ -10,6 +10,7 @@
     import BasicPmDatatable from "./lib/stateful/Basic-PM-Datatable.svelte";
     import GraphPMDatatable from "./lib/stateful/Graph-PM-Datatable.svelte";
     import YearCompare from "./lib/stateful/Year-Compare.svelte";
+    import GraphYearAndAccuracy from "./lib/stateful/Graph-Year-And-Accuracy.svelte";
 </script>
 
   <style>
@@ -36,7 +37,8 @@
                     <YearCompare PMSelected='PM-2.5' fetchUrl='./assets/namp-pm25-dataset.json'></YearCompare>
                 </TabContent>
             </svelte:fragment>
-          </Tabs>
+        </Tabs>
+        <GraphYearAndAccuracy></GraphYearAndAccuracy>
       </body>
   </AspectRatio>
 </main>
