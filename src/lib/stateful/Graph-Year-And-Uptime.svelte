@@ -6,6 +6,13 @@
     items={cities}
     />
 </section>
+<section>
+    <div class="chartCard">
+        <div class="chartBox">
+            <canvas id="myChart" bind:this={chartCanvas}></canvas>
+        </div>
+    </div>
+</section>
 
 <script>
     import { Chart, LineController, registerables } from 'chart.js';
@@ -13,14 +20,19 @@
     import { onMount } from 'svelte';
     import { ComboBox, Button } from "carbon-components-svelte";
 
-    let selectedId = "1";
-    let cities = [];
+    let selectedId;
+    let cities;
+    let chartCanvas;
     
     onMount(async () => {
       const response = await fetch('./assets/cities-dataset.json');
       let data = await response.json();
       cities = data;
+      selectedId = 1;
+      console.log(cities)
     });
+    
+
 
 </script>
 

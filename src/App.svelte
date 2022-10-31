@@ -10,7 +10,6 @@
     import BasicPmDatatable from "./lib/stateful/Basic-PM-Datatable.svelte";
     import GraphPMDatatable from "./lib/stateful/Graph-PM-Datatable.svelte";
     import YearCompare from "./lib/stateful/Year-Compare.svelte";
-    import GraphYearAndAccuracy from "./lib/stateful/Graph-Year-And-Accuracy.svelte";
 </script>
 
   <style>
@@ -38,7 +37,6 @@
                 </TabContent>
             </svelte:fragment>
         </Tabs>
-        <GraphYearAndAccuracy></GraphYearAndAccuracy>
       </body>
   </AspectRatio>
 </main>

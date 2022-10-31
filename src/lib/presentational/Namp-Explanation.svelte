@@ -35,13 +35,13 @@
 </style>
 
 <section>
-    <h1>AIR QUALITY TRENDS IN 122 CITIES FROM NAMP MANUAL MONITORS</h1>
+    <h1>AIR QUALITY TRENDS IN 132 CITIES FROM NAMP MANUAL MONITORS</h1>
 <Accordion align="start">
     <AccordionItem title="What is the NAMP Program?" open={true}>
         <!-- <div> -->
             <!-- <h2>What is the NAMP Program ?</h2> -->
             <p><i class="fa-solid fa-circle-arrow-up"></i>In order to determine status and trends of ambient air quality, ascertain whether prescribed ambient air quality standards are being violated, and to identify which cities have pollution concentration consistently below the national ambient standards, India needs a regulatory monitoring mechanism.</p>
-            <p>The National Air Quality Monitoring Programme (NAMP) network consists of 793 operating stations covering 344 cities/towns in 29 states and 6 Union Territories of the country.</p>
+            <p>The National Air Quality Monitoring Programme (NAMP) network consists of 804 operating stations covering 344 cities/towns in 28 states and 6 Union Territories of the country.</p>
             <p>Under NAMP, four pollutants – Sulphur dioxide (So2), nitrogen dioxide (No2), suspended particulate matter (SPM), and respirable suspended particulate matter (RSPM) have been identified as key pollutants for regular monitoring.</p>
             <p>As for manual monitors, air quality is monitored for 24 hours (4-hourly sampling for gaseous pollutants and 8-hourly sampling for particulate matter) with a frequency of twice a week, to have one hundred and four (104) observations in a year. The monitoring is being carried out by state pollution control boards and the National Environmental Engineering Research Institute (NEERI), Nagpur and overseen by pollution control committees, CPCB and now by the Union environment ministry under the National Clean Air Program (NCAP).</p>
         <!-- </div> -->
@@ -50,7 +50,7 @@
         <!-- <div> -->
             <!-- <h2>Why NAMP ?</h2> -->
             <p>The Central Pollution Control Board had started the National Ambient Air Quality Monitoring (NAAQM) Network during 1984 - 85 at the national level. The program was later renamed as National Air Quality Monitoring Programme (NAMP) wherein ambient air quality monitoring is carried out so as to generate data that meets the objectives of monitoring. </p>
-            <p>Air quality monitoring in India was first started with manual monitoring under the NAMP program that included analytical quality control and followed basic monitoring guidelines and calibration methods set by the government. However, there are quite a few draw backs (error ranges, inconsistent power supply, lengthy sampling duration) for this method against real-time or low-cost sensor based air monitoring but it is one of the most expensive and trusted methods used by all state pollution control boards for air monitoring. For this reason, AQ data for all 122 NCAP cities have been collated under one dashboard.</p>
+            <p>Air quality monitoring in India was first started with manual monitoring under the NAMP program that included analytical quality control and followed basic monitoring guidelines and calibration methods set by the government. However, there are quite a few draw backs (error ranges, inconsistent power supply, lengthy sampling duration) for this method against real-time or low-cost sensor based air monitoring but it is one of the most expensive and trusted methods used by all state pollution control boards for air monitoring. For this reason, AQ data for all 132 NCAP cities have been collated under one dashboard.</p>
         <!-- </div> -->
     </AccordionItem>
     <AccordionItem title="Manual Monitoring Stations">

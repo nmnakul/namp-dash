@@ -66,7 +66,7 @@
   -->
   <DataTable
     title="National Air Quality Monitoring Programme Data"
-    description="Contains entire NAMP data from 2016 omwards till the lastest data sheet shared on the CPCB website. Data sorted by PM-10."
+    description="Contains entire NAMP data from 2016 omwards till the lastest data sheet shared on the CPCB website. Data sortable using headers."
     sortable
     zebra
     headers={[  
@@ -104,7 +104,7 @@
               (row.year < 2020 && cell.key == "readings-pm10" && Number(cell.value) > Number(row[`monitors-pm10`])*104)}
               <div class="w-8">{cell.value}</div>
               <div class="text-black">
-                <SvelteTooltip tip={ Math.floor((cell.value/(Number(row[`monitors-pm10`])*104))*100)+ "% Accuracy > Ideal Avg. : " + Number(row[`monitors-pm10`])*104} right color="#C3BF6D">
+                <SvelteTooltip tip={ Math.floor((cell.value/(Number(row[`monitors-pm10`])*104))*100)+ "% Uptime > Ideal Avg. : " + Number(row[`monitors-pm10`])*104} right color="#C3BF6D">
                   <div style="font-size: 1rem; color: forestgreen; padding: 0 5px;"><Fa icon={faCircleArrowUp} /></div>
                 </SvelteTooltip>
               </div>
@@ -113,7 +113,7 @@
               (row.year < 2020 && cell.key == "readings-pm25" && Number(cell.value) > Number(row[`monitors-pm25`])*104)}
               <div class="w-8">{cell.value}</div>
               <div class="text-black">
-                <SvelteTooltip tip={ Math.floor((cell.value/(Number(row[`monitors-pm25`])*104))*100)+ "% Accuracy > Ideal Avg. : " + Number(row[`monitors-pm25`])*104} left color="#C3BF6D">
+                <SvelteTooltip tip={ Math.floor((cell.value/(Number(row[`monitors-pm25`])*104))*100)+ "% Uptime > Ideal Avg. : " + Number(row[`monitors-pm25`])*104} left color="#C3BF6D">
                   <div style="font-size: 1rem; color: forestgreen; padding: 0 5px;"><Fa icon={faCircleArrowUp} /></div>
                 </SvelteTooltip>
               </div>
@@ -122,7 +122,7 @@
               (row.year < 2020 && cell.key == "readings-pm10" && Number(cell.value) < Number(row[`monitors-pm10`])*104)}
               <div class="w-8">{cell.value}</div>
               <div class="text-white">
-                <SvelteTooltip tip={ Math.floor((cell.value/(Number(row[`monitors-pm10`])*104))*100)+ "% Accuracy < Ideal Avg. : " + Number(row[`monitors-pm10`])*104} right color="#DD7373">
+                <SvelteTooltip tip={ Math.floor((cell.value/(Number(row[`monitors-pm10`])*104))*100)+ "% Uptime < Ideal Avg. : " + Number(row[`monitors-pm10`])*104} right color="#DD7373">
                   <div style="font-size: 1rem; color: tomato; padding: 0 5px;"><Fa icon={faCircleArrowDown}/></div>
                 </SvelteTooltip>
               </div>
@@ -131,7 +131,7 @@
               (row.year < 2020 && cell.key == "readings-pm25" && Number(cell.value) < Number(row[`monitors-pm25`])*104)}
               <div class="w-8">{cell.value}</div>
               <div class="text-white">
-                <SvelteTooltip tip={ Math.floor((cell.value/(Number(row[`monitors-pm25`])*104))*100)+ "% Accuracy < Ideal Avg. : " + Number(row[`monitors-pm25`])*104} left color="#DD7373">
+                <SvelteTooltip tip={ Math.floor((cell.value/(Number(row[`monitors-pm25`])*104))*100)+ "% Uptime < Ideal Avg. : " + Number(row[`monitors-pm25`])*104} left color="#DD7373">
                   <div style="font-size: 1rem; color: tomato; padding: 0 5px;"><Fa icon={faCircleArrowDown}/></div>
                 </SvelteTooltip>
               </div>

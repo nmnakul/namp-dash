@@ -1,5 +1,15 @@
 <section>
     <div class="chartCard">
+        <div id="chartLegend" class="flex justify-center">
+            <div class="p-1 w-24" style="background-color: rgba(255, 99, 132, 0.8)">
+                <Checkbox labelText="PM-10" checked={true}
+                on:change={()=>{myChart.isDatasetVisible(0) ? myChart.hide(0) : myChart.show(0)}}/>
+            </div>
+            <div class="p-1 w-24" style="background-color: rgba(255, 159, 64, 0.8)">
+                <Checkbox labelText="PM-2.5" checked={true} 
+                on:change={()=>{myChart.isDatasetVisible(1) ? myChart.hide(1) : myChart.show(1)}}/>
+            </div>
+        </div>
         <div class="chartBox">
             <canvas id="myChart" bind:this={chartCanvas}></canvas>
         </div>
@@ -18,7 +28,7 @@
     Chart.register(...registerables);
     import { pmFilteredByDataTable, selectedYear } from '../../store.js';
     import { onMount } from 'svelte';
-    import { Button } from "carbon-components-svelte";
+    import { Button, Checkbox } from "carbon-components-svelte";
 
     let chartCanvas;
     let myChart;
@@ -122,6 +132,9 @@
                         }
                     }, // end transitions
                     plugins : {
+                        legend: {
+                            display: false
+                        },
                         tooltip:{
                             // Disable the on-canvas tooltip
                             enabled: false,
@@ -203,7 +216,8 @@
                 } // options end
         }); // chart element end
     });
-
+    
+    // PM10 is priority, then its PM2.5
     function sortByPM10(a, b) { 
       return b.pm10 - a.pm10 || b.pm25 - a.pm25;
     };
