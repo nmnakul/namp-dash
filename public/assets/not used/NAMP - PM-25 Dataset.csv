@@ -1,133 +1,133 @@
-id,state,city,2016,2017-gap,2017,2018-gap,2018,2019-gap,2019,2020-gap,2020
-1,Andhra Pradesh,Anantapur,,0,,34,34,-4,30,1,31
-2,Andhra Pradesh,Chitoor,,0,,27,27,-1,26,-8,18
-3,Andhra Pradesh,Eluru,,0,,0,,19,19,-19,
-4,Andhra Pradesh,Guntur,,0,,0,,23,23,1,24
-5,Andhra Pradesh,Kadapa,,0,,28,28,-2,26,-26,
-6,Andhra Pradesh,Kurnool,,0,,26,26,4,30,-5,25
-7,Andhra Pradesh,Nellore,,0,,34,34,-2,33,-6,27
-8,Andhra Pradesh,Ongole,,0,,0,,25,25,-5,20
-9,Andhra Pradesh,Rajahmundry,,0,,69,69,-35,34,-34,
-10,Andhra Pradesh,Srikakulam,,0,,0,,36,36,-2,34
-11,Andhra Pradesh,Vijaywada,,0,,30,30,-3,27,-5,22
-12,Andhra Pradesh,Vishakhapatnam,,0,,49,49,-16,33,-2,31
-13,Andhra Pradesh,Vizianagaram,,0,,0,,35,35,-11,24
-14,Assam,Guwahati,,0,,67,67,-40,27,26,53
-15,Assam,Nagaon,,0,,0,,0,,0,
-16,Assam,Nalbari,,0,,0,,0,,0,
-17,Assam,Sibsagar,,0,,0,,0,,0,
-18,Assam,Silchar,,0,,0,,0,,0,
-19,Bihar,Gaya,,0,,0,,0,,0,
-20,Bihar,Muzaffarpur,,89,89,-5,84,17,101,-101,
-21,Bihar,Patna,,0,,0,,0,,0,
-22,Chandigarh,Chandigarh,123,-60,64,-14,50,13,63,-3,60
-23,Chattisgarh,Durg-Bhillainagar,,0,,0,,42,42,-11,31
-24,Chattisgarh,Korba,,0,,19,19,11,30,-11,19
-25,Chattisgarh,Raipur,,0,,0,,0,,0,
-26,Delhi,Delhi,118,-17,101,20,121,-16,105,10,115
-27,Gujarat,Ahmedabad,34,4,38,35,73,-36,37,-9,28
-28,Gujarat,Rajkot,32,5,37,28,64,-29,35,-9,27
-29,Gujarat,Surat,31,4,35,21,56,-16,40,-3,37
-30,Gujarat,Vadodara,30,6,36,24,60,-23,37,-10,27
-31,Himachal Pradesh,Baddi,,0,,0,,0,,0,
-32,Himachal Pradesh,Damtal,,0,,26,26,-6,21,-21,
-33,Himachal Pradesh,Kala Amb,,0,,53,53,16,69,-32,37
-34,Himachal Pradesh,Nalagarh,,0,,0,,0,,0,
-35,Himachal Pradesh,Paonta Sahib,,0,,51,51,-12,39,0,39
-36,Himachal Pradesh,Parwanoo,,20,20,-7,13,6,19,-9,10
-37,Himachal Pradesh,Sunder Nagar,,41,41,6,47,-9,38,-38,
-38,Jammu & Kashmir,Jammu,,0,,45,45,-8,37,-4,33
-39,Jammu & Kashmir,Srinagar,,0,,0,,0,,0,
-40,Jharkhand,Dhanbad,,0,,0,,0,,0,
-41,Jharkhand,Jamshedpur,,0,,0,,0,,0,
-42,Jharkhand,Ranchi,,0,,0,,0,,0,
-43,Karnataka,Bangalore,51,-5,46,1,47,-15,32,-32,
-44,Karnataka,Devanagere,,22,22,-5,18,-2,16,-5,11
-45,Karnataka,Gulbarga,,0,,41,41,5,46,-46,
-46,Karnataka,Hubli-Dharwad,36,-1,35,-9,26,-4,22,-6,17
-47,Madhya Pradesh,Bhopal,27,15,42,17,59,-11,48,-48,
-48,Madhya Pradesh,Dewas,,0,,49,49,-3,46,-7,39
-49,Madhya Pradesh,Gwalior,52,-5,48,15,63,-5,58,-5,53
-50,Madhya Pradesh,Indore,53,-10,44,-2,41,-4,37,-4,33
-51,Madhya Pradesh,Jabalpur,32,-9,23,20,43,-43,,31,31
-52,Madhya Pradesh,Sagar,30,-5,25,5,30,-11,19,4,23
-53,Madhya Pradesh,Ujjain,44,-6,38,-3,34,4,39,-5,34
-54,Maharashtra,Akola,,0,,0,,0,,0,
-55,Maharashtra,Amravati,,0,,0,,0,,0,
-56,Maharashtra,Aurangabad,,0,,0,,0,,0,
-57,Maharashtra,Badlapur,,0,,0,,0,,0,
-58,Maharashtra,Chandrapur,,0,,0,,0,,0,
-59,Maharashtra,Jalgaon,,0,,0,,0,,0,
-60,Maharashtra,Jalna,,0,,0,,0,,0,
-61,Maharashtra,Kolhapur,,0,,0,,0,,0,
-62,Maharashtra,Latur,,0,,0,,0,,0,
-63,Maharashtra,Mumbai,,0,,46,46,-6,40,-40,
-64,Maharashtra,Nagpur,,0,,44,44,-5,39,-39,
-65,Maharashtra,Nashik,,0,,0,,0,,0,
-66,Maharashtra,Navi Mumbai,,0,,0,,0,,0,
-67,Maharashtra,Pune,,0,,0,,0,,0,
-68,Maharashtra,Sangli,,0,,0,,0,,0,
-69,Maharashtra,Solapur,,0,,0,,0,,0,
-70,Maharashtra,Thane,,0,,0,,0,,0,
-71,Maharashtra,Ulhasnagar,,0,,0,,0,,0,
-72,Maharashtra,Vasai-Virar,,0,,0,,0,,0,
-73,Meghalaya,Byrnihat,,0,,0,,7,7,31,38
-74,Nagaland,Dimapur,,0,,0,,0,,0,
-75,Nagaland,Kohima,,0,,0,,0,,0,
-76,Orissa,Angul,,46,46,4,50,-2,48,-12,36
-77,Orissa,Balasore,47,-2,45,2,47,-1,46,-6,40
-78,Orissa,Bhubaneswar,36,0,36,-4,32,-2,29,-29,
-79,Orissa,Cuttack,42,1,43,7,50,-3,47,-4,42
-80,Orissa,Kalinga Nagar,46,11,57,1,58,-58,,0,
-81,Orissa,Rourkela,45,-2,42,4,46,1,47,-13,34
-82,Orissa,Talcher,35,10,45,5,50,-4,47,-10,37
-83,Punjab,Amritsar,,0,,0,,0,,0,
-84,Punjab,Dera Baba Nanak,,0,,0,,0,,0,
-85,Punjab,Dera Bassi,,0,,0,,0,,0,
-86,Punjab,Gobindgarh,,0,,0,,0,,0,
-87,Punjab,Jalandhar,,0,,0,,0,,0,
-88,Punjab,Khanna,,0,,0,,0,,0,
-89,Punjab,Ludhiana,,0,,0,,0,,0,
-90,Punjab,Naya Nangal,,0,,0,,0,,0,
-91,Punjab,Patiala,,0,,0,,0,,0,
-92,Rajasthan,Alwar,,0,,0,,0,,0,
-93,Rajasthan,Jaipur,,0,,0,,0,,0,
-94,Rajasthan,Jodhpur,,0,,0,,0,,0,
-95,Rajasthan,Kota,,0,,0,,0,,0,
-96,Rajasthan,Udaipur,,0,,0,,0,,0,
-97,Tamil Nadu,Chennai,,32,32,2,34,2,36,-12,24
-98,Tamil Nadu,Madurai,,30,30,5,35,-3,32,-32,
-99,Tamil Nadu,Trichy,,0,,53,53,-7,46,-20,26
-100,Tamil Nadu,Tuticorin,,0,,25,25,-2,23,-23,
-101,Telangana,Hyderabad,49,4,54,1,55,-15,40,-40,
-102,Telangana,Nalgonda,35,1,36,13,49,-11,38,-38,
-103,Telangana,Patancheru,33,-2,31,6,37,4,41,-41,
-104,Telangana,Sangareddy,,37,37,3,39,4,44,-8,36
-105,Uttar Pradesh,Agra,,124,124,-18,106,4,110,2,112
-106,Uttar Pradesh,Allahabad,,0,,0,,0,,0,
-107,Uttar Pradesh,Anpara,,0,,0,,0,,0,
-108,Uttar Pradesh,Bareily,,0,,0,,28,28,-1,27
-109,Uttar Pradesh,Firozabad,,0,,0,,0,,0,
-110,Uttar Pradesh,Gajraula,,0,,0,,0,,0,
-111,Uttar Pradesh,Ghaziabad,,0,,103,103,16,119,-17,103
-112,Uttar Pradesh,Gorakhpur,,0,,0,,0,,0,
-113,Uttar Pradesh,Jhansi,,0,,0,,0,,0,
-114,Uttar Pradesh,Kanpur,,0,,83,83,-17,66,-26,40
-115,Uttar Pradesh,Khurja,,0,,0,,0,,0,
-116,Uttar Pradesh,Lucknow,,102,102,6,108,-108,,0,
-117,Uttar Pradesh,Meerut,,0,,0,,0,,0,
-118,Uttar Pradesh,Moradabad,,0,,0,,0,,0,
-119,Uttar Pradesh,Noida,,0,,119,119,-14,105,7,112
-120,Uttar Pradesh,Raebareli,,0,,0,,0,,0,
-121,Uttar Pradesh,Varanasi,,0,,0,,0,,0,
-122,Uttarakhand,Dehradun,,0,,0,,0,,82,82
-123,Uttarakhand,Kashipur,,0,,0,,0,,0,
-124,Uttarakhand,Rishikesh,,0,,0,,0,,0,
-125,West Bengal,Asansol,88,-21,67,-9,58,23,81,-16,65
-126,West Bengal,Barrackpore,58,-14,44,0,44,22,66,-17,49
-127,West Bengal,Durgapur,,69,69,2,71,2,73,-16,57
-128,West Bengal,Faridabad,,0,,0,,0,,0,
-129,West Bengal,Haldia,,35,35,-2,33,2,35,9,44
-130,West Bengal,Howrah,69,-2,67,30,97,-29,68,-3,66
-131,West Bengal,Kolkata,,71,71,16,86,-30,56,-4,52
-132,West Bengal,Raniganj,,0,,0,,0,,0,
+id,state,city,2016,2017-gap,2017,2018-gap,2018,2019-gap,2019,2020-gap,2020,2021-gap,2021
+1,Andhra Pradesh,Anantapur,,0,,34,34,-4,30,1,31,-1,30
+2,Andhra Pradesh,Chitoor,,0,,27,27,-1,26,-8,18,7,25
+3,Andhra Pradesh,Eluru,,0,,0,,19,19,-19,,30,30
+4,Andhra Pradesh,Guntur,,0,,0,,23,23,1,24,5,29
+5,Andhra Pradesh,Kadapa,,0,,28,28,-2,26,-26,,26,26
+6,Andhra Pradesh,Kurnool,,0,,26,26,4,30,-5,25,2,26
+7,Andhra Pradesh,Nellore,,0,,34,34,-2,33,-6,27,-4,23
+8,Andhra Pradesh,Ongole,,0,,0,,25,25,-5,20,-2,18
+9,Andhra Pradesh,Rajahmundry,,0,,69,69,-35,34,-34,,33,33
+10,Andhra Pradesh,Srikakulam,,0,,0,,36,36,-2,34,-7,27
+11,Andhra Pradesh,Vijaywada,,0,,30,30,-3,27,-5,22,12,34
+12,Andhra Pradesh,Vishakhapatnam,,0,,49,49,-16,33,-2,31,10,41
+13,Andhra Pradesh,Vizianagaram,,0,,0,,35,35,-11,24,3,27
+14,Assam,Guwahati,,0,,67,67,-40,27,26,53,7,60
+15,Assam,Nagaon,,0,,0,,0,,0,,0,
+16,Assam,Nalbari,,0,,0,,0,,0,,42,42
+17,Assam,Sibsagar,,0,,0,,0,,0,,0,
+18,Assam,Silchar,,0,,0,,0,,0,,37,37
+19,Bihar,Gaya,,0,,0,,0,,0,,52,52
+20,Bihar,Muzaffarpur,,89,89,-5,84,17,101,-101,,80,80
+21,Bihar,Patna,,0,,0,,0,,0,,73,73
+22,Chandigarh,Chandigarh,123,-60,64,-14,50,13,63,-3,60,-11,49
+23,Chattisgarh,Durg-Bhillainagar,,0,,0,,42,42,-11,31,0,31
+24,Chattisgarh,Korba,,0,,19,19,11,30,-11,19,-19,
+25,Chattisgarh,Raipur,,0,,0,,0,,0,,35,35
+26,Delhi,Delhi,118,-17,101,20,121,-16,105,10,115,-8,107
+27,Gujarat,Ahmedabad,34,4,38,35,73,-36,37,-9,28,18,46
+28,Gujarat,Rajkot,32,5,37,28,64,-29,35,-9,27,4,30
+29,Gujarat,Surat,31,4,35,21,56,-16,40,-3,37,-2,35
+30,Gujarat,Vadodara,30,6,36,24,60,-23,37,-10,27,3,30
+31,Himachal Pradesh,Baddi,,0,,0,,0,,0,,45,45
+32,Himachal Pradesh,Damtal,,0,,26,26,-6,21,-21,,33,33
+33,Himachal Pradesh,Kala Amb,,0,,53,53,16,69,-32,37,15,51
+34,Himachal Pradesh,Nalagarh,,0,,0,,0,,0,,29,29
+35,Himachal Pradesh,Paonta Sahib,,0,,51,51,-12,39,0,39,5,44
+36,Himachal Pradesh,Parwanoo,,20,20,-7,13,6,19,-9,10,1,11
+37,Himachal Pradesh,Sunder Nagar,,41,41,6,47,-9,38,-38,,23,23
+38,Jammu & Kashmir,Jammu,,0,,45,45,-8,37,-4,33,-2,31
+39,Jammu & Kashmir,Srinagar,,0,,0,,0,,0,,32,32
+40,Jharkhand,Dhanbad,,0,,0,,0,,0,,0,
+41,Jharkhand,Jamshedpur,,0,,0,,0,,0,,0,
+42,Jharkhand,Ranchi,,0,,0,,0,,0,,105,105
+43,Karnataka,Bangalore,51,-5,46,1,47,-15,32,-32,,31,31
+44,Karnataka,Devanagere,,22,22,-5,18,-2,16,-5,11,4,15
+45,Karnataka,Gulbarga,,0,,41,41,5,46,-46,,42,42
+46,Karnataka,Hubli-Dharwad,36,-1,35,-9,26,-4,22,-6,17,13,29
+47,Madhya Pradesh,Bhopal,27,15,42,17,59,-11,48,-48,,45,45
+48,Madhya Pradesh,Dewas,,0,,49,49,-3,46,-7,39,-2,37
+49,Madhya Pradesh,Gwalior,52,-5,48,15,63,-5,58,-5,53,-3,50
+50,Madhya Pradesh,Indore,53,-10,44,-2,41,-4,37,-4,33,11,44
+51,Madhya Pradesh,Jabalpur,32,-9,23,20,43,-43,,31,31,13,44
+52,Madhya Pradesh,Sagar,30,-5,25,5,30,-11,19,4,23,12,34
+53,Madhya Pradesh,Ujjain,44,-6,38,-3,34,4,39,-5,34,8,42
+54,Maharashtra,Akola,,0,,0,,0,,0,,0,
+55,Maharashtra,Amravati,,0,,0,,0,,0,,0,
+56,Maharashtra,Aurangabad,,0,,0,,0,,0,,34,34
+57,Maharashtra,Badlapur,,0,,0,,0,,0,,0,
+58,Maharashtra,Chandrapur,,0,,0,,0,,0,,44,44
+59,Maharashtra,Jalgaon,,0,,0,,0,,0,,0,
+60,Maharashtra,Jalna,,0,,0,,0,,0,,0,
+61,Maharashtra,Kolhapur,,0,,0,,0,,0,,0,
+62,Maharashtra,Latur,,0,,0,,0,,0,,0,
+63,Maharashtra,Mumbai,,0,,46,46,-6,40,-40,,47,47
+64,Maharashtra,Nagpur,,0,,44,44,-5,39,-39,,36,36
+65,Maharashtra,Nashik,,0,,0,,0,,0,,40,40
+66,Maharashtra,Navi Mumbai,,0,,0,,0,,0,,52,52
+67,Maharashtra,Pune,,0,,0,,0,,0,,45,45
+68,Maharashtra,Sangli,,0,,0,,0,,0,,0,
+69,Maharashtra,Solapur,,0,,0,,0,,0,,36,36
+70,Maharashtra,Thane,,0,,0,,0,,0,,0,
+71,Maharashtra,Ulhasnagar,,0,,0,,0,,0,,0,
+72,Maharashtra,Vasai-Virar,,0,,0,,0,,0,,0,
+73,Meghalaya,Byrnihat,,0,,0,,7,7,31,38,-8,30
+74,Nagaland,Dimapur,,0,,0,,0,,0,,0,
+75,Nagaland,Kohima,,0,,0,,0,,0,,33,33
+76,Orissa,Angul,,46,46,4,50,-2,48,-12,36,1,36
+77,Orissa,Balasore,47,-2,45,2,47,-1,46,-6,40,4,44
+78,Orissa,Bhubaneswar,36,0,36,-4,32,-2,29,-29,,36,36
+79,Orissa,Cuttack,42,1,43,7,50,-3,47,-4,42,-7,35
+80,Orissa,Kalinga Nagar,46,11,57,1,58,-58,,0,,68,68
+81,Orissa,Rourkela,45,-2,42,4,46,1,47,-13,34,14,48
+82,Orissa,Talcher,35,10,45,5,50,-4,47,-10,37,4,40
+83,Punjab,Amritsar,,0,,0,,0,,0,,51,51
+84,Punjab,Dera Baba Nanak,,0,,0,,0,,0,,0,
+85,Punjab,Dera Bassi,,0,,0,,0,,0,,0,
+86,Punjab,Gobindgarh,,0,,0,,0,,0,,63,63
+87,Punjab,Jalandhar,,0,,0,,0,,0,,55,55
+88,Punjab,Khanna,,0,,0,,0,,0,,49,49
+89,Punjab,Ludhiana,,0,,0,,0,,0,,54,54
+90,Punjab,Naya Nangal,,0,,0,,0,,0,,0,
+91,Punjab,Patiala,,0,,0,,0,,0,,50,50
+92,Rajasthan,Alwar,,0,,0,,0,,0,,43,43
+93,Rajasthan,Jaipur,,0,,0,,0,,0,,58,58
+94,Rajasthan,Jodhpur,,0,,0,,0,,0,,75,75
+95,Rajasthan,Kota,,0,,0,,0,,0,,60,60
+96,Rajasthan,Udaipur,,0,,0,,0,,0,,55,55
+97,Tamil Nadu,Chennai,,32,32,2,34,2,36,-12,24,2,26
+98,Tamil Nadu,Madurai,,30,30,5,35,-3,32,-32,,25,25
+99,Tamil Nadu,Trichy,,0,,53,53,-7,46,-20,26,-7,19
+100,Tamil Nadu,Tuticorin,,0,,25,25,-2,23,-23,,21,21
+101,Telangana,Hyderabad,49,4,54,1,55,-15,40,-40,,39,39
+102,Telangana,Nalgonda,35,1,36,13,49,-11,38,-38,,28,28
+103,Telangana,Patancheru,33,-2,31,6,37,4,41,-41,,34,34
+104,Telangana,Sangareddy,,37,37,3,39,4,44,-8,36,9,45
+105,Uttar Pradesh,Agra,,124,124,-18,106,4,110,2,112,-27,85
+106,Uttar Pradesh,Allahabad,,0,,0,,0,,0,,53,53
+107,Uttar Pradesh,Anpara,,0,,0,,0,,0,,0,
+108,Uttar Pradesh,Bareily,,0,,0,,28,28,-1,27,-27,
+109,Uttar Pradesh,Firozabad,,0,,0,,0,,0,,0,
+110,Uttar Pradesh,Gajraula,,0,,0,,0,,0,,0,
+111,Uttar Pradesh,Ghaziabad,,0,,103,103,16,119,-17,103,7,110
+112,Uttar Pradesh,Gorakhpur,,0,,0,,0,,0,,0,
+113,Uttar Pradesh,Jhansi,,0,,0,,0,,0,,0,
+114,Uttar Pradesh,Kanpur,,0,,83,83,-17,66,-26,40,31,71
+115,Uttar Pradesh,Khurja,,0,,0,,0,,0,,0,
+116,Uttar Pradesh,Lucknow,,102,102,6,108,-108,,0,,80,80
+117,Uttar Pradesh,Meerut,,0,,0,,0,,0,,86,86
+118,Uttar Pradesh,Moradabad,,0,,0,,0,,0,,95,95
+119,Uttar Pradesh,Noida,,0,,119,119,-14,105,7,112,-13,99
+120,Uttar Pradesh,Raebareli,,0,,0,,0,,0,,0,
+121,Uttar Pradesh,Varanasi,,0,,0,,0,,0,,60,60
+122,Uttarakhand,Dehradun,,0,,0,,0,,82,82,8,89
+123,Uttarakhand,Kashipur,,0,,0,,0,,0,,62,62
+124,Uttarakhand,Rishikesh,,0,,0,,0,,0,,76,76
+125,West Bengal,Asansol,88,-21,67,-9,58,23,81,-16,65,-6,59
+126,West Bengal,Barrackpore,58,-14,44,0,44,22,66,-17,49,5,54
+127,West Bengal,Durgapur,,69,69,2,71,2,73,-16,57,21,78
+128,West Bengal,Faridabad,,0,,0,,0,,0,,98,98
+129,West Bengal,Haldia,,35,35,-2,33,2,35,9,44,-3,41
+130,West Bengal,Howrah,69,-2,67,30,97,-29,68,-3,66,12,77
+131,West Bengal,Kolkata,,71,71,16,86,-30,56,-4,52,-4,48
+132,West Bengal,Raniganj,,0,,0,,0,,0,,0,

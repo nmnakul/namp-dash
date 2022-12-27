@@ -37,7 +37,8 @@
         { key: "2017", value: "2017"},
         { key: "2018", value: "2018"},
         { key: "2019", value: "2019"},
-        { key: "2020", value: "2020"}
+        { key: "2020", value: "2020"},
+        { key: "2021", value: "2021"}
       ]}
         bind:selectedRowIds={dtSelectedRowIds}
         {pageSize}
@@ -58,9 +59,9 @@
         <!-- CONTROL OPTION CUSTOMIZATION -->
         <div class="flex items-center" slot="cell" let:row let:cell>
         {#if cell.value}
-            {#if (cell.key == "2017" && Number(row['2017-gap']) > 0) || (cell.key == "2018" && Number(row['2018-gap']) > 0) || (cell.key == "2019" && Number(row['2019-gap']) > 0) || (cell.key == "2020" && Number(row['2020-gap']) > 0)}
+            {#if (cell.key == "2017" && Number(row['2017-gap']) > 0) || (cell.key == "2018" && Number(row['2018-gap']) > 0) || (cell.key == "2019" && Number(row['2019-gap']) > 0) || (cell.key == "2020" && Number(row['2020-gap']) > 0)  || (cell.key == "2021" && Number(row['2021-gap']) > 0)}
               <div class="w-8">{cell.value}</div><div style="font-size: 1rem; color: tomato; padding: 0 5px;"><Fa icon={faArrowUp}/></div>
-            {:else if (cell.key == "2017" && Number(row['2017-gap']) < 0) || (cell.key == "2018" && Number(row['2018-gap']) < 0) || (cell.key == "2019" && Number(row['2019-gap']) < 0) || (cell.key == "2020" && Number(row['2020-gap']) < 0)}
+            {:else if (cell.key == "2017" && Number(row['2017-gap']) < 0) || (cell.key == "2018" && Number(row['2018-gap']) < 0) || (cell.key == "2019" && Number(row['2019-gap']) < 0) || (cell.key == "2020" && Number(row['2020-gap']) < 0)  || (cell.key == "2021" && Number(row['2021-gap']) < 0)}
             <div class="w-8">{cell.value}</div><div style="font-size: 1rem; color: forestgreen; padding: 0 5px;"><Fa icon={faArrowDown}/></div>
             {:else}
               {cell.value}
