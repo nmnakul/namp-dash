@@ -12431,7 +12431,7 @@
    "srno": 72,
    "state": "Maharashtra",
    "city": "Vasai-Virar",
-   "pm10": "#DIV/0!",
+   "pm10": null,
    "monitors-pm10": null,
    "readings-pm10": null,
    "ideal-pm10": null,

@@ -70,7 +70,7 @@ id,state,city,2016,2017-gap,2017,2018-gap,2018,2019-gap,2019,2020-gap,2020,2021-
 69,Maharashtra,Solapur,74,-10,64,7,71,3,74,-15,60,13,72
 70,Maharashtra,Thane,122,3,125,-18,107,-13,95,-12,83,52,135
 71,Maharashtra,Ulhasnagar,118,32,150,-27,123,6,129,-65,64,17,81
-72,Maharashtra,Vasai-Virar,,0,,0,,0,,0,,#DIV/0!,#DIV/0!
+72,Maharashtra,Vasai-Virar,,0,,0,,0,,0,,,
 73,Meghalaya,Byrnihat,175,-1,174,-8,166,-63,103,10,113,113,226
 74,Nagaland,Dimapur,122,17,138,-4,135,-57,77,1,78,10,88
 75,Nagaland,Kohima,90,25,114,-10,105,-10,95,-9,86,-9,77

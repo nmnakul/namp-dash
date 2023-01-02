@@ -1,4 +1,4 @@
-id,srno,state,city,pm10,monitors-p10,readings-pm10,ideal-pm10,percent-pm10,pm25,monitors-pm25,readings-pm25,ideal-pm25,percent-pm25,year
+id,srno,state,city,pm10,monitors-pm10,readings-pm10,ideal-pm10,percent-pm10,pm25,monitors-pm25,readings-pm25,ideal-pm25,percent-pm25,year
 1,1,Andhra Pradesh,Anantapur,85,1,106,104,102,,0,0,0,0,2016
 2,2,Andhra Pradesh,Chitoor,62,2,214,208,103,,0,0,0,0,2016
 3,3,Andhra Pradesh,Eluru,70,1,108,104,104,,0,0,0,0,2016
@@ -730,7 +730,7 @@ id,srno,state,city,pm10,monitors-p10,readings-pm10,ideal-pm10,percent-pm10,pm25,
 729,69,Maharashtra,Solapur,72,,,,0,36,,,,0,2021
 730,70,Maharashtra,Thane,135,,,,0,,,,,0,2021
 731,71,Maharashtra,Ulhasnagar,81,,,,0,,,,,0,2021
-732,72,Maharashtra,Vasai-Virar,#DIV/0!,,,,0,,,,,0,2021
+732,72,Maharashtra,Vasai-Virar,,,,,0,,,,,0,2021
 733,73,Meghalaya,Byrnihat,226,,,,0,30,,,,0,2021
 734,74,Nagaland,Dimapur,88,,,,0,,,,,0,2021
 735,75,Nagaland,Kohima,77,,,,0,33,,,,0,2021
